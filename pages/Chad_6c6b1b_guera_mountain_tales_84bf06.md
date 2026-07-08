@@ -1,0 +1,804 @@
+---
+level: 2
+basename: Chad_6c6b1b_guera_mountain_tales_84bf06
+parent_basename: Chad_6c6b1b
+child_basenames: []
+sibling_basenames:
+- Chad_6c6b1b_joseph_brahim_seid_t_2482f1
+- Chad_6c6b1b_lake_chad_sao_legend_7bf7b2
+tags:
+- chad
+- guera-tales
+keywords:
+- chad
+- guera-tales
+affiliate_category: chad
+show_ads: true
+description: Guera traditions link mountains, night storytelling and ancestral spirituality to moral tales rooted in the landscape.
+hero_summary: Guera traditions link mountains, night storytelling and ancestral spirituality to moral tales rooted in the landscape.
+layout: default
+permalink: /guera-tales/
+sidebar_expanded_urls:
+- /where-chads-stories-live-under-the-stars/
+nav_short_title: Guera Tales
+title: Why Do Guera Mountains Feel Sacred?
+title_full: Why Do Guera Mountains Feel Sacred?
+display_title_short: Guera Tales
+display_title: Guera Tales
+heading_title: Why Do Guera Mountains Feel Sacred?
+page_heading_title: Why Do Guera Mountains Feel Sacred?
+source_count: 28
+infographic_count: 3
+planned_sections:
+- Mountains as sacred story places
+- Night time tales, morals and social conduct
+- Animals, food and everyday wonder in Guera stories
+focal_unit_type: entity
+topic_lens: mechanism
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 14:17:07'
+parent_title: Chad Folklore
+parent_permalink: /where-chads-stories-live-under-the-stars/
+parent_nav_short_title: Chad Folklore
+parent_heading_title: Where Chad's Stories Live Under the Stars
+ancestor_links:
+- basename: Chad_6c6b1b
+  title: Chad Folklore
+  permalink: /where-chads-stories-live-under-the-stars/
+  short_title: Chad Folklore
+breadcrumb_links:
+- basename: Chad_6c6b1b
+  title: Chad Folklore
+  permalink: /where-chads-stories-live-under-the-stars/
+  short_title: Chad Folklore
+sibling_links:
+- basename: Chad_6c6b1b_lake_chad_sao_legend_7bf7b2
+  title: Lake Chad | Where Chad's Stories Live Under the Stars
+  permalink: /lake-chad/
+  short_title: Lake Chad
+  heading_title: Were the Sao Giants History or Legend?
+- basename: Chad_6c6b1b_joseph_brahim_seid_t_2482f1
+  title: Seid Tales | Where Chad's Stories Live Under the Stars
+  permalink: /seid-tales/
+  short_title: Seid Tales
+  heading_title: How Did Chadian Folktales Enter Print?
+up_link:
+  basename: Chad_6c6b1b
+  title: Chad Folklore
+  permalink: /where-chads-stories-live-under-the-stars/
+  short_title: Chad Folklore
+next_link:
+  basename: Chad_6c6b1b_lake_chad_sao_legend_7bf7b2
+  title: Lake Chad | Where Chad's Stories Live Under the Stars
+  permalink: /lake-chad/
+  short_title: Lake Chad
+  heading_title: Were the Sao Giants History or Legend?
+header:
+  og_image: /assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-1-social.jpg
+  preview_image: /assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-1.webp
+image: /assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The Guéra region of central Chad is one of the places where landscape and folklore are most closely intertwined. Rising above the surrounding plains, the Guéra mountains are not simply dramatic landmarks in local tradition. They are remembered as places of ancestral presence, spiritual power, moral instruction and community identity. Across the region's many ethnic communities, stories told after dark have long linked rocky hills, hidden valleys and mountain peaks with lessons about proper behaviour, respect for elders, courage, generosity and the unseen forces believed to watch over the land. While many traditions have changed through the spread of Islam, Christianity and modern life, the idea that mountains are special places connected to ancestry remains an important thread in Guéra cultural memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistetchadienne.org">[artistetchadienne.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistetchadienne.org</span><span class="citation-popover-title">Like everywhere in Africa, in Chad the tales are told orally.Read more</span><span class="citation-popover-snippet">Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-1-dark.svg" | relative_url }}" alt="Guera Tales illustration 1" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+
+## Why Do Guera Mountains Feel Sacred?
+
+The Guéra massif dominates the centre of the region and has shaped settlement patterns for centuries. Many communities traditionally lived among the hills and rocky outcrops, where the landscape offered both protection and a strong sense of belonging. In local belief systems, mountains were often understood as more than physical features. They could mark the territory of particular groups, serve as meeting points between the living and the ancestral world, and act as repositories of collective memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.opendemocracy.net/en/memories-and-legacies-of-enslavement-in-chad/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opendemocracy.net">[openDemocracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opendemocracy.net</span><span class="citation-popover-title">memories and legacies of enslavement in chad</span><span class="citation-popover-snippet">Memories and legacies of enslavement in Chad19 Jul 2016 — The Hadjiray of pre-colonial Guéra were not Muslim, but used to be...</span></span></span>
+
+Historical research on the Hadjarai peoples of Guéra records traditions centred on mountain spirits and ancestral relationships to the land. Before the region's gradual Islamisation, ownership and legitimacy were closely connected to beliefs about spiritual beings associated with mountains. The right to occupy certain lands was not merely political; it was linked to ancestral ties and sacred relationships with the landscape itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.opendemocracy.net/en/memories-and-legacies-of-enslavement-in-chad/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opendemocracy.net">[openDemocracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opendemocracy.net</span><span class="citation-popover-title">memories and legacies of enslavement in chad</span><span class="citation-popover-snippet">Memories and legacies of enslavement in Chad19 Jul 2016 — The Hadjiray of pre-colonial Guéra were not Muslim, but used to be...</span></span></span>
+
+These traditions help explain why mountains appear so frequently in Guéra storytelling. Rather than serving as a distant backdrop, the mountains function as active participants in narrative life. They are places where people encounter mystery, receive warnings, test their character or discover hidden knowledge.
+
+## Mountains as Sacred Story Places
+
+Many African folklore traditions attach stories to rivers, forests or caves. In Guéra, mountains often fill that role. Oral narratives frequently treat particular peaks, rocky passages and isolated upland areas as places where ordinary rules become uncertain and where human beings must behave with special care.
+
+The sacred quality of these places comes from several overlapping ideas:
+
+* **Ancestral presence:** Mountains are associated with earlier generations whose influence remains part of community life.
+* **Spiritual guardianship:** Older traditions describe invisible forces connected to particular locations.
+* **Collective memory:** Important historical events, migrations and clan histories become attached to specific landmarks.
+* **Moral testing:** Characters who ignore warnings or show arrogance in sacred places often face consequences in stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistetchadienne.org">[artistetchadienne.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistetchadienne.org</span><span class="citation-popover-title">Like everywhere in Africa, in Chad the tales are told orally.Read more</span><span class="citation-popover-snippet">Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</span></span></span>
+
+Evidence from the wider [Lake Chad]({{ 'lake-chad/' | relative_url }}) region shows that ancestral rituals and clan commemorations were often linked to rocky heights and sacred mountains, suggesting that elevated landscapes held special religious significance across several neighbouring cultural traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beer-studies.com/documents-pdf/Ch.Berger-African_beer_history_around_Lake_Chad-2022-EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beer-studies.com">[beer-studies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beer-studies.com</span><span class="citation-popover-snippet">African beer history around Lake ChadSecondly, the ancestors common to several clans are honoured in the same way. Their altars are locat...</span></span></span>
+
+For folklore, the key point is not whether every listener believed exactly the same thing. Rather, sacred mountains provided a shared language through which communities discussed belonging, responsibility and respect for inherited traditions.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JiDpC-6ah6k" title="Nobody Sleeps At Night In This Village... #africanfolktales #storytime #folklore #story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JiDpC-6ah6k" target="_blank" rel="noopener noreferrer">Nobody Sleeps At Night In This Village... #africanfolktales #storytime #folklore #story</a></p><p class="youtube-embed-meta">Channel: DEBAY TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JiDpC-6ah6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JiDpC-6ah6k">Open on YouTube</a></p></div></div></div>
+
+## Night-Time Tales, Morals and Social Conduct
+
+One of the most distinctive features of Guéra folklore is the importance of evening storytelling. Traditional tales are commonly associated with gatherings after sunset, when work has ended and families can listen together. According to contemporary Guéra cultural projects, these stories are not merely entertainment. They are vehicles for teaching social conduct and preserving cultural knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistetchadienne.org">[artistetchadienne.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistetchadienne.org</span><span class="citation-popover-title">Like everywhere in Africa, in Chad the tales are told orally.Read more</span><span class="citation-popover-snippet">Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</span></span></span>
+
+In many tales, listeners encounter familiar moral themes:
+
+
+<div class="content-enhancement content-enhancement--benefit" markdown="1">
+
+* Pride leading to downfall.
+* Greed producing unexpected losses.
+* Respect for elders bringing rewards.
+* Cooperation succeeding where selfishness fails.
+* Wisdom proving more valuable than physical strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistetchadienne.org">[artistetchadienne.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistetchadienne.org</span><span class="citation-popover-title">Like everywhere in Africa, in Chad the tales are told orally.Read more</span><span class="citation-popover-snippet">Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</span></span></span>
+
+</div>
+
+The mountain setting often strengthens these lessons. A traveller crossing a ridge, a hunter entering a secluded valley or a family settling near a sacred hill may encounter challenges that reveal their true character. The landscape becomes a moral stage where choices carry consequences.
+
+This educational role helps explain why such stories remained important across generations. They offered a memorable way to discuss behaviour, community expectations and relationships between young and old without relying on formal instruction.
+
+
+
+<img src="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-2-dark.svg" | relative_url }}" alt="Guera Tales illustration 2" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Animals, Food and Everyday Wonder in Guera Stories
+
+Guéra tales are notable for combining spiritual themes with ordinary details of daily life. Modern presentations of regional folklore emphasise how stories draw on local animals, food traditions, farming practices and mountain environments. The result is a folklore that feels grounded in lived experience rather than separated from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistetchadienne.org">[artistetchadienne.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistetchadienne.org</span><span class="citation-popover-title">Like everywhere in Africa, in Chad the tales are told orally.Read more</span><span class="citation-popover-snippet">Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</span></span></span>
+
+Animals frequently act as clever tricksters, foolish rivals or unexpected teachers. Their behaviour mirrors human strengths and weaknesses. Through animal characters, storytellers can discuss rivalry, deception, generosity and intelligence in ways that are entertaining and easy to remember.
+
+Food also appears as more than a practical necessity. Meals, harvests and shared resources often become symbols of social relationships. A character's willingness to share food may reveal virtue, while hoarding or wastefulness can signal moral failure.
+
+What makes Guéra storytelling distinctive is the way these everyday elements coexist with a sense of wonder. A familiar mountain path may suddenly become the setting for an encounter with ancestral forces. An ordinary journey for food or water may reveal hidden wisdom. The supernatural is rarely detached from ordinary life; it emerges from the same landscape people inhabit every day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistetchadienne.org">[artistetchadienne.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistetchadienne.org</span><span class="citation-popover-title">Like everywhere in Africa, in Chad the tales are told orally.Read more</span><span class="citation-popover-snippet">Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xS55x0-7C3Q" title="She Went to the River Alone at Night — What She Saw Will Haunt You #Africanfolktales #Africantales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xS55x0-7C3Q" target="_blank" rel="noopener noreferrer">She Went to the River Alone at Night — What She Saw Will Haunt You #Africanfolktales #Africantales</a></p><p class="youtube-embed-meta">Channel: African Folktales by Muna</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xS55x0-7C3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xS55x0-7C3Q">Open on YouTube</a></p></div></div></div>
+
+## Ancestral Spirituality and Changing Beliefs
+
+Modern Guéra is religiously diverse, and many communities today identify as Muslim or Christian. Yet older ideas about ancestors and sacred places have not simply vanished. Instead, they often survive as cultural memory, local custom or inherited storytelling themes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.opendemocracy.net/en/memories-and-legacies-of-enslavement-in-chad/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opendemocracy.net">[openDemocracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opendemocracy.net</span><span class="citation-popover-title">memories and legacies of enslavement in chad</span><span class="citation-popover-snippet">Memories and legacies of enslavement in Chad19 Jul 2016 — The Hadjiray of pre-colonial Guéra were not Muslim, but used to be...</span></span></span>
+
+Contemporary descriptions of Guéra folklore still refer to the mystery of ancestral spirituality as one of the region's defining narrative themes. This does not necessarily mean that all stories are treated as literal truth. Rather, ancestral figures continue to provide a framework for understanding identity, continuity and the relationship between people and place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistetchadienne.org">[artistetchadienne.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistetchadienne.org</span><span class="citation-popover-title">Like everywhere in Africa, in Chad the tales are told orally.Read more</span><span class="citation-popover-snippet">Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</span></span></span>
+
+The result is a layered tradition. A storyteller may belong to a Muslim or Christian family while still recounting narratives shaped by much older ideas about sacred mountains and ancestral presence. Folklore becomes a bridge between different periods of Guéra history.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1VNAaSAs4TY" title="Pourquoi l&#x27;amitié ne survit pas au vol ? Un conte ancestral du Guera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1VNAaSAs4TY" target="_blank" rel="noopener noreferrer">Pourquoi l&#x27;amitié ne survit pas au vol ? Un conte ancestral du Guera</a></p><p class="youtube-embed-meta">Channel: Zarlinga animations</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1VNAaSAs4TY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1VNAaSAs4TY">Open on YouTube</a></p></div></div></div>
+
+## What These Tales Reveal About Guéra
+
+Guéra mountain folklore is ultimately less concerned with monsters or spectacular supernatural events than with relationships. The stories connect people to their ancestors, communities to their landscape and moral values to memorable narratives. Mountains matter because they are seen as enduring witnesses to human life, standing above generations of settlement, migration and cultural change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.opendemocracy.net/en/memories-and-legacies-of-enslavement-in-chad/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opendemocracy.net">[openDemocracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opendemocracy.net</span><span class="citation-popover-title">memories and legacies of enslavement in chad</span><span class="citation-popover-snippet">Memories and legacies of enslavement in Chad19 Jul 2016 — The Hadjiray of pre-colonial Guéra were not Muslim, but used to be...</span></span></span>
+
+For readers exploring Chad's folklore, Guéra offers a particularly clear example of how stories grow directly from place. The mountains are not simply scenery. They are sacred story places where memory, morality and ancestral identity meet, helping explain why the region's oral traditions remain among the most distinctive elements of Chadian folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: artistetchadienne.org">[artistetchadienne.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">artistetchadienne.org</span><span class="citation-popover-title">Like everywhere in Africa, in Chad the tales are told orally.Read more</span><span class="citation-popover-snippet">Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-3-dark.svg" | relative_url }}" alt="Guera Tales illustration 3" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_guera_mountain_tales_84bf06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Guera Mountains Feel Sacred?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Landscape+and+Memory+by+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Landscape and Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZoO0AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Landscape and Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Landscape+and+Memory+by+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Landscape and Memory">Landscape and Memory</a>
+</h4>
+<p class="fr-book-author">By Simon Schama</p>
+        
+<p class="fr-book-desc">Directly fits sacred places and memory attached to mountains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Landscape+and+Memory+by+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sacred+and+the+Profane+by+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sacred and the Profane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zBzzv977CLgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sacred and the Profane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sacred+and+the+Profane+by+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred and the Profane">The Sacred and the Profane</a>
+</h4>
+<p class="fr-book-author">By Mircea Eliade</p>
+        
+<p class="fr-book-desc">Explains how landscapes become spiritually meaningful.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sacred+and+the+Profane+by+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Folktales+by+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xyG1AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for African Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+Folktales+by+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Folktales">African Folktales</a>
+</h4>
+<p class="fr-book-author">By Roger D. Abrahams</p>
+        
+<p class="fr-book-desc">Supports animal tales, morals, and oral storytelling themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+Folktales+by+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
+</h4>
+<p class="fr-book-author">By John S. Mbiti</p>
+        
+<p class="fr-book-desc">Provides context for ancestral and spiritual relationships with land.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Landscape+and+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Landscape and Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sacred+and+the+Profane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sacred and the Profane</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fire Mountain Sacred Geometry in a Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/697ea3d90071dec12acd.jpg' | relative_url }}" alt="Listing image for Fire Mountain Sacred Geometry in a Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer">Fire Mountain Sacred Geometry in a Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sacred mountain wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: sacred mountain wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sacred Mountain at Dawn Japandi Framed Wall Art Canvas Print Home Decor Picture"><img src="{{ '/assets/images/marketplace-covers/54edab4e41567126099f.jpg' | relative_url }}" alt="Listing image for Sacred Mountain at Dawn Japandi Framed Wall Art Canvas Print Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer">Sacred Mountain at Dawn Japandi Framed Wall Art Canvas Print Home Decor Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sacred mountain wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: sacred mountain wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sacred Mountain in Crimson Japandi Canvas Wall Art Home Decor Ready to Hang"><img src="{{ '/assets/images/marketplace-covers/33c4ea2f4c47f35d614c.jpg' | relative_url }}" alt="Listing image for Sacred Mountain in Crimson Japandi Canvas Wall Art Home Decor Ready to Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer">Sacred Mountain in Crimson Japandi Canvas Wall Art Home Decor Ready to Hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sacred mountain wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: sacred mountain wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mount Fuji Lake Kawaguchi Japan Sacred Volcano Mountain Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/3a7a805de15b0d8e41dd.jpg' | relative_url }}" alt="Listing image for Mount Fuji Lake Kawaguchi Japan Sacred Volcano Mountain Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mount Fuji Lake Kawaguchi Japan Sacred Volcano Mountain Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sacred mountain wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: sacred mountain wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sacred+mountain+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sacred mountain wall art" data-ebay-reference="guera-tales-why-do-guera-mountains-feel-sacred-chad-sacred-mountain-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: artistetchadienne.org  
+   Title: Like everywhere in Africa, in Chad the tales are told orally.Read more  
+   Link:<a href="https://www.artistetchadienne.org/african-tales-in-cartoon-form" target="_blank" rel="noopener noreferrer nofollow">https://www.artistetchadienne.org/african-tales-in-cartoon-form</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Follktales of Guera - Artiste Tchadienne9 Nov 2024 — Folktales from Guera are centuries-old, original and overflowing with imagination...</p></details>
+
+2.<a id="endnote-2"></a>
+   Source: opendemocracy.net  
+   Title: memories and legacies of enslavement in chad  
+   Link:<a href="https://www.opendemocracy.net/en/memories-and-legacies-of-enslavement-in-chad/" target="_blank" rel="noopener noreferrer nofollow">https://www.opendemocracy.net/en/memories-and-legacies-of-enslavement-in-chad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memories and legacies of enslavement in Chad19 Jul 2016 — The Hadjiray of pre-colonial Guéra were not Muslim, but used to be...</p></details>
+
+3.<a id="endnote-3"></a>
+   Source: beer-studies.com  
+   Link:<a href="https://beer-studies.com/documents-pdf/Ch.Berger-African_beer_history_around_Lake_Chad-2022-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://beer-studies.com/documents-pdf/Ch.Berger-African_beer_history_around_Lake_Chad-2022-EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>African beer history around Lake ChadSecondly, the ancestors common to several clans are honoured in the same way. Their altars are locat...</p></details>
+
+### Additional References
+
+4.<a id="endnote-4"></a>
+   Source: ich.unesco.org  
+   Link:<a href="https://ich.unesco.org/en/RL/ancestral-system-of-knowledge-of-the-four-indigenous-peoples-arhuaco-kankuamo-kogui-and-wiwa-of-the-sierra-nevada-de-santa-marta-01886" target="_blank" rel="noopener noreferrer nofollow">https://ich.unesco.org/en/RL/ancestral-system-of-knowledge-of-the-four-indigenous-peoples-arhuaco-kankuamo-kogui-and-wiwa-of-the-sierra-nevada-de-santa-marta-01886</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>system of knowledge of the four indigenous...The Ancestral System of Knowledge of the Arhuaco, Kankuamo, Kogui and Wiwa peoples of the S...</p></details>
+
+5.<a id="endnote-5"></a>
+   Source: omc.obta.al.uw.edu.pl  
+   Link:<a href="https://www.omc.obta.al.uw.edu.pl/myth-survey/country/43" target="_blank" rel="noopener noreferrer nofollow">https://www.omc.obta.al.uw.edu.pl/myth-survey/country/43</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uw.edu.plCountry: Chad | Our Mythical Childhood SurveyThe myth goes that one day among the Mundang people the chief&#x27;s daughters decided t...</p></details>
+
+6.<a id="endnote-6"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=1VNAaSAs4TY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1VNAaSAs4TY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hare and the Crowned Crane – A wonderful African tale...#AfricanTale #TalesInFrench #GueraTale This African tale, The Hare and the C...</p></details>
+
+7.<a id="endnote-7"></a>
+   Source: everyculture.com  
+   Title: The various ethnic cultures have their own traditions of oral literature,  
+   Link:<a href="https://www.everyculture.com/Bo-Co/Chad.html" target="_blank" rel="noopener noreferrer nofollow">https://www.everyculture.com/Bo-Co/Chad.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Culture of Chad - history, people, clothing, traditions...Chad is basically a large plain, with some mountain ranges, including the Guéra...</p></details>
+
+8.<a id="endnote-8"></a>
+   Source: researchgate.net  
+   Title: (PDF) Indigenous Voices in the Sustainability Discourse  
+   Link:<a href="https://www.researchgate.net/publication/372479033_Indigenous_Voices_in_the_Sustainability_Discourse_Spirituality_and_the_struggle_for_a_better_quality_of_life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372479033_Indigenous_Voices_in_the_Sustainability_Discourse_Spirituality_and_the_struggle_for_a_better_quality_of_life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This book is the outcome of a research program conducted by an international and multidisciplinary team of 20 scholars on the relation be...</p></details>
+
+9.<a id="endnote-9"></a>
+   Source: mythologicalafricans.substack.com  
+   Link:<a href="https://mythologicalafricans.substack.com/p/kotoko-chad-folklore" target="_blank" rel="noopener noreferrer nofollow">https://mythologicalafricans.substack.com/p/kotoko-chad-folklore</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Chad) Folklore - Mythological Africans - SubstackIn this episode, we discuss folklore from the Kotoko people in Chad...</p></details>
+
+10.<a id="endnote-10"></a>
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/reel/DaOE-3JjAUm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DaOE-3JjAUm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>plores how Indigenous contemplative wisdom can deepen our relationship...</p></details>
+
+11.<a id="endnote-11"></a>
+   Source: facebook.com  
+   Title: Celebrating natural beauty in Chad 🇹🇩 Africa  
+   Link:<a href="https://www.facebook.com/TypicalAfrican1/posts/celebrating-natural-beauty-in-chad-africa-africa-chad/1260964942701461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TypicalAfrican1/posts/celebrating-natural-beauty-in-chad-africa-africa-chad/1260964942701461/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#africa #ChadThe Tibesti Mountains in northern Chad are home to Emi Koussi, the highest peak in the Sahara Desert, reaching an elevation...</p></details>
+
+12.<a id="endnote-12"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/MAFUK/posts/chad-africas-largest-landlocked-nation-an-often-barren-landscape-known-as-the-de/990819233085129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MAFUK/posts/chad-africas-largest-landlocked-nation-an-often-barren-landscape-known-as-the-de/990819233085129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal African religions are also practiced. In almost every ethnic...</p></details>
+
+13.<a id="endnote-13"></a>
+   Source: instagram.com  
+   Link:<a href="https://www.instagram.com/p/DTBIO-IDI9-/?hl=af&amp;img_index=5" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTBIO-IDI9-/?hl=af&amp;img_index=5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>most culturally diverse countries in Central Africa.Read more...</p></details>

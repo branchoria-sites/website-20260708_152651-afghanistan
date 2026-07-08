@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="light">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #a5b4fc;
+    --accent-2: #34d399;
+    --accent-3: #f472b6;
+    --accent-4: #fbbf24;
+    --accent-5: #38bdf8;
+    --accent-6: #c084fc;
+    --accent-7: #f87171;
+    --accent-8: #2dd4bf;
+    --accent-9: #fb923c;
+    --accent-10: #e879f9;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="135.0" y2="135.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svgf7bfcec1-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="svgf7bfcec1-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svgf7bfcec1-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svgf7bfcec1-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="svgf7bfcec1-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svgf7bfcec1-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svgf7bfcec1-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svgf7bfcec1-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svgf7bfcec1-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-weight="700" font-size="63" fill="#0f172a" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Eritrean Evil Eye Protective Hierarchy</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="59" width="1652" height="103" fill="none"/>
+  <g id="DIAGRAM_SCALER" transform="translate(50.3, 33.8) scale(0.95)">
+    <g transform="translate(495.0, 390.0)">
+      <rect id="ITEM_1_BG" x="-375" y="-120" width="750" height="240" rx="22" fill="var(--accent-7)" stroke="var(--accent-1)" stroke-width="2" fill-opacity="1.0"/>
+      <circle cx="-240" cy="0" r="50" fill="var(--accent-1)" opacity="0.15"/>
+      <g transform="translate(-90.0, 0.0)">
+        <text id="ITEM_1_HEAD" text-anchor="start" font-weight="bold" font-size="36" fill="var(--inverse-text)" x="-6.0" y="-84.0" data-bg-id="ITEM_1_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+          <tspan x="-6.0" dy="33.25px">Religious Blessings</tspan>
+        </text>
+        <rect id="ITEM_1_HEAD_FRAME" x="-6" y="-84" width="390" height="50" fill="none"/>
+        <text id="ITEM_1_BODY" text-anchor="start" font-size="24" fill="var(--inverse-text)" x="-8.0" y="-28.0" data-bg-id="ITEM_1_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+          <tspan x="-8.0" dy="36.84px">Seeking spiritual favor</tspan>
+          <tspan x="-8.0" dy="29.90px">from respected religious figures</tspan>
+        </text>
+        <rect id="ITEM_1_BODY_FRAME" x="-8" y="-28" width="460" height="140" fill="none"/>
+      </g>
+      <circle id="ITEM_1_PAD" cx="-245" cy="0.0" r="48" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_1_PAD_INNER" cx="-245" cy="0.0" r="37.44" fill="var(--accent-7)" fill-opacity="0.22"/>
+      <circle cx="-245" cy="0.0" r="38" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_1_ICON" transform="translate(-283, -38)" data-icon-size="76" stroke-dasharray="6 4">
+        <g transform="translate(-5.428571428571431,-5.428571428571429) scale(2.7142857142857144)">
+          <path d="M17.828 6.42573C17.5712 6.52535 17.2919 6.58 17 6.58C16.0884 6.58 15.3013 6.04742 14.9327 5.27646C14.9375 5.33702 14.94 5.39825 14.94 5.46004C14.94 6.72478 13.9147 7.75004 12.65 7.75004C12.1608 7.75004 11.7074 7.59664 11.3353 7.33531C11.5966 7.70738 11.75 8.16077 11.75 8.64999C11.75 9.91472 10.7248 10.94 9.46004 10.94C9.39825 10.94 9.33702 10.9375 9.27646 10.9327C10.0474 11.3013 10.58 12.0884 10.58 13C10.58 13.9217 10.0354 14.7162 9.25048 15.0794C9.31949 15.0731 9.3894 15.0699 9.46004 15.0699C10.7248 15.0699 11.75 16.0952 11.75 17.3599C11.75 17.8493 11.5966 18.3027 11.3351 18.6749C11.7072 18.4135 12.1607 18.26 12.65 18.26C13.9147 18.26 14.94 19.2853 14.94 20.55C14.94 21.8147 13.9147 22.84 12.65 22.84C11.3853 22.84 10.36 21.8147 10.36 20.55C10.36 20.0607 10.5135 19.6072 10.7749 19.2351C10.4028 19.4965 9.94933 19.6499 9.46004 19.6499C8.19531 19.6499 7.17004 18.6247 7.17004 17.3599C7.17004 16.4382 7.71461 15.6437 8.49956 15.2805C8.43055 15.2868 8.36065 15.29 8.29 15.29C7.02527 15.29 6 14.2647 6 13C6 11.7352 7.02527 10.71 8.29 10.71C8.3518 10.71 8.41302 10.7124 8.47358 10.7172C7.70262 10.3487 7.17004 9.56152 7.17004 8.64999C7.17004 7.38525 8.19531 6.35999 9.46004 6.35999C9.94926 6.35999 10.4026 6.51339 10.7747 6.77472C10.5134 6.40265 10.36 5.94926 10.36 5.46004C10.36 4.19531 11.3853 3.17004 12.65 3.17004C13.5615 3.17004 14.3487 3.70262 14.7172 4.47358C14.7124 4.41302 14.71 4.3518 14.71 4.29C14.71 3.02527 15.7352 2 17 2C18.1362 2 19.0791 2.82747 19.259 3.91266C19.5563 3.7823 19.8847 3.70996 20.2301 3.70996C21.5666 3.70996 22.6501 4.79343 22.6501 6.12996C22.6501 7.44178 21.6063 8.50981 20.3039 8.54885C20.6211 8.95818 20.81 9.47203 20.81 10.03C20.81 10.5199 20.6644 10.9758 20.4141 11.3569C21.6646 11.4509 22.6501 12.4954 22.6501 13.77C22.6501 14.1002 22.5839 14.415 22.4641 14.7018C22.7832 14.5469 23.1414 14.46 23.52 14.46C24.8565 14.46 25.94 15.5434 25.94 16.88C25.94 18.2165 24.8565 19.3 23.52 19.3C23.4263 19.3 23.3338 19.2946 23.2428 19.2843C23.4199 19.6205 23.5201 20.0036 23.5201 20.41C23.5201 21.7465 22.4366 22.83 21.1001 22.83C19.7635 22.83 18.6801 21.7465 18.6801 20.41C18.6801 19.0735 19.7635 17.99 21.1001 17.99C21.1938 17.99 21.2863 17.9953 21.3772 18.0057C21.2002 17.6694 21.1 17.2864 21.1 16.88C21.1 16.5497 21.1661 16.2349 21.2859 15.9481C20.9668 16.1031 20.6086 16.19 20.2301 16.19C18.8935 16.19 17.8101 15.1065 17.8101 13.77C17.8101 13.28 17.9557 12.8241 18.2059 12.4431C16.9554 12.3491 15.97 11.3046 15.97 10.03C15.97 8.71816 17.0138 7.65013 18.3161 7.61109C18.0558 7.27522 17.882 6.86897 17.828 6.42573Z" fill="#FFCE7C"/>
+          <path d="M18.17 23.45H15.77L12.87 28.1399C12.41 28.8799 12.84 29.9 13.7 30C13.75 30 13.79 30 13.82 30C14.61 30 14.61 29.15 15.39 29.15C16.18 29.15 16.18 30 16.96 30C17.75 30 17.75 29.15 18.53 29.15C19.32 29.15 19.32 30 20.11 30C20.15 30 20.19 30 20.22 29.99C21.08 29.89 21.51 28.8699 21.06 28.1299L18.17 23.45Z" fill="#F8312F"/>
+          <path d="M16.97 24.2C18.3066 24.2 19.39 23.1165 19.39 21.78C19.39 20.4435 18.3066 19.36 16.97 19.36C15.6335 19.36 14.55 20.4435 14.55 21.78C14.55 23.1165 15.6335 24.2 16.97 24.2Z" fill="#FFB02E"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1425.0, 390.0)">
+      <rect id="ITEM_2_BG" x="-375" y="-120" width="750" height="240" rx="22" fill="var(--accent-8)" stroke="var(--accent-2)" stroke-width="2" fill-opacity="1.0"/>
+      <circle cx="-240" cy="0" r="50" fill="var(--accent-1)" opacity="0.15"/>
+      <g transform="translate(-90.0, 0.0)">
+        <text id="ITEM_2_HEAD" text-anchor="start" font-weight="bold" font-size="36" fill="var(--primary-text)" x="-6.0" y="-84.0" data-bg-id="ITEM_2_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+          <tspan x="-6.0" dy="33.25px">Sacred Recitations</tspan>
+        </text>
+        <rect id="ITEM_2_HEAD_FRAME" x="-6" y="-84" width="390" height="50" fill="none"/>
+        <text id="ITEM_2_BODY" text-anchor="start" font-size="24" fill="var(--primary-text)" x="-8.0" y="-28.0" data-bg-id="ITEM_2_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+          <tspan x="-8.0" dy="36.84px">Using holy water and Quranic</tspan>
+          <tspan x="-8.0" dy="29.90px">or scriptural readings</tspan>
+        </text>
+        <rect id="ITEM_2_BODY_FRAME" x="-8" y="-28" width="460" height="140" fill="none"/>
+      </g>
+      <circle id="ITEM_2_PAD" cx="-245" cy="0.0" r="48" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_2_PAD_INNER" cx="-245" cy="0.0" r="37.44" fill="var(--accent-8)" fill-opacity="0.22"/>
+      <circle cx="-245" cy="0.0" r="38" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_2_ICON" transform="translate(-283, -38)" data-icon-size="76" stroke-dasharray="6 4">
+        <g transform="translate(-9.686274509803923,-9.686274509803923) scale(0.18627450980392157)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="M188.087 55v18h110V55zm18.916 36c13.267 48.186 13.05 107.504-20.51 156.113l-.232.336l-.26.312c-38.645 46.375-45.757 87.258-41.964 123.297c3.5 33.254 16.698 61.922 25.33 85.94h147.44c8.632-24.018 21.83-52.686 25.33-85.94c3.793-36.04-3.317-76.923-41.963-123.298l-.308-.37l-.266-.4C268.13 199.788 266.15 139.572 279.23 91H207zm90.428.953a195 195 0 0 0-4.163 17.48c20.632 4.508 34.043 12.905 42.808 23.31c10.8 12.822 15.037 29.498 14.78 48.196c-.354 25.68-9.735 54.496-20.463 77.36c4.116 6.255 7.75 12.46 10.935 18.6c13.874-25.895 27.054-61.406 27.526-95.712c.297-21.615-4.74-43.095-19.012-60.04c-11.544-13.706-28.812-23.915-52.41-29.195z" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(495.0, 750.0)">
+      <rect id="ITEM_3_BG" x="-375" y="-120" width="750" height="240" rx="22" fill="var(--accent-9)" stroke="var(--accent-3)" stroke-width="2" fill-opacity="1.0"/>
+      <circle cx="-240" cy="0" r="50" fill="var(--accent-1)" opacity="0.15"/>
+      <g transform="translate(-90.0, 0.0)">
+        <text id="ITEM_3_HEAD" text-anchor="start" font-weight="bold" font-size="36" fill="var(--primary-text)" x="-6.0" y="-84.0" data-bg-id="ITEM_3_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+          <tspan x="-6.0" dy="33.25px">Physical Talismans</tspan>
+        </text>
+        <rect id="ITEM_3_HEAD_FRAME" x="-6" y="-84" width="390" height="50" fill="none"/>
+        <text id="ITEM_3_BODY" text-anchor="start" font-size="24" fill="var(--primary-text)" x="-8.0" y="-28.0" data-bg-id="ITEM_3_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+          <tspan x="-8.0" dy="36.84px">Wearing kitab amulets or inscribed</tspan>
+          <tspan x="-8.0" dy="29.90px">protective objects</tspan>
+        </text>
+        <rect id="ITEM_3_BODY_FRAME" x="-8" y="-28" width="460" height="140" fill="none"/>
+      </g>
+      <circle id="ITEM_3_PAD" cx="-245" cy="0.0" r="48" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_3_PAD_INNER" cx="-245" cy="0.0" r="37.44" fill="var(--accent-9)" fill-opacity="0.22"/>
+      <circle cx="-245" cy="0.0" r="38" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_3_ICON" transform="translate(-283, -38)" data-icon-size="76" stroke-dasharray="6 4">
+        <g transform="translate(0.0,0.0) scale(5.428571428571429)" vector-effect="non-scaling-stroke" stroke-width="2.62" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <path id="Vector" fill="none" d="M9 10 7 8.5 5 10v2l2 1.5L9 12v-2Z" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path id="Vector_2" stroke="#f1f5f9" d="M9 10 7 8.5 5 10v2l2 1.5L9 12v-2Z" vector-effect="non-scaling-stroke" fill="none"/>
+          <path id="Vector_3" stroke="#f1f5f9" d="M9 10.0826c1.0528 -0.4595 1.9153 -1.26748 2.4424 -2.28808 0.5272 -1.02061 0.6868 -2.1916 0.4521 -3.31607 -0.2347 -1.12447 -0.8494 -2.13384 -1.7408 -2.85838C9.26237 0.895525 8.1487 0.5 7 0.5 5.8513 0.5 4.73763 0.895525 3.84625 1.62007c-0.89138 0.72454 -1.50609 1.73391 -1.74078 2.85838 -0.23469 1.12447 -0.07504 2.29546 0.4521 3.31607C3.08471 8.81512 3.9472 9.6231 5 10.0826" vector-effect="non-scaling-stroke" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1425.0, 750.0)">
+      <rect id="ITEM_4_BG" x="-375" y="-120" width="750" height="240" rx="22" fill="var(--accent-10)" stroke="var(--accent-4)" stroke-width="2" fill-opacity="1.0"/>
+      <circle cx="-240" cy="0" r="50" fill="var(--accent-1)" opacity="0.15"/>
+      <g transform="translate(-90.0, 0.0)">
+        <text id="ITEM_4_HEAD" text-anchor="start" font-weight="bold" font-size="36" fill="var(--inverse-text)" x="-6.0" y="-84.0" data-bg-id="ITEM_4_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+          <tspan x="-6.0" dy="33.25px">Behavioral Modesty</tspan>
+        </text>
+        <rect id="ITEM_4_HEAD_FRAME" x="-6" y="-84" width="390" height="50" fill="none"/>
+        <text id="ITEM_4_BODY" text-anchor="start" font-size="24" fill="var(--inverse-text)" x="-8.0" y="-28.0" data-bg-id="ITEM_4_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+          <tspan x="-8.0" dy="36.84px">Avoiding excessive praise</tspan>
+          <tspan x="-8.0" dy="29.90px">of children or livestock</tspan>
+        </text>
+        <rect id="ITEM_4_BODY_FRAME" x="-8" y="-28" width="460" height="140" fill="none"/>
+      </g>
+      <circle id="ITEM_4_PAD" cx="-245" cy="0.0" r="48" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_4_PAD_INNER" cx="-245" cy="0.0" r="37.44" fill="var(--accent-10)" fill-opacity="0.22"/>
+      <circle cx="-245" cy="0.0" r="38" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_4_ICON" transform="translate(-283, -38)" data-icon-size="76" stroke-dasharray="6 4">
+        <g transform="translate(-5.428571428571429,-7.464285714285715) scale(2.7142857142857144)">
+          <path d="M14 20H16L17.88 26.55C17.96 26.84 17.96 27.14 17.88 27.42L17.18 29.81C17.15 29.92 17.05 29.99 16.94 29.99H15.46C15.29 29.99 15.17 29.83 15.22 29.67L15.98 27.08C16 27.03 16 26.97 15.98 26.91L14 20Z" fill="#9B9B9B"/>
+          <path d="M20.29 30H21.77C21.88 30 21.98 29.93 22.01 29.82L23.96 23H21.96L20.05 29.68C20 29.84 20.12 30 20.29 30Z" fill="#9B9B9B"/>
+          <path d="M25.94 25H20.88C19.25 25 17.94 23.68 17.94 22.06V19H25.94V25Z" fill="#FF8687"/>
+          <path d="M25.31 10H24.8672L18.8731 12.2454L13.99 9.14553C13.4071 8.75331 12.9036 8.23707 12.52 7.62L12.3 7.25L10.72 10H6L6.90972 15.0142L8.10838 16.9621L9.01746 20.0381L8.12378 21.4749C8.45936 22.2456 9.15581 22.8061 9.99 22.96V29.75C9.99 29.89 10.1 30 10.24 30H11.74C11.88 30 11.99 29.89 11.99 29.75V27L12.86 26.56C13.55 26.21 13.99 25.51 13.99 24.74V23H20.38C20.99 23 21.54 22.79 21.99 22.45C21.99 23.95 23.01 25.26 24.47 25.62L26 26V29.75C26 29.89 26.11 30 26.25 30H27.75C27.89 30 28 29.89 28 29.75V20.29C28.38 20.04 28.71 19.74 29 19.4V24.01H30V14.7C30 12.1 27.9 10 25.31 10Z" fill="#D3D3D3"/>
+          <path d="M9.07001 4.47L9.59001 5.5H11.09L10.27 3.87C10.16 3.64 9.92001 3.5 9.67001 3.5C9.17001 3.5 8.85001 4.02 9.07001 4.47Z" fill="#F9C23C"/>
+          <path d="M10.0162 5H12.1406L6.03542 13H5.6807L2.6369 10.9392L4.1172 8.16016L7.91456 5.64838C8.53504 5.22943 9.2656 5 10.0162 5Z" fill="#E6E6E6"/>
+          <path d="M6.50343 9.6783L4.18164 12.9701C4.31174 12.99 4.44184 13 4.58195 13H9.03537C10.8368 13 12.2979 11.5436 12.2979 9.74813V7.28429H12.7082C13.9692 7.28429 15 6.25686 15 5H12.1678C11.6174 5 11.087 5.1596 10.6166 5.44888L6.67356 7.96259L6.50343 9.6783Z" fill="#636363"/>
+          <path d="M25.58 12.25L25.15 12.68C24.42 13.41 24 14.41 24 15.45V16.5C24 17.33 24.67 18 25.5 18C26.33 18 27 17.33 27 16.5V12.84C27 12.1 26.1 11.73 25.58 12.25Z" fill="#636363"/>
+          <path d="M30 23C28.9 23 28 23.9 28 25C28 26.11 28.9 27 30 27V23Z" fill="#636363"/>
+          <path d="M13.61 16.46L16.75 18.82C17.26 19.2 16.99 20 16.36 20H13.96C13.43 20 13 19.57 13 19.04V16.77C13 16.45 13.36 16.27 13.61 16.46Z" fill="#636363"/>
+          <path d="M6.90997 15L7.26997 17L7.94997 20.9C7.99997 21.19 8.09997 21.46 8.23997 21.7C8.42997 22.04 8.88997 22.1 9.16997 21.83C9.69997 21.3 9.98997 20.59 9.98997 19.84V19.42C9.98997 19.17 10.09 18.93 10.26 18.75L10.86 18.12C11.48 17.48 11.47 16.46 10.85 15.83C10.33 15.3 9.61997 15 8.87997 15H6.90997Z" fill="#636363"/>
+          <path d="M24 20C24 20.5523 23.5523 21 23 21C22.4477 21 22 20.5523 22 20C22 19.4477 22.4477 19 23 19C23.5523 19 24 19.4477 24 20Z" fill="#636363"/>
+          <path d="M23 13.32V15.3C23 16.79 21.79 18 20.28 18.01C19.83 18.01 19.39 17.9 19 17.69L15.74 15.95C14.66 15.37 13.99 14.24 13.99 13.02V9.16C14.8 9.71 15.77 10.01 16.78 10.01H24.87L23.73 11.34C23.26 11.89 23 12.59 23 13.32Z" fill="#636363"/>
+          <path d="M5.72286 13V10.0274C5.72286 8.86036 4.87221 8.14215 4.14165 8.14215L2.71055 9.09976C2.27021 9.39901 2 9.88779 2 10.4264C2 11.8529 3.16089 13 4.58199 13H5.72286Z" fill="#FF8687"/>
+          <path d="M7.5 10.47C7.22 10.47 7 10.24 7 9.96998V9.28998C7 9.00998 7.22 8.78998 7.5 8.78998C7.78 8.78998 8 9.00998 8 9.28998V9.96998C8 10.24 7.78 10.47 7.5 10.47Z" fill="#1C1C1C"/>
+          <path d="M3.5 11.56C3.22 11.56 3 11.34 3 11.06V10.5C3 10.22 3.22 10 3.5 10C3.78 10 4 10.22 4 10.5V11.05C4 11.33 3.78 11.56 3.5 11.56Z" fill="#BB1D80"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
