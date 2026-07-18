@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 772,
@@ -45,7 +45,6 @@
       "What Makes Australian Folklore So Distinctive?",
       "Where Austria's Dark Season Meets Legend",
       "Where Fire, Heroes and Monsters Meet",
-      "Where Bahamian Legends Meet Sea and Forest",
       "Where Bahrain's Old Stories Meet the Sea",
       "Where Bangladesh's Story World Comes Alive",
       "What Haunts Barbados After Dark?",
@@ -62,10 +61,10 @@
       "Why Bulgarian Folklore Still Feels Alive",
       "What Stories Still Shape Burkina Faso?",
       "Where Burundi's Stories Live in Sound and Landscape",
-      "Why Cape Verdean Folklore Feels So Alive",
       "Where Cambodia's Legends Still Live",
       "Where Cameroon's Spirits Still Shape Place",
       "Why Canada's Legends Stay So Local",
+      "Why Cape Verdean Folklore Feels So Alive",
       "Where Stories, Songs and Sorcery Meet",
       "Where Chad's Stories Live Under the Stars",
       "Where Chile's Landscapes Become Legend",
@@ -74,17 +73,15 @@
       "Where Volcanoes, Jinn and Island Memory Meet",
       "What Lives Between Forest, River and Ancestors?",
       "Where Costa Rica's Legends Still Walk",
-      "Where Ivory Coast's Invisible World Appears",
       "Why Croatia's Legends Are So Regional",
       "Why Cuban Folklore Feels So Layered",
       "Where Cyprus Turns Landscape Into Legend",
       "Where Czech Legends Still Haunt the Landscape",
-      "Where Myth Meets State Legend",
-      "What Makes DR Congo's Folklore So Varied?",
       "Why Denmark's Old Stories Still Linger",
       "Where Djibouti Keeps Its Legends Alive",
       "Where Dominica's Stories Still Haunt the Landscape",
       "What Haunts Dominican Republic Folklore?",
+      "What Makes DR Congo's Folklore So Varied?",
       "Why Ecuador's Legends Still Haunt Place",
       "What Makes Egyptian Folklore So Alive?",
       "Why El Salvador's Legends Still Feel Alive",
@@ -104,8 +101,8 @@
       "Where Ancient Myth Meets Living Folklore",
       "Where Grenada's Spirits Meet the Street",
       "Why Guatemala's Folklore Feels So Alive",
-      "Where Guinea's Legends Still Speak",
       "Where Spirits Live in Guinea Bissau",
+      "Where Guinea's Legends Still Speak",
       "Where Guyana's Rivers Become Story",
       "What Haitian Folklore Really Means",
       "Why Honduras Keeps Telling Ghost Stories",
@@ -118,6 +115,7 @@
       "Why Ireland's Old Stories Still Feel Alive",
       "Where Israel's Folklore Lives Today",
       "Why Italian Folklore Is So Regional",
+      "Where Ivory Coast's Invisible World Appears",
       "Why Jamaica's Folklore Still Feels Alive",
       "Why Japan's Old Stories Still Feel Alive",
       "Where Jordan's Stories Live in the Landscape",
@@ -134,6 +132,7 @@
       "Where Libya's Stories Haunt the Landscape",
       "Why Liechtenstein's Legends Feel So Close",
       "Why Lithuanian Folklore Still Feels Alive",
+      "Where Luxembourg's Legends Still Live",
       "Madagascar's Living World of Ancestors and Taboos",
       "Where Malawi's Spirits Still Tell Stories",
       "Where Malaysia's Legends Still Haunt the Landscape",
@@ -145,6 +144,7 @@
       "Where Island Memory Becomes Legend",
       "Why Mexico's Legends Still Feel Alive",
       "Where Stone Cities Still Carry Stories",
+      "Where Moldova's Stories Still Walk",
       "Why Monaco's Legends Gather Around One Rock",
       "Where Mongolia's Legends Still Live",
       "Where Montenegro's Legends Meet the Mountains",
@@ -159,6 +159,7 @@
       "Where Nicaragua's Ghost Stories Walk at Night",
       "Where Niger's Stories Meet Spirits and Sand",
       "Where Nigeria's Spirits Enter Everyday Life",
+      "Where Myth Meets State Legend",
       "Where North Macedonia's Legends Still Live",
       "Where Norway's Wild Places Became Stories",
       "Where Oman's Legends Still Haunt the Landscape",
@@ -170,8 +171,8 @@
       "Why Peru's Legends Still Walk the Landscape",
       "Why Philippine Folklore Refuses One Mythology",
       "Where Polish Legends Still Haunt the Landscape",
+      "Where Portugal's Legends Still Haunt the Landscape",
       "What Haunts Qatar's Storytelling Imagination?",
-      "Where Moldova's Stories Still Walk",
       "What Haunts Romania Beyond Dracula?",
       "Where Russian Folklore Turns Strange",
       "How Rwanda Tells Its Oldest Stories",
@@ -192,6 +193,7 @@
       "Where Spirits Move Through Sea and Stone",
       "Somalia's Living World of Story and Spirit",
       "What Haunts South African Folklore?",
+      "Why South Korean Folklore Still Feels Alive",
       "Where Spirits, Cattle and Kings Shape Memory",
       "Why Spain's Folklore Changes by Region",
       "Where Sri Lanka's Legends Still Live",
@@ -201,7 +203,9 @@
       "Where Swiss Legends Meet the Mountains",
       "What Makes Syrian Folklore So Layered?",
       "Where Mountains Turn Into Story",
+      "Where Tanzanian Folklore Still Lives",
       "Why Thai Folklore Still Haunts Everyday Life",
+      "Where Bahamian Legends Meet Sea and Forest",
       "Why Timor Leste Dreams of a Crocodile",
       "Where Togolese Folklore Still Lives Today",
       "Where Tonga's Myths Still Meet the Land",
@@ -214,7 +218,6 @@
       "What Makes Ukraine's Folklore So Alive?",
       "Where Desert Stories Meet Sea Spirits",
       "Where Britain's Old Stories Still Haunt the Map",
-      "Where Tanzanian Folklore Still Lives",
       "Why American Folklore Still Feels Unfinished",
       "What Haunts and Sustains Uruguay's Folklore?",
       "What Makes Uzbek Folklore So Layered?",
@@ -223,20 +226,83 @@
       "Where Vietnamese Legends Still Walk Today",
       "Where Yemen's Legends Still Haunt the Landscape",
       "What Makes Zambian Folklore So Alive?",
-      "Where Zimbabwe's Spirits Live in the Land",
-      "Where Luxembourg's Legends Still Live",
-      "Why South Korean Folklore Still Feels Alive",
-      "Where Portugal's Legends Still Haunt the Landscape"
+      "Where Zimbabwe's Spirits Live in the Land"
     ]
   },
   "selected": {
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "site_visual_identity": "heritage-amber",
+    "site_visual_identity_source": "local_inference",
+    "site_visual_identity_confidence": "medium",
+    "visual_profile": "editorial",
+    "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
-    "palette": "north-atlantic",
+    "palette": "heritage-amber",
     "motif": "horizon"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 58,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 3700,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 34,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 2320,
+      "reasons": [
+        "compact profile suits large hierarchies"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 28,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 2080,
+      "reasons": [
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 12,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 1280,
+      "reasons": []
+    }
+  ]
 }
