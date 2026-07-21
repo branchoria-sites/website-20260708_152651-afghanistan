@@ -335,89 +335,89 @@ Modern Kazakhstan has schools, conservatories, recording technologies and digita
 What makes these traditions distinctive is that they are not merely preserved as historical artefacts. They continue to function as mechanisms for transmitting memory and identity. Whether through an improvised poetic duel, an instrumental composition linked to a legend, or a lengthy heroic narrative performed before an audience, Kazakh folklore remains deeply connected to performance. The story is not separate from the act of telling it. In the Kazakh tradition, the performance itself is often where the folklore truly lives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ich.unesco.org/en/RL/aitysh-aitys-art-of-improvisation-00997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ich.unesco.org">[unesco.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ich.unesco.org</span><span class="citation-popover-snippet">UNESCO Intangible Cultural HeritageAitysh/Aitys, art of improvisationAitysh/Aitys is a contest centred on improvised oral poetry spoken o...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Do Kazakh Stories Live in Performance?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Do Kazakh Stories Live in Performance?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Oral+Tradition+as+History+by+Jan+M.+Vansina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oral Tradition as History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A-CVBVzZwmAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Oral Tradition as History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Oral+Tradition+as+History+by+Jan+M.+Vansina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oral Tradition as History">Oral Tradition as History</a>
-</h4>
-<p class="fr-book-author">By Jan M. Vansina</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Oral+Tradition+as+History+Jan+M.+Vansina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oral Tradition as History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A-CVBVzZwmAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Oral Tradition as History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Oral+Tradition+as+History+Jan+M.+Vansina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oral Tradition as History">Oral Tradition as History</a>
+        </h4>
+        <p class="fr-book-author">By Jan M. Vansina</p>
         
-<p class="fr-book-desc">Explains how oral cultures preserve memory.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Oral+Tradition+as+History+by+Jan+M.+Vansina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how oral cultures preserve memory.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Oral+Tradition+as+History+Jan+M.+Vansina&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Singer of Tales (Harvard Studies in Comparative Literature) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/414020-M.jpg" alt="Cover for The Singer of Tales (Harvard Studies in Comparative Literature)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Singer of Tales (Harvard Studies in Comparative Literature)">The Singer of Tales (Harvard Studies in Comparative Literature)</a>
-</h4>
-<p class="fr-book-author">By Albert B. Lord</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The book of Dede Korkut on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9634922-M.jpg" alt="Cover for The book of Dede Korkut" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of Dede Korkut">The book of Dede Korkut</a>
+        </h4>
+        <p class="fr-book-author">By Faruk Sümer, Warren S. Walker</p>
         
-<p class="fr-book-desc">First published 1981. Subjects: Oral tradition, Folk poetry.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Demonstrates how stories survive through performance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Singer+of+Tales+by+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Singer of Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Singer+of+Tales+by+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Singer of Tales">The Singer of Tales</a>
-</h4>
-<p class="fr-book-author">By Albert B. Lord</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Singer of Tales (Harvard Studies in Comparative Literature) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/414020-M.jpg" alt="Cover for The Singer of Tales (Harvard Studies in Comparative Literature)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Singer of Tales (Harvard Studies in Comparative Literature)">The Singer of Tales (Harvard Studies in Comparative Literature)</a>
+        </h4>
+        <p class="fr-book-author">By Albert B. Lord</p>
         
-<p class="fr-book-desc">Explains the mechanics of oral epic transmission.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Singer+of+Tales+by+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1981. Subjects: Oral tradition, Folk poetry.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tales+of+the+Golden+Horde+Nikolai+Fedorov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tales of the Golden Horde on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tales+of+the+Golden+Horde+Nikolai+Fedorov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tales of the Golden Horde">Tales of the Golden Horde</a>
-</h4>
-<p class="fr-book-author">By Nikolai Fedorov</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Singer+of+Tales+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Singer of Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Singer+of+Tales+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Singer of Tales">The Singer of Tales</a>
+        </h4>
+        <p class="fr-book-author">By Albert B. Lord</p>
         
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tales+of+the+Golden+Horde+Nikolai+Fedorov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the mechanics of oral epic transmission.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Singer+of+Tales+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Oral+Tradition+as+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oral Tradition as History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Singer of Tales (Harvard Studies in Comparative Literature)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Singer+of+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Singer of Tales</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Oral+Tradition+as+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oral Tradition as History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The book of Dede Korkut</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Singer of Tales (Harvard Studies in Comparative Literature)</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

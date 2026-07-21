@@ -329,89 +329,89 @@ Ouidah demonstrates how folklore can remain active in the modern world without b
 For visitors, these places may appear as heritage attractions. For many local residents and practitioners, they are sacred spaces tied to ancestry, spirituality and community identity. That dual role is what makes Ouidah so important within Benin’s folklore. Its stories are not confined to books or distant memories; they remain attached to forests, temples, ceremonies and living traditions that continue to shape how the city understands itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ayiffatourisme.com/en/visiter-la-foret-sacree-de-kpasse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayiffatourisme.com">[ayiffatourisme.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayiffatourisme.com</span><span class="citation-popover-title">AYIFFA TOURISMESacred Forest of Kpassè</span><span class="citation-popover-snippet">AYIFFA TOURISMThe sacred forest originates from King Kpassé, founder of Ouidah. He came to this forest to carry out his prayers and trade...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Is Ouidah Central to Benin&#x27;s Folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Is Ouidah Central to Benin&#x27;s Folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+by+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voodoo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T-bIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Voodoo Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+by+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voodoo Encyclopedia">The Voodoo Encyclopedia</a>
-</h4>
-<p class="fr-book-author">By Jeffrey E. Anderson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voodoo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T-bIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Voodoo Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voodoo Encyclopedia">The Voodoo Encyclopedia</a>
+        </h4>
+        <p class="fr-book-author">By Jeffrey E. Anderson</p>
         
-<p class="fr-book-desc">Explains the Vodun traditions associated with Ouidah&#x27;s sacred sites.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+by+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the Vodun traditions associated with Ouidah&#x27;s sacred sites.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Door+of+No+Return+William+St+Clair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Door of No Return on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2129489-M.jpg" alt="Cover for The Door of No Return" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Door+of+No+Return+William+St+Clair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Door of No Return">The Door of No Return</a>
-</h4>
-<p class="fr-book-author">By William St Clair</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Door+of+No+Return+William+St+Clair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Door of No Return on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2129489-M.jpg" alt="Cover for The Door of No Return" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Door+of+No+Return+William+St+Clair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Door of No Return">The Door of No Return</a>
+        </h4>
+        <p class="fr-book-author">By William St Clair</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Cape Coast Castle (Cape Coast, Ghana), Sociological aspects, Slave trade, Slavery, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Door+of+No+Return+William+St+Clair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for the Atlantic history that shaped Ouidah&#x27;s cultural landscape.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Door+of+No+Return+William+St+Clair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Benin%3A+The+Bradt+Travel+Guide+Murray+Last+and+Daniel+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Benin: The Bradt Travel Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Benin%3A+The+Bradt+Travel+Guide+Murray+Last+and+Daniel+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Benin: The Bradt Travel Guide">Benin: The Bradt Travel Guide</a>
-</h4>
-<p class="fr-book-author">By Murray Last and Daniel Miles</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
+        </h4>
+        <p class="fr-book-author">By John S. Mbiti</p>
         
-<p class="fr-book-desc">Covers Ouidah, sacred locations, festivals and historical context.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Benin%3A+The+Bradt+Travel+Guide+Murray+Last+and+Daniel+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broader intellectual context for sacred places and ritual traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
-</h4>
-<p class="fr-book-author">By John S. Mbiti</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Benin%3A+The+Bradt+Travel+Guide+Murray+Last+and+Daniel+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Benin: The Bradt Travel Guide on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Benin%3A+The+Bradt+Travel+Guide+Murray+Last+and+Daniel+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Benin: The Bradt Travel Guide">Benin: The Bradt Travel Guide</a>
+        </h4>
+        <p class="fr-book-author">By Murray Last and Daniel Miles</p>
         
-<p class="fr-book-desc">Provides broader intellectual context for sacred places and ritual traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers Ouidah, sacred locations, festivals and historical context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Benin%3A+The+Bradt+Travel+Guide+Murray+Last+and+Daniel+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voodoo Encyclopedia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Door+of+No+Return&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Door of No Return</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Benin%3A+The+Bradt+Travel+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Benin: The Bradt Travel books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voodoo Encyclopedia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Door+of+No+Return&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Door of No Return</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions and Philosophy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -311,89 +311,89 @@ Nyai Roro Kidul endures because she sits at the meeting point of several powerfu
 For modern visitors, the legend can be understood in several ways at once. Some treat it as a spiritual reality, others as cultural heritage, and others as a fascinating example of how communities transform geography into story. Whatever interpretation is preferred, Nyai Roro Kidul demonstrates how folklore can turn a coastline into a haunted and meaningful landscape, where waves, memory, fear and tradition become inseparable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.persee.fr/doc/arch_0044-8613_1997_num" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">Nyai Roro Kidul is known all along the southern</span><span class="citation-popover-snippet">PerséeNyai Roro Kidul in Puger: Local Applications of a Mythby R Wessing · 1997 · Cited by 31 — One such mythological figure in Java is...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Who Is Java&#x27;s Queen of the Southern Sea?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Who Is Java&#x27;s Queen of the Southern Sea?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indonesian+Folktales+by+Murti+Bunanta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indonesian Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EYEYEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indonesian Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Indonesian+Folktales+by+Murti+Bunanta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indonesian Folktales">Indonesian Folktales</a>
-</h4>
-<p class="fr-book-author">By Murti Bunanta</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indonesian+Folktales+Murti+Bunanta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indonesian Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EYEYEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indonesian Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Indonesian+Folktales+Murti+Bunanta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indonesian Folktales">Indonesian Folktales</a>
+        </h4>
+        <p class="fr-book-author">By Murti Bunanta</p>
         
-<p class="fr-book-desc">Provides context for legendary figures such as Nyai Roro Kidul.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Indonesian+Folktales+by+Murti+Bunanta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for legendary figures such as Nyai Roro Kidul.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Indonesian+Folktales+Murti+Bunanta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+Dependencies%3A+Comprising+Interesting+Details+of+Batavia%2C+and+Authentic+Particula+by+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sketches, Civil and Military, of the Island of Java and Its Immediate Dependencies: Comprising Interesting Details of Batavia, and Authentic Particula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q4SXswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sketches, Civil and Military, of the Island of Java and Its Immediate Dependencies: Comprising Interesting Details of Batavia, and Authentic Particula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+Dependencies%3A+Comprising+Interesting+Details+of+Batavia%2C+and+Authentic+Particula+by+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sketches, Civil and Military, of the Island of Java and Its Immediate Dependencies: Comprising Interesting Details of Batavia, and Authentic Particula">Sketches, Civil and Military, of the Island of Java and Its I...</a>
-</h4>
-<p class="fr-book-author">By John Joseph Stockdale</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+Dependencies%3A+Comprising+Interesting+Details+of+Batavia%2C+and+Authentic+Particula+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sketches, Civil and Military, of the Island of Java and Its Immediate Dependencies: Comprising Interesting Details of Batavia, and Authentic Particula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q4SXswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sketches, Civil and Military, of the Island of Java and Its Immediate Dependencies: Comprising Interesting Details of Batavia, and Authentic Particula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+Dependencies%3A+Comprising+Interesting+Details+of+Batavia%2C+and+Authentic+Particula+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sketches, Civil and Military, of the Island of Java and Its Immediate Dependencies: Comprising Interesting Details of Batavia, and Authentic Particula">Sketches, Civil and Military, of the Island of Java and Its I...</a>
+        </h4>
+        <p class="fr-book-author">By John Joseph Stockdale</p>
         
-<p class="fr-book-desc">Touches on landscapes and traditions associated with Javanese folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+Dependencies%3A+Comprising+Interesting+Details+of+Batavia%2C+and+Authentic+Particula+by+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Touches on landscapes and traditions associated with Javanese folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+Dependencies%3A+Comprising+Interesting+Details+of+Batavia%2C+and+Authentic+Particula+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+..+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sketches, Civil and Military, of the Island of Java and Its Immediate .. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6178652-M.jpg" alt="Cover for Sketches, Civil and Military, of the Island of Java and Its Immediate .." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+..+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sketches, Civil and Military, of the Island of Java and Its Immediate ..">Sketches, Civil and Military, of the Island of Java and Its I...</a>
-</h4>
-<p class="fr-book-author">By John Joseph Stockdale</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mystic+synthesis+in+Java+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mystic synthesis in Java on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2096207-M.jpg" alt="Cover for Mystic synthesis in Java" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mystic+synthesis+in+Java+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mystic synthesis in Java">Mystic synthesis in Java</a>
+        </h4>
+        <p class="fr-book-author">By M. C. Ricklefs</p>
         
-<p class="fr-book-desc">First published 1812.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+..+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain the religious and cultural background of the sea queen tradition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mystic+synthesis+in+Java+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mystic+synthesis+in+Java+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mystic synthesis in Java on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2096207-M.jpg" alt="Cover for Mystic synthesis in Java" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mystic+synthesis+in+Java+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mystic synthesis in Java">Mystic synthesis in Java</a>
-</h4>
-<p class="fr-book-author">By M. C. Ricklefs</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+..+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sketches, Civil and Military, of the Island of Java and Its Immediate .. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6178652-M.jpg" alt="Cover for Sketches, Civil and Military, of the Island of Java and Its Immediate .." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+..+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sketches, Civil and Military, of the Island of Java and Its Immediate ..">Sketches, Civil and Military, of the Island of Java and Its I...</a>
+        </h4>
+        <p class="fr-book-author">By John Joseph Stockdale</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: History, Islam.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mystic+synthesis+in+Java+M.+C.+Ricklefs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1812.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+..+John+Joseph+Stockdale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indonesian+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indonesian Folktales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+Dependencies%3A+Comprising+Interesting+Details+of+Batavia%2C+and+Authentic+Particula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sketches, Civil and Military, of the Island of Java and Its Immediate Dependencies: Comprising Interesting Details of Batavia, and Authentic Particula</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+..&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sketches, Civil and Military, of the Island of Java and Its Immediate ..</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indonesian+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indonesian Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sketches%2C+Civil+and+Military%2C+of+the+Island+of+Java+and+Its+Immediate+Dependencies%3A+Comprising+Interesting+Details+of+Batavia%2C+and+Authentic+Particula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sketches, Civil and Military, of the Island of Java and Its Immediate Dependencies: Comprising Interesting Details of Batavia, and Authentic Particula</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mystic+synthesis+in+Java&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mystic synthesis in Java</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

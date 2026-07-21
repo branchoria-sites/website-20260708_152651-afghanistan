@@ -350,89 +350,89 @@ Modern visitors often encounter these sites through tourism, nature reserves or 
 In this way, Belarusian sacred lakes and stones continue to function as memory maps. They connect visible landscapes with invisible histories, preserving traces of older religious worlds through stories that remain embedded in the land itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://e-journals.ku.lt/journal/AB/article/1696/file/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: e-journals.ku.lt">[ku.lt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">e-journals.ku.lt</span><span class="citation-popover-title">Klaipėdos universitetasthe sacred lakes of the dvina region (northwest belarus</span><span class="citation-popover-snippet">Belarus), the sacred lakes situated in this region, and place-legends about vanished churches relating to these lakes. The author bases h...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Do Belarusian Lakes Hide Churches?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Do Belarusian Lakes Hide Churches?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Slavic+Folklore+by+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Slavic Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zrGAAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Slavic Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Slavic+Folklore+by+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Slavic Folklore">Slavic Folklore</a>
-</h4>
-<p class="fr-book-author">By Natalie Kononenko</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Bathhouse+at+Midnight+William+Francis+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bathhouse at Midnight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S3qJMMYH6VYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Bathhouse at Midnight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Bathhouse+at+Midnight+William+Francis+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bathhouse at Midnight">The Bathhouse at Midnight</a>
+        </h4>
+        <p class="fr-book-author">By William Francis Ryan</p>
         
-<p class="fr-book-desc">Discusses sacred landscapes, legends and folk belief.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Slavic+Folklore+by+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores sacred places, supernatural traditions and belief systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Bathhouse+at+Midnight+William+Francis+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Russian Fairy Tales (Illustrated by Ivan Bilibin) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bv71KbM_ViAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Russian Fairy Tales (Illustrated by Ivan Bilibin)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Russian Fairy Tales (Illustrated by Ivan Bilibin)">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a>
-</h4>
-<p class="fr-book-author">By Alexander Afanasyev</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Slavic+Folklore+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Slavic Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zrGAAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Slavic Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Slavic+Folklore+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Slavic Folklore">Slavic Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Natalie Kononenko</p>
         
-<p class="fr-book-desc">Contains motifs connected to enchanted landscapes and sacred places.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses sacred landscapes, legends and folk belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Slavic+Folklore+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Pagan+Europe+by+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Symbols in Pagan Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOrIAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Myths and Symbols in Pagan Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Pagan+Europe+by+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Symbols in Pagan Europe">Myths and Symbols in Pagan Europe</a>
-</h4>
-<p class="fr-book-author">By Hilda Roderick Ellis Davidson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Russian Fairy Tales (Illustrated by Ivan Bilibin) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bv71KbM_ViAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Russian Fairy Tales (Illustrated by Ivan Bilibin)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Russian Fairy Tales (Illustrated by Ivan Bilibin)">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Afanasyev</p>
         
-<p class="fr-book-desc">Provides context for sacred stones, water and pre-Christian symbolism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Pagan+Europe+by+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Contains motifs connected to enchanted landscapes and sacred places.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Bough+by+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Bough on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qEs-PgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Golden Bough" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Golden+Bough+by+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
-</h4>
-<p class="fr-book-author">By James George Frazer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Symbols in Pagan Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOrIAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Myths and Symbols in Pagan Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Symbols in Pagan Europe">Myths and Symbols in Pagan Europe</a>
+        </h4>
+        <p class="fr-book-author">By Hilda Roderick Ellis Davidson</p>
         
-<p class="fr-book-desc">Examines sacred sites, ritual and folklore across cultures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Golden+Bough+by+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for sacred stones, water and pre-Christian symbolism.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Slavic+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Slavic Folklore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Pagan+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Symbols in Pagan Europe</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bathhouse+at+Midnight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bathhouse at Midnight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Slavic+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Slavic Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

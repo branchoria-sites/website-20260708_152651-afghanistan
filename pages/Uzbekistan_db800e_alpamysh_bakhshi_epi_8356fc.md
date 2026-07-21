@@ -363,89 +363,89 @@ That combination of story and singer is the key to understanding Alpamysh. The h
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Alpamysh Still Matters in Uzbekistan. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Alpamysh Still Matters in Uzbekistan. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Alpamysh+by+H.+B.+Paksoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alpamysh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KkOGNefbfsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alpamysh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Alpamysh+by+H.+B.+Paksoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alpamysh">Alpamysh</a>
-</h4>
-<p class="fr-book-author">By H. B. Paksoy</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Alpamysh+H.+B.+Paksoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alpamysh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KkOGNefbfsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alpamysh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Alpamysh+H.+B.+Paksoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alpamysh">Alpamysh</a>
+        </h4>
+        <p class="fr-book-author">By H. B. Paksoy</p>
         
-<p class="fr-book-desc">Directly examines the epic and its cultural significance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Alpamysh+by+H.+B.+Paksoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly examines the epic and its cultural significance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Alpamysh+H.+B.+Paksoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Epic+Singers+and+Oral+Tradition+by+Albert+Bates+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Singers and Oral Tradition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FpJlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Epic Singers and Oral Tradition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Epic+Singers+and+Oral+Tradition+by+Albert+Bates+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Singers and Oral Tradition">Epic Singers and Oral Tradition</a>
-</h4>
-<p class="fr-book-author">By Albert Bates Lord</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Epic+Singers+and+Oral+Tradition+Albert+Bates+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Singers and Oral Tradition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FpJlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Epic Singers and Oral Tradition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Epic+Singers+and+Oral+Tradition+Albert+Bates+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Singers and Oral Tradition">Epic Singers and Oral Tradition</a>
+        </h4>
+        <p class="fr-book-author">By Albert Bates Lord</p>
         
-<p class="fr-book-desc">Directly addresses oral transmission similar to the bakhshi tradition.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Epic+Singers+and+Oral+Tradition+by+Albert+Bates+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses oral transmission similar to the bakhshi tradition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Epic+Singers+and+Oral+Tradition+Albert+Bates+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Singer of Tales (Harvard Studies in Comparative Literature) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/414020-M.jpg" alt="Cover for The Singer of Tales (Harvard Studies in Comparative Literature)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Singer of Tales (Harvard Studies in Comparative Literature)">The Singer of Tales (Harvard Studies in Comparative Literature)</a>
-</h4>
-<p class="fr-book-author">By Albert B. Lord</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The book of Dede Korkut on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9634922-M.jpg" alt="Cover for The book of Dede Korkut" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of Dede Korkut">The book of Dede Korkut</a>
+        </h4>
+        <p class="fr-book-author">By Faruk Sümer, Warren S. Walker</p>
         
-<p class="fr-book-desc">First published 1981. Subjects: Oral tradition, Folk poetry.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers strong comparative context for understanding Alpamysh and oral epic traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Singer+of+Tales+by+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Singer of Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Singer+of+Tales+by+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Singer of Tales">The Singer of Tales</a>
-</h4>
-<p class="fr-book-author">By Albert B. Lord</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Singer of Tales (Harvard Studies in Comparative Literature) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/414020-M.jpg" alt="Cover for The Singer of Tales (Harvard Studies in Comparative Literature)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Singer of Tales (Harvard Studies in Comparative Literature)">The Singer of Tales (Harvard Studies in Comparative Literature)</a>
+        </h4>
+        <p class="fr-book-author">By Albert B. Lord</p>
         
-<p class="fr-book-desc">Explains how epic singers preserve and recreate narratives in performance.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Singer+of+Tales+by+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1981. Subjects: Oral tradition, Folk poetry.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29+Albert+B.+Lord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Alpamysh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alpamysh</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Epic+Singers+and+Oral+Tradition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Epic Singers and Oral Tradition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Singer+of+Tales+%28Harvard+Studies+in+Comparative+Literature%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Singer of Tales (Harvard Studies in Comparative Literature)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alpamysh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alpamysh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Epic+Singers+and+Oral+Tradition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Epic Singers and Oral Tradition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The book of Dede Korkut</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

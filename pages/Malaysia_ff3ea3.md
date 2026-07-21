@@ -1317,89 +1317,89 @@ A few reading habits help. First, place the story geographically. A Langkawi cur
 Malaysia’s folklore matters because it keeps many forms of memory in circulation at once. It remembers Melaka as a heroic and moral world through Hang Tuah. It turns Langkawi into a landscape of innocence and curse through Mahsuri. It makes Gunung Ledang a mountain of refusal and impossible demands. It gives the Pontianak new life in horror cinema. It ties Sabah’s harvest festival to Huminodun’s sacrifice. It preserves Orang Asli and Iban oral knowledge through story, ritual, song and place. The result is a folklore landscape that is not frozen in the past, but continuously retold, argued over and reimagined.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Malaysia&#x27;s Legends Still Haunt the Landscape. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Malaysia&#x27;s Legends Still Haunt the Landscape. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Malay+Magic+by+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malay Magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F8YoAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Malay Magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Malay+Magic+by+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malay Magic">Malay Magic</a>
-</h4>
-<p class="fr-book-author">By Walter William Skeat</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Malay+Magic+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malay Magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F8YoAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Malay Magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Malay+Magic+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malay Magic">Malay Magic</a>
+        </h4>
+        <p class="fr-book-author">By Walter William Skeat</p>
         
-<p class="fr-book-desc">Strong foundation for understanding the breadth of Malaysian folk traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Malay+Magic+by+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strong foundation for understanding the breadth of Malaysian folk traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Malay+Magic+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+encyclopedia+of+Malaysia+Archipelago+Press&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The encyclopedia of Malaysia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2303090-M.jpg" alt="Cover for The encyclopedia of Malaysia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+encyclopedia+of+Malaysia+Archipelago+Press&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of Malaysia">The encyclopedia of Malaysia</a>
-</h4>
-<p class="fr-book-author">By Archipelago Press</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+encyclopedia+of+Malaysia+Archipelago+Press&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The encyclopedia of Malaysia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2303090-M.jpg" alt="Cover for The encyclopedia of Malaysia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+encyclopedia+of+Malaysia+Archipelago+Press&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of Malaysia">The encyclopedia of Malaysia</a>
+        </h4>
+        <p class="fr-book-author">By Archipelago Press</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Encyclopedias, Malaysia, Malaysia, description and travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+encyclopedia+of+Malaysia+Archipelago+Press&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers performance traditions that preserve folklore and oral heritage.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+encyclopedia+of+Malaysia+Archipelago+Press&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Malaysian+Folktales+Tuttle+Publishing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malaysian Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Malaysian+Folktales+Tuttle+Publishing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malaysian Folktales">Malaysian Folktales</a>
-</h4>
-<p class="fr-book-author">By Tuttle Publishing</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hikayat+Hang+Tuah+Kassim+Ahmad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hikayat Hang Tuah on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hikayat+Hang+Tuah+Kassim+Ahmad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hikayat Hang Tuah">Hikayat Hang Tuah</a>
+        </h4>
+        <p class="fr-book-author">By Kassim Ahmad</p>
         
-<p class="fr-book-desc">Introduces many of the legends and story types discussed on the page.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Malaysian+Folktales+Tuttle+Publishing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Central source for Malaysia&#x27;s most famous legendary hero.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hikayat+Hang+Tuah+Kassim+Ahmad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hikayat+Hang+Tuah+by+Kassim+Ahmad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hikayat Hang Tuah on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hikayat+Hang+Tuah+by+Kassim+Ahmad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hikayat Hang Tuah">Hikayat Hang Tuah</a>
-</h4>
-<p class="fr-book-author">By Kassim Ahmad</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Malaysian+Folktales+Tuttle+Publishing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malaysian Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Malaysian+Folktales+Tuttle+Publishing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malaysian Folktales">Malaysian Folktales</a>
+        </h4>
+        <p class="fr-book-author">By Tuttle Publishing</p>
         
-<p class="fr-book-desc">Central source for Malaysia&#x27;s most famous legendary hero.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hikayat+Hang+Tuah+by+Kassim+Ahmad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces many of the legends and story types discussed on the page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Malaysian+Folktales+Tuttle+Publishing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Malay+Magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malay Magic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+encyclopedia+of+Malaysia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The encyclopedia of Malaysia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Malaysian+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malaysian Folktales</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Malay+Magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malay Magic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+encyclopedia+of+Malaysia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The encyclopedia of Malaysia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hikayat+Hang+Tuah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hikayat Hang Tuah</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -321,89 +321,89 @@ The Pontianak endures because she embodies fears that never entirely disappear. 
 Her lasting significance also comes from her ambiguity. She is both victim and threat, beautiful and terrifying, traditional and modern. A simple monster can become dated; a figure carrying unresolved social tensions can survive for centuries. That is why the Pontianak remains at the centre of Malaysian folk horror, continuing to evolve while retaining the qualities that first made her one of the most feared figures in Malay storytelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/5DC7CCDBF43B025C8B94C1F25099EFA1/9789048552832c8_p191-216_CBO.pdf/reimagining_the_pontianak_myth_in_malaysian_folk_horror_flexible_tradition_cinema_and_cultural_memory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resolve.cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resolve.cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment8 Reimagining the Pontianak Myth in Malaysian Folk HorrorThe essay focuses on depictions of the po...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why the Pontianak Still Frightens Malaysia. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why the Pontianak Still Frightens Malaysia. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Malay+Magic+by+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malay Magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F8YoAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Malay Magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Malay+Magic+by+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malay Magic">Malay Magic</a>
-</h4>
-<p class="fr-book-author">By Walter William Skeat</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Malay+Magic+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malay Magic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F8YoAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Malay Magic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Malay+Magic+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malay Magic">Malay Magic</a>
+        </h4>
+        <p class="fr-book-author">By Walter William Skeat</p>
         
-<p class="fr-book-desc">One of the strongest book sources for Malay ghost traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Malay+Magic+by+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">One of the strongest book sources for Malay ghost traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Malay+Magic+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Almost+Complete+Collection+of+True+Singapore+Ghost+Stories+by+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Almost Complete Collection of True Singapore Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uqdGAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Almost Complete Collection of True Singapore Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Almost+Complete+Collection+of+True+Singapore+Ghost+Stories+by+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Almost Complete Collection of True Singapore Ghost Stories">The Almost Complete Collection of True Singapore Ghost Stories</a>
-</h4>
-<p class="fr-book-author">By Russell Lee</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Almost+Complete+Collection+of+True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Almost Complete Collection of True Singapore Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uqdGAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Almost Complete Collection of True Singapore Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Almost+Complete+Collection+of+True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Almost Complete Collection of True Singapore Ghost Stories">The Almost Complete Collection of True Singapore Ghost Stories</a>
+        </h4>
+        <p class="fr-book-author">By Russell Lee</p>
         
-<p class="fr-book-desc">Frequently includes regional ghost motifs closely related to Pontianak lore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Almost+Complete+Collection+of+True+Singapore+Ghost+Stories+by+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Frequently includes regional ghost motifs closely related to Pontianak lore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Almost+Complete+Collection+of+True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open True Singapore Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1055488-M.jpg" alt="Cover for True Singapore Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="True Singapore Ghost Stories">True Singapore Ghost Stories</a>
-</h4>
-<p class="fr-book-author">By Russell Lee</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Woman+in+Black+Susan+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Woman in Black on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rUIZBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Woman in Black" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Woman+in+Black+Susan+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Woman in Black">The Woman in Black</a>
+        </h4>
+        <p class="fr-book-author">By Susan Hill</p>
         
-<p class="fr-book-desc">First published 1992. Subjects: Psychology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers drawn to haunting female-spirit narratives similar to the Pontianak.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Woman+in+Black+Susan+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Woman+in+Black+by+Theatre+Aquarius+Archives+%28University+of+Guelph%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Woman in Black on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Woman+in+Black+by+Theatre+Aquarius+Archives+%28University+of+Guelph%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Woman in Black">The Woman in Black</a>
-</h4>
-<p class="fr-book-author">By Theatre Aquarius Archives (University of Guelph), Grand Theatre Collection (University of Guelph) et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open True Singapore Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1055488-M.jpg" alt="Cover for True Singapore Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="True Singapore Ghost Stories">True Singapore Ghost Stories</a>
+        </h4>
+        <p class="fr-book-author">By Russell Lee</p>
         
-<p class="fr-book-desc">Appeals to readers drawn to haunting female-spirit narratives similar to the Pontianak.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Woman+in+Black+by+Theatre+Aquarius+Archives+%28University+of+Guelph%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1992. Subjects: Psychology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=True+Singapore+Ghost+Stories+Russell+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Malay+Magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malay Magic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Almost+Complete+Collection+of+True+Singapore+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Almost Complete Collection of True Singapore Ghost Stories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=True+Singapore+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">True Singapore Ghost Stories</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Malay+Magic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malay Magic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Almost+Complete+Collection+of+True+Singapore+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Almost Complete Collection of True Singapore Ghost Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Woman+in+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Woman in Black</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

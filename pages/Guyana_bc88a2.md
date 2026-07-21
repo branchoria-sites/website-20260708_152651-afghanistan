@@ -1307,89 +1307,89 @@ There is also an urgent preservation question. Guyanese cultural commentators ha
 For curious readers, the best entry point is therefore not a single “official” list of Guyanese monsters. It is the living network of stories: Indigenous tales from the Rupununi and Pakaraima landscapes, Kaieteur’s sacrificial legend, Anansi’s cleverness, the jumbie-haunted coast, Indo-Guyanese ghost traditions, and modern artists who keep turning old fears into poems, performances, drawings and new fiction. Guyana’s folklore is not just about what people feared. It is about how they made meaning.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Guyana&#x27;s Rivers Become Story. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Guyana&#x27;s Rivers Become Story. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Oral+Literature+in+Africa+by+Ruth+Finnegan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oral Literature in Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l9sNA1ACBkMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Oral Literature in Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Oral+Literature+in+Africa+by+Ruth+Finnegan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oral Literature in Africa">Oral Literature in Africa</a>
-</h4>
-<p class="fr-book-author">By Ruth Finnegan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi the Spider on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J_Y5PgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Anansi the Spider" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi the Spider">Anansi the Spider</a>
+        </h4>
+        <p class="fr-book-author">By Gerald McDermott</p>
         
-<p class="fr-book-desc">Helpful for understanding oral storytelling traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Oral+Literature+in+Africa+by+Ruth+Finnegan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Anansi stories are deeply connected to Guyanese storytelling culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi the Spider on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/579042-M.jpg" alt="Cover for Anansi the Spider" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi the Spider">Anansi the Spider</a>
-</h4>
-<p class="fr-book-author">By Gerald McDermott</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Oral+Literature+in+Africa+Ruth+Finnegan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oral Literature in Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l9sNA1ACBkMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Oral Literature in Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Oral+Literature+in+Africa+Ruth+Finnegan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oral Literature in Africa">Oral Literature in Africa</a>
+        </h4>
+        <p class="fr-book-author">By Ruth Finnegan</p>
         
-<p class="fr-book-desc">First published 1972. Subjects: Anansi (Legendary character), Ashanti (African people), Ashanti Folklore, Children&#x27;s stories, Folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helpful for understanding oral storytelling traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Oral+Literature+in+Africa+Ruth+Finnegan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales%3A+Stories+from+the+Islands+and+the+Windward+Coast+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Folk Tales: Stories from the Islands and the Windward Coast on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales%3A+Stories+from+the+Islands+and+the+Windward+Coast+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales: Stories from the Islands and the Windward Coast">Caribbean Folk Tales: Stories from the Islands and the Windwa...</a>
-</h4>
-<p class="fr-book-author">By Roger D. Abrahams</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales%3A+Stories+from+the+Islands+and+the+Windward+Coast+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Folk Tales: Stories from the Islands and the Windward Coast on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales%3A+Stories+from+the+Islands+and+the+Windward+Coast+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales: Stories from the Islands and the Windward Coast">Caribbean Folk Tales: Stories from the Islands and the Windwa...</a>
+        </h4>
+        <p class="fr-book-author">By Roger D. Abrahams</p>
         
-<p class="fr-book-desc">Strong overview for readers exploring Guyanese folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales%3A+Stories+from+the+Islands+and+the+Windward+Coast+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strong overview for readers exploring Guyanese folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales%3A+Stories+from+the+Islands+and+the+Windward+Coast+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+Treasury+of+Caribbean+Folklore+John+Killens+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Treasury of Caribbean Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Treasury+of+Caribbean+Folklore+John+Killens+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Treasury of Caribbean Folklore">A Treasury of Caribbean Folklore</a>
-</h4>
-<p class="fr-book-author">By John Killens and others</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+Treasury+of+Caribbean+Folklore+John+Killens+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Treasury of Caribbean Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Treasury+of+Caribbean+Folklore+John+Killens+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Treasury of Caribbean Folklore">A Treasury of Caribbean Folklore</a>
+        </h4>
+        <p class="fr-book-author">By John Killens and others</p>
         
-<p class="fr-book-desc">Covers legends, ghosts and oral traditions relevant to Guyana.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Treasury+of+Caribbean+Folklore+John+Killens+and+others&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers legends, ghosts and oral traditions relevant to Guyana.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Treasury+of+Caribbean+Folklore+John+Killens+and+others&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Oral+Literature+in+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oral Literature in Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+the+Spider&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi the Spider</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales%3A+Stories+from+the+Islands+and+the+Windward+Coast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caribbean Folk Tales: Stories from the Islands and the Windward Coast</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+the+Spider&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi the Spider</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Oral+Literature+in+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oral Literature in Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales%3A+Stories+from+the+Islands+and+the+Windward+Coast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caribbean Folk Tales: Stories from the Islands and the Windward Coast</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

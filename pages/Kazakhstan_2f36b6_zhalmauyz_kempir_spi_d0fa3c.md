@@ -324,89 +324,89 @@ For modern audiences, she functions on several levels at once. She is a memorabl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Who Is Zhalmauyz Kempir in Kazakh Folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Who Is Zhalmauyz Kempir in Kazakh Folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Russian Fairy Tales (Illustrated by Ivan Bilibin) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bv71KbM_ViAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Russian Fairy Tales (Illustrated by Ivan Bilibin)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Russian Fairy Tales (Illustrated by Ivan Bilibin)">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a>
-</h4>
-<p class="fr-book-author">By Alexander Afanasyev</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Russian Fairy Tales (Illustrated by Ivan Bilibin) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bv71KbM_ViAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Russian Fairy Tales (Illustrated by Ivan Bilibin)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Russian Fairy Tales (Illustrated by Ivan Bilibin)">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Afanasyev</p>
         
-<p class="fr-book-desc">Useful comparative reading for witch-crone archetypes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful comparative reading for witch-crone archetypes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Russian Fairy Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10122321-M.jpg" alt="Cover for Russian Fairy Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Russian Fairy Tales">Russian Fairy Tales</a>
-</h4>
-<p class="fr-book-author">By Alexander Afanasyev, Ivan I͡Akovlevich Bilibin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The book of Dede Korkut on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9634922-M.jpg" alt="Cover for The book of Dede Korkut" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of Dede Korkut">The book of Dede Korkut</a>
+        </h4>
+        <p class="fr-book-author">By Faruk Sümer, Warren S. Walker</p>
         
-<p class="fr-book-desc">First published 2012.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides cultural background to steppe mythic traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Tales+of+the+Golden+Horde+Nikolai+Fedorov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tales of the Golden Horde on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tales+of+the+Golden+Horde+Nikolai+Fedorov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tales of the Golden Horde">Tales of the Golden Horde</a>
-</h4>
-<p class="fr-book-author">By Nikolai Fedorov</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asian+Folktales+Aigul+Malikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asian Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Central+Asian+Folktales+Aigul+Malikova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asian Folktales">Central Asian Folktales</a>
+        </h4>
+        <p class="fr-book-author">By Aigul Malikova</p>
         
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tales+of+the+Golden+Horde+Nikolai+Fedorov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers access to witch, monster, and spirit narratives from the region.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Central+Asian+Folktales+Aigul+Malikova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Manas+Epic+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Manas Epic on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Manas+Epic+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Manas Epic">The Manas Epic</a>
-</h4>
-<p class="fr-book-author">By Anonymous</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Manas+Epic+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Manas Epic on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Manas+Epic+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Manas Epic">The Manas Epic</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous</p>
         
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Manas+Epic+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates performance-based steppe storytelling culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Manas+Epic+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Russian+Fairy+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Russian Fairy Tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tales+of+the+Golden+Horde&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tales of the Golden Horde</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The book of Dede Korkut</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Central+Asian+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Central Asian Folktales</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

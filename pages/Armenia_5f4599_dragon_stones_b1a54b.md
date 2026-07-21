@@ -330,89 +330,89 @@ Dragon stones occupy a unique place in Armenian cultural heritage because they c
 For visitors and readers interested in Armenian folklore, the stones are a reminder that legends do not emerge in isolation. Stories attach themselves to rivers, mountains, springs and ancient monuments. Over thousands of years, practical concerns about water, sacred rituals, local memory and dragon tales became woven together. The dragon stones therefore stand not only as prehistoric monuments but also as evidence of how landscapes themselves become storytellers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armgeo.am/en/vishaps-of-armenian-highland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armgeo.am">[armgeo.am]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armgeo.am</span><span class="citation-popover-title">Armenian Geographic</span><span class="citation-popover-snippet">In the myth, the water originates after the defeat of the vishap. Even in Ancient Armenia, at the...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Are Armenia&#x27;s Dragon Stones?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Are Armenia&#x27;s Dragon Stones?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Epic of Gilgamesh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wMomCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Epic of Gilgamesh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Epic of Gilgamesh">The Epic of Gilgamesh</a>
-</h4>
-<p class="fr-book-author">By Anonymous Anonymous</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Epic of Gilgamesh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wMomCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Epic of Gilgamesh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Epic of Gilgamesh">The Epic of Gilgamesh</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous Anonymous</p>
         
-<p class="fr-book-desc">Offers comparative context for heroic oral epics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers comparative context for heroic oral epics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Armenian+Folktales+and+Fables+Zaven+Arzoumanian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenian Folktales and Fables on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Armenian+Folktales+and+Fables+Zaven+Arzoumanian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenian Folktales and Fables">Armenian Folktales and Fables</a>
-</h4>
-<p class="fr-book-author">By Zaven Arzoumanian</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Daredevils+of+Sassoun+Leon+Z.+Surmelian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Daredevils of Sassoun on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Daredevils+of+Sassoun+Leon+Z.+Surmelian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Daredevils of Sassoun">Daredevils of Sassoun</a>
+        </h4>
+        <p class="fr-book-author">By Leon Z. Surmelian</p>
         
-<p class="fr-book-desc">Introduces dragon lore and traditional narratives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Armenian+Folktales+and+Fables+Zaven+Arzoumanian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces dragon-fighting heroic motifs found in regional folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Daredevils+of+Sassoun+Leon+Z.+Surmelian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Armenian+Legends+and+Poems+by+Zabelle+Boyajian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenian Legends and Poems on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Armenian+Legends+and+Poems+by+Zabelle+Boyajian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenian Legends and Poems">Armenian Legends and Poems</a>
-</h4>
-<p class="fr-book-author">By Zabelle Boyajian</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Armenian+Legends+and+Poems+Zabelle+Boyajian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenian Legends and Poems on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Armenian+Legends+and+Poems+Zabelle+Boyajian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenian Legends and Poems">Armenian Legends and Poems</a>
+        </h4>
+        <p class="fr-book-author">By Zabelle Boyajian</p>
         
-<p class="fr-book-desc">Explores legendary themes connected with Armenia&#x27;s past.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Armenian+Legends+and+Poems+by+Zabelle+Boyajian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores legendary themes connected with Armenia&#x27;s past.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Armenian+Legends+and+Poems+Zabelle+Boyajian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Daredevils+of+Sassoun+by+Leon+Z.+Surmelian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Daredevils of Sassoun on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Daredevils+of+Sassoun+by+Leon+Z.+Surmelian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Daredevils of Sassoun">Daredevils of Sassoun</a>
-</h4>
-<p class="fr-book-author">By Leon Z. Surmelian</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Armenian+Folktales+and+Fables+Zaven+Arzoumanian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Armenian Folktales and Fables on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Armenian+Folktales+and+Fables+Zaven+Arzoumanian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenian Folktales and Fables">Armenian Folktales and Fables</a>
+        </h4>
+        <p class="fr-book-author">By Zaven Arzoumanian</p>
         
-<p class="fr-book-desc">Introduces dragon-fighting heroic motifs found in regional folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Daredevils+of+Sassoun+by+Leon+Z.+Surmelian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces dragon lore and traditional narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Armenian+Folktales+and+Fables+Zaven+Arzoumanian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Epic of Gilgamesh</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenian+Folktales+and+Fables&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Armenian Folktales and Fables</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenian+Legends+and+Poems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Armenian Legends and Poems</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Epic of Gilgamesh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Daredevils+of+Sassoun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Daredevils of Sassoun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Armenian+Legends+and+Poems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Armenian Legends and Poems</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

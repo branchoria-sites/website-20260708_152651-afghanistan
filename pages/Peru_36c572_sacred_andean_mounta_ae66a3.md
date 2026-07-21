@@ -313,89 +313,89 @@ Sacred mountain pilgrimages survive because they continue to serve practical and
 For readers interested in Peruvian folklore and belief culture, sacred mountain pilgrimages reveal something fundamental about the Andes. Stories, rituals, landscapes, music, and faith are not separate categories. They meet on mountain paths, in high-altitude shrines, and in annual journeys that continue to draw pilgrims long after the colonial period that helped shape them. The result is one of Peru’s most powerful examples of a living sacred landscape: a place where mountains remain social presences and where pilgrimage is still an active conversation between people, memory, and the high Andes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ich.unesco.org/en/RL/pilgrimage-to-the-sanctuary-of-the-lord-of-qoyllurit-i-00567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ich.unesco.org">[unesco.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ich.unesco.org</span><span class="citation-popover-snippet">Pilgrimage to the sanctuary of the Lord of Qoyllurit&#x27;iThe Pilgrimage to the sanctuary of the Lord of Qoyllurit&#x27;i combines eleme...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Peru&#x27;s Mountains Still Receive Pilgrims. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Peru&#x27;s Mountains Still Receive Pilgrims. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hold+Life+Has+by+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hold Life Has on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k5xfBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hold Life Has" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Hold+Life+Has+by+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hold Life Has">The Hold Life Has</a>
-</h4>
-<p class="fr-book-author">By Catherine J. Allen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shamanism%2C+Colonialism%2C+and+the+Wild+Man+Michael+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shamanism, Colonialism, and the Wild Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HpRfEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shamanism, Colonialism, and the Wild Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Shamanism%2C+Colonialism%2C+and+the+Wild+Man+Michael+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shamanism, Colonialism, and the Wild Man">Shamanism, Colonialism, and the Wild Man</a>
+        </h4>
+        <p class="fr-book-author">By Michael Taussig</p>
         
-<p class="fr-book-desc">Explains sacred landscapes, ritual practice and mountain-centered belief.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Hold+Life+Has+by+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores Andean and South American spiritual worlds and cultural transformation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Shamanism%2C+Colonialism%2C+and+the+Wild+Man+Michael+Taussig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountain+of+the+Condor+by+Joseph+W.+Bastien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountain of the Condor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=paAQAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mountain of the Condor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mountain+of+the+Condor+by+Joseph+W.+Bastien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountain of the Condor">Mountain of the Condor</a>
-</h4>
-<p class="fr-book-author">By Joseph W. Bastien</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hold+Life+Has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hold Life Has on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k5xfBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hold Life Has" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hold+Life+Has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hold Life Has">The Hold Life Has</a>
+        </h4>
+        <p class="fr-book-author">By Catherine J. Allen</p>
         
-<p class="fr-book-desc">Directly examines mountain symbolism and community relationships with sacred geography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mountain+of+the+Condor+by+Joseph+W.+Bastien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains sacred landscapes, ritual practice and mountain-centered belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hold+Life+Has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Huarochiri+Manuscript+by+Frank+Salomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Huarochiri Manuscript on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ry5MAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Huarochiri Manuscript" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Huarochiri+Manuscript+by+Frank+Salomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Huarochiri Manuscript">The Huarochiri Manuscript</a>
-</h4>
-<p class="fr-book-author">By Frank Salomon</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mountain+of+the+Condor+Joseph+W.+Bastien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mountain of the Condor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=paAQAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mountain of the Condor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mountain+of+the+Condor+Joseph+W.+Bastien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mountain of the Condor">Mountain of the Condor</a>
+        </h4>
+        <p class="fr-book-author">By Joseph W. Bastien</p>
         
-<p class="fr-book-desc">Documents sacred beings, mountains and ritual traditions in the Andes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Huarochiri+Manuscript+by+Frank+Salomon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly examines mountain symbolism and community relationships with sacred geography.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mountain+of+the+Condor+Joseph+W.+Bastien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Shamanism%2C+Colonialism%2C+and+the+Wild+Man+by+Michael+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shamanism, Colonialism, and the Wild Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HpRfEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shamanism, Colonialism, and the Wild Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Shamanism%2C+Colonialism%2C+and+the+Wild+Man+by+Michael+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shamanism, Colonialism, and the Wild Man">Shamanism, Colonialism, and the Wild Man</a>
-</h4>
-<p class="fr-book-author">By Michael Taussig</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Veins+of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Veins of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KHsqCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Open Veins of Latin America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Open+Veins+of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins of Latin America">Open Veins of Latin America</a>
+        </h4>
+        <p class="fr-book-author">By Eduardo Galeano</p>
         
-<p class="fr-book-desc">Explores Andean and South American spiritual worlds and cultural transformation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Shamanism%2C+Colonialism%2C+and+the+Wild+Man+by+Michael+Taussig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides historical context for the cultural blending seen in Andean pilgrimage traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Open+Veins+of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hold+Life+Has&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hold Life Has</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountain+of+the+Condor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountain of the Condor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Huarochiri+Manuscript&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Huarochiri Manuscript</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Shamanism%2C+Colonialism%2C+and+the+Wild+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shamanism, Colonialism, and the Wild Man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hold+Life+Has&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hold Life Has</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mountain+of+the+Condor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mountain of the Condor</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

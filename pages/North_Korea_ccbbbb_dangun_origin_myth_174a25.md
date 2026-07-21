@@ -310,89 +310,89 @@ For readers interested in folklore, the most revealing lesson is that myths do n
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Dangun Myth, Ancestor or State Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Dangun Myth, Ancestor or State Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cleanest+Race+by+B.R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cleanest Race on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KWQEAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cleanest Race" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cleanest+Race+by+B.R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cleanest Race">The Cleanest Race</a>
-</h4>
-<p class="fr-book-author">By B.R. Myers</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cleanest+Race+B.R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cleanest Race on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KWQEAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cleanest Race" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cleanest+Race+B.R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cleanest Race">The Cleanest Race</a>
+        </h4>
+        <p class="fr-book-author">By B.R. Myers</p>
         
-<p class="fr-book-desc">Helps readers understand how national myths can be repurposed by modern states.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cleanest+Race+by+B.R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand how national myths can be repurposed by modern states.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cleanest+Race+B.R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8822205-M.jpg" alt="Cover for Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise f...</a>
-</h4>
-<p class="fr-book-author">By Daniel Tudor</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8822205-M.jpg" alt="Cover for Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise f...</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Tudor</p>
         
-<p class="fr-book-desc">First published 2018. Subjects: Economic development, Korea, civilization, Civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2018. Subjects: Economic development, Korea, civilization, Civilization.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes+Daniel+Tudor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Korean+Mythology+Heinz+Insu+Fenkl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korean Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Korean+Mythology+Heinz+Insu+Fenkl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korean Mythology">Korean Mythology</a>
-</h4>
-<p class="fr-book-author">By Heinz Insu Fenkl</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Samguk+Yusa+buddhista+szerzetes+Ilyon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Samguk Yusa on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Samguk+Yusa+buddhista+szerzetes+Ilyon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Samguk Yusa">Samguk Yusa</a>
+        </h4>
+        <p class="fr-book-author">By buddhista szerzetes Ilyon</p>
         
-<p class="fr-book-desc">Includes Korea&#x27;s founding myths and the Dangun tradition.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Korean+Mythology+Heinz+Insu+Fenkl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Contains the earliest surviving written version of the Dangun story.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Samguk+Yusa+buddhista+szerzetes+Ilyon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Samguk+Yusa+by+buddhista+szerzetes+Ilyon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Samguk Yusa on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Samguk+Yusa+by+buddhista+szerzetes+Ilyon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Samguk Yusa">Samguk Yusa</a>
-</h4>
-<p class="fr-book-author">By buddhista szerzetes Ilyon</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Korean+Mythology+Heinz+Insu+Fenkl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korean Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Korean+Mythology+Heinz+Insu+Fenkl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korean Mythology">Korean Mythology</a>
+        </h4>
+        <p class="fr-book-author">By Heinz Insu Fenkl</p>
         
-<p class="fr-book-desc">Contains the earliest surviving written version of the Dangun story.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Samguk+Yusa+by+buddhista+szerzetes+Ilyon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes Korea&#x27;s founding myths and the Dangun tradition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Korean+Mythology+Heinz+Insu+Fenkl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cleanest+Race&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cleanest Race</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Korean+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Korean Mythology</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cleanest+Race&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cleanest Race</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Korea+%3A+The+Impossible+Country+%3A+South+Korea%27s+Amazing+Rise+from+the+Ashes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Korea : The Impossible Country : South Korea&#x27;s Amazing Rise from the Ashes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Samguk+Yusa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Samguk Yusa</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -332,89 +332,89 @@ For many visitors, northern Spain's mountains, caves and rivers are striking lan
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Who Lives in Spain&#x27;s Northern Otherworld?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Who Lives in Spain&#x27;s Northern Otherworld?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Basque+History+of+the+World+by+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Basque History of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FRygAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Basque History of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Basque+History+of+the+World+by+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Basque History of the World">The Basque History of the World</a>
-</h4>
-<p class="fr-book-author">By Mark Kurlansky</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Basque+History+of+the+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Basque History of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FRygAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Basque History of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Basque+History+of+the+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Basque History of the World">The Basque History of the World</a>
+        </h4>
+        <p class="fr-book-author">By Mark Kurlansky</p>
         
-<p class="fr-book-desc">Helps readers understand the cultural setting behind Mari and related legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Basque+History+of+the+World+by+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand the cultural setting behind Mari and related legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Basque+History+of+the+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fairy+and+Folk+Tales+of+the+Irish+Peasantry+by+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairy and Folk Tales of the Irish Peasantry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fUouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fairy and Folk Tales of the Irish Peasantry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fairy+and+Folk+Tales+of+the+Irish+Peasantry+by+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairy and Folk Tales of the Irish Peasantry">Fairy and Folk Tales of the Irish Peasantry</a>
-</h4>
-<p class="fr-book-author">By W. B. Yeats</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fairy+and+Folk+Tales+of+the+Irish+Peasantry+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairy and Folk Tales of the Irish Peasantry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fUouDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fairy and Folk Tales of the Irish Peasantry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fairy+and+Folk+Tales+of+the+Irish+Peasantry+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairy and Folk Tales of the Irish Peasantry">Fairy and Folk Tales of the Irish Peasantry</a>
+        </h4>
+        <p class="fr-book-author">By W. B. Yeats</p>
         
-<p class="fr-book-desc">Useful comparison for Atlantic and otherworld traditions similar to northern Iberia.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fairy+and+Folk+Tales+of+the+Irish+Peasantry+by+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful comparison for Atlantic and otherworld traditions similar to northern Iberia.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fairy+and+Folk+Tales+of+the+Irish+Peasantry+W.+B.+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Index+of+Spanish+folktales+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Index of Spanish folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6517347-M.jpg" alt="Cover for Index of Spanish folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Index+of+Spanish+folktales+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Index of Spanish folktales">Index of Spanish folktales</a>
-</h4>
-<p class="fr-book-author">By Ralph Steele Boggs</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10947401-M.jpg" alt="Cover for The Penguin Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
+        </h4>
+        <p class="fr-book-author">By Scott G. Bruce</p>
         
-<p class="fr-book-desc">First published 1930. Subjects: Bibliography, Classification, Fairy tales, Folklore, Spanish Tales.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Index+of+Spanish+folktales+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Connects to dragon and treasure-guardian traditions of northern Spain.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Index+of+Spanish+Folktales%2C+Classified+According+to+Antti+Aarne%27s+%27types+of+the+Folktale%27%2C+Translated+and+Enlarged+by+Stith+Thompson%2C+in+Ff.+Communications+No+74...+by+Ralph+Steele+Boggs+by+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Index of Spanish Folktales, Classified According to Antti Aarne&#x27;s &#x27;types of the Folktale&#x27;, Translated and Enlarged by Stith Thompson, in Ff. Communications No 74... by Ralph Steele Boggs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Index+of+Spanish+Folktales%2C+Classified+According+to+Antti+Aarne%27s+%27types+of+the+Folktale%27%2C+Translated+and+Enlarged+by+Stith+Thompson%2C+in+Ff.+Communications+No+74...+by+Ralph+Steele+Boggs+by+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Index of Spanish Folktales, Classified According to Antti Aarne&#x27;s &#x27;types of the Folktale&#x27;, Translated and Enlarged by Stith Thompson, in Ff. Communications No 74... by Ralph Steele Boggs">Index of Spanish Folktales, Classified According to Antti Aar...</a>
-</h4>
-<p class="fr-book-author">By Ralph Steele Boggs, Antti Aarne</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Index+of+Spanish+Folktales%2C+Classified+According+to+Antti+Aarne%27s+%27types+of+the+Folktale%27%2C+Translated+and+Enlarged+by+Stith+Thompson%2C+in+Ff.+Communications+No+74...+by+Ralph+Steele+Boggs+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Index of Spanish Folktales, Classified According to Antti Aarne&#x27;s &#x27;types of the Folktale&#x27;, Translated and Enlarged by Stith Thompson, in Ff. Communications No 74... by Ralph Steele Boggs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Index+of+Spanish+Folktales%2C+Classified+According+to+Antti+Aarne%27s+%27types+of+the+Folktale%27%2C+Translated+and+Enlarged+by+Stith+Thompson%2C+in+Ff.+Communications+No+74...+by+Ralph+Steele+Boggs+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Index of Spanish Folktales, Classified According to Antti Aarne&#x27;s &#x27;types of the Folktale&#x27;, Translated and Enlarged by Stith Thompson, in Ff. Communications No 74... by Ralph Steele Boggs">Index of Spanish Folktales, Classified According to Antti Aar...</a>
+        </h4>
+        <p class="fr-book-author">By Ralph Steele Boggs, Antti Aarne</p>
         
-<p class="fr-book-desc">Contains motifs involving enchanted women, treasure and supernatural beings.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Index+of+Spanish+Folktales%2C+Classified+According+to+Antti+Aarne%27s+%27types+of+the+Folktale%27%2C+Translated+and+Enlarged+by+Stith+Thompson%2C+in+Ff.+Communications+No+74...+by+Ralph+Steele+Boggs+by+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Contains motifs involving enchanted women, treasure and supernatural beings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Index+of+Spanish+Folktales%2C+Classified+According+to+Antti+Aarne%27s+%27types+of+the+Folktale%27%2C+Translated+and+Enlarged+by+Stith+Thompson%2C+in+Ff.+Communications+No+74...+by+Ralph+Steele+Boggs+Ralph+Steele+Boggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Basque+History+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Basque History of the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fairy+and+Folk+Tales+of+the+Irish+Peasantry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fairy and Folk Tales of the Irish Peasantry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Index+of+Spanish+folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Index of Spanish folktales</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Basque+History+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Basque History of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fairy+and+Folk+Tales+of+the+Irish+Peasantry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fairy and Folk Tales of the Irish Peasantry</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

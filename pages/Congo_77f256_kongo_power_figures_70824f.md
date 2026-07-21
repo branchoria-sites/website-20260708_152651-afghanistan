@@ -329,89 +329,89 @@ Modern Kongo power figures occupy a complex place between heritage, religion, ar
 For folklore enthusiasts, their importance lies in what they reveal about the unseen social world imagined by many Kongo communities. Stories about oath-breakers, thieves and hidden wrongs were not only told around fires or preserved in oral tradition. They were also embedded in objects believed capable of acting on behalf of justice itself. The fear they inspired was therefore inseparable from the protection they offered. A power figure was frightening because it stood with the community against deception, disorder and harm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.library.duke.edu/rubenstein/2016/04/13/nkisi-nkondi-history-medicine-collections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.library.duke.edu">[duke.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.library.duke.edu</span><span class="citation-popover-title">nkisi nkondi history medicine collections</span><span class="citation-popover-snippet">nkisi that are used to punish wrongdoing and enforce oaths. The... The spirit would then hunt down wrongdoers, such as thieves or an oat...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Were Kongo Power Figures Feared?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Were Kongo Power Figures Feared?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Kongo%3A+Power+and+Majesty+by+Alisa+LaGamma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kongo: Power and Majesty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ylRVCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Kongo: Power and Majesty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Kongo%3A+Power+and+Majesty+by+Alisa+LaGamma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kongo: Power and Majesty">Kongo: Power and Majesty</a>
-</h4>
-<p class="fr-book-author">By Alisa LaGamma</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Kongo%3A+Power+and+Majesty+Alisa+LaGamma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kongo: Power and Majesty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ylRVCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Kongo: Power and Majesty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Kongo%3A+Power+and+Majesty+Alisa+LaGamma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kongo: Power and Majesty">Kongo: Power and Majesty</a>
+        </h4>
+        <p class="fr-book-author">By Alisa LaGamma</p>
         
-<p class="fr-book-desc">Focused on Kongo culture, spirituality and power figures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Kongo%3A+Power+and+Majesty+by+Alisa+LaGamma&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focused on Kongo culture, spirituality and power figures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Kongo%3A+Power+and+Majesty+Alisa+LaGamma&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
-</h4>
-<p class="fr-book-author">By John S. Mbiti</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
+        </h4>
+        <p class="fr-book-author">By John S. Mbiti</p>
         
-<p class="fr-book-desc">Provides context for beliefs behind nkisi figures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for beliefs behind nkisi figures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Complexity%2C+Astonishment+and+Power+by+Wyatt+MacGaffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Complexity, Astonishment and Power on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Complexity%2C+Astonishment+and+Power+by+Wyatt+MacGaffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Complexity, Astonishment and Power">Complexity, Astonishment and Power</a>
-</h4>
-<p class="fr-book-author">By Wyatt MacGaffey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Art on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Art">African Art</a>
+        </h4>
+        <p class="fr-book-author">By Frank Willett</p>
         
-<p class="fr-book-desc">Examines Kongo concepts of spiritual power.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Complexity%2C+Astonishment+and+Power+by+Wyatt+MacGaffey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand museum interpretations of Kongo figures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Art on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Art">African Art</a>
-</h4>
-<p class="fr-book-author">By Frank Willett</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Complexity%2C+Astonishment+and+Power+Wyatt+MacGaffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Complexity, Astonishment and Power on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Complexity%2C+Astonishment+and+Power+Wyatt+MacGaffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Complexity, Astonishment and Power">Complexity, Astonishment and Power</a>
+        </h4>
+        <p class="fr-book-author">By Wyatt MacGaffey</p>
         
-<p class="fr-book-desc">Helps readers understand museum interpretations of Kongo figures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines Kongo concepts of spiritual power.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Complexity%2C+Astonishment+and+Power+Wyatt+MacGaffey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Kongo%3A+Power+and+Majesty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kongo: Power and Majesty</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions and Philosophy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Complexity%2C+Astonishment+and+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Complexity, Astonishment and Power</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Kongo%3A+Power+and+Majesty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kongo: Power and Majesty</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions and Philosophy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Art</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

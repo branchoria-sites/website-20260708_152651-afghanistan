@@ -331,89 +331,89 @@ For many Angolans, Chokwe masks remain powerful symbols of cultural continuity. 
 The enduring appeal of the makishi tradition lies in its ability to make ancestry visible. Through masking and dance, historical memory acquires a face, a voice and a body. Mwana Pwo, Chihongo and other masked figures remind audiences that ancestors are not remembered only through stories. In Chokwe performance culture, they return, dance among the living and help define what it means to belong to a community across generations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.101lasttribes.com/tribes/Chokwe2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 101lasttribes.com">[101lasttribes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">101lasttribes.com</span><span class="citation-popover-snippet">akishi) to refer to an ancestral or nature spirit that is incarnated by a mask. The masquerader is...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Do Chokwe Masks Bring Spirits Back?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Do Chokwe Masks Bring Spirits Back?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Art on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Art">African Art</a>
-</h4>
-<p class="fr-book-author">By Frank Willett</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gYgREQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes">Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Liter...</a>
+        </h4>
+        <p class="fr-book-author">By Heli Chatelain</p>
         
-<p class="fr-book-desc">Provides strong context for Chokwe masking traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">One of the key published sources for Angolan oral literature.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gYgREQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes">Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Liter...</a>
-</h4>
-<p class="fr-book-author">By Heli Chatelain</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Folklore+Richard+Mercer+Dorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lsjfAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for African Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Folklore+Richard+Mercer+Dorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Folklore">African Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Richard Mercer Dorson</p>
         
-<p class="fr-book-desc">One of the key published sources for Angolan oral literature.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains folklore and ritual contexts behind masquerades.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Folklore+Richard+Mercer+Dorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+by+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encyclopedia of African Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+by+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of African Folklore">Encyclopedia of African Folklore</a>
-</h4>
-<p class="fr-book-author">By Philip Peek</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Art on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Art">African Art</a>
+        </h4>
+        <p class="fr-book-author">By Frank Willett</p>
         
-<p class="fr-book-desc">Explains folklore and ritual contexts behind masquerades.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+by+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides strong context for Chokwe masking traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
-</h4>
-<p class="fr-book-author">By John S. Mbiti</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encyclopedia of African Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of African Folklore">Encyclopedia of African Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Philip Peek</p>
         
-<p class="fr-book-desc">Useful for understanding ancestral presence and ritual meaning.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+by+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains folklore and ritual contexts behind masquerades.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Art</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Tales+of+Angola+Fifty+Tales%2C+with+Ki+Mbundu+Text+Literal+English+Translation+%2C+and+Notes+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Tales of Angola Fifty Tales, with Ki Mbundu Text Literal English Translation , and Notes books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encyclopedia of African Folklore</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Tales+of+Angola+Fifty+Tales%2C+with+Ki+Mbundu+Text+Literal+English+Translation+%2C+and+Notes+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Tales of Angola Fifty Tales, with Ki Mbundu Text Literal English Translation , and Notes books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Art</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

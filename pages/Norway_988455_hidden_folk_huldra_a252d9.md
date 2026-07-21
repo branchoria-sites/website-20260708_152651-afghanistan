@@ -322,89 +322,89 @@ Yet the deeper appeal of the hidden folk tradition lies in its vision of coexist
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Who Are Norway&#x27;s Hidden Folk?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Who Are Norway&#x27;s Hidden Folk?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Norwegian+Folk+Tales+by+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Norwegian Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Norwegian+Folk+Tales+by+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Norwegian Folk Tales">Norwegian Folk Tales</a>
-</h4>
-<p class="fr-book-author">By Peter Christen Asbjørnsen, Jørgen Engebretsen Moe</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trolls+John+Lindow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trolls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bDwTBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Trolls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Trolls+John+Lindow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trolls">Trolls</a>
+        </h4>
+        <p class="fr-book-author">By John Lindow</p>
         
-<p class="fr-book-desc">Includes traditions surrounding hidden folk and wilderness beings.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Norwegian+Folk+Tales+by+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers exploring Nordic supernatural beings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Trolls+John+Lindow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+by+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East of the Sun and West of the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+by+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East of the Sun and West of the Moon">East of the Sun and West of the Moon</a>
-</h4>
-<p class="fr-book-author">By Peter Christen Asbjørnsen, Jørgen Engebretsen Moe</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Norse+Mythology+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Norse Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XOsZDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Norse Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Norse+Mythology+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Norse Mythology">Norse Mythology</a>
+        </h4>
+        <p class="fr-book-author">By Neil Gaiman</p>
         
-<p class="fr-book-desc">Contains folklore themes linked to enchantment and hidden realms.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+by+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broader Scandinavian mythological context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Norse+Mythology+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scandinavian+Folk+Belief+and+Legend+by+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scandinavian Folk Belief and Legend on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Scandinavian+Folk+Belief+and+Legend+by+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scandinavian Folk Belief and Legend">Scandinavian Folk Belief and Legend</a>
-</h4>
-<p class="fr-book-author">By Reimund Kvideland, Henning K. Sehmsdorf</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Norwegian+Folk+Tales+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Norwegian Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Norwegian+Folk+Tales+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Norwegian Folk Tales">Norwegian Folk Tales</a>
+        </h4>
+        <p class="fr-book-author">By Peter Christen Asbjørnsen, Jørgen Engebretsen Moe</p>
         
-<p class="fr-book-desc">Directly addresses hidden people, huldra, and related beliefs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Scandinavian+Folk+Belief+and+Legend+by+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes traditions surrounding hidden folk and wilderness beings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Norwegian+Folk+Tales+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trolls+by+Brian+Froud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trolls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DM8nEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trolls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Trolls+by+Brian+Froud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trolls">Trolls</a>
-</h4>
-<p class="fr-book-author">By Brian Froud, Wendy Froud</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East of the Sun and West of the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East of the Sun and West of the Moon">East of the Sun and West of the Moon</a>
+        </h4>
+        <p class="fr-book-author">By Peter Christen Asbjørnsen, Jørgen Engebretsen Moe</p>
         
-<p class="fr-book-desc">Appeals to readers exploring Nordic supernatural beings.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Trolls+by+Brian+Froud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Contains folklore themes linked to enchantment and hidden realms.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Norwegian+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Norwegian Folk Tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East of the Sun and West of the Moon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scandinavian+Folk+Belief+and+Legend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scandinavian Folk Belief and Legend</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trolls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trolls</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Norse+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Norse Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Norwegian+Folk+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Norwegian Folk Tales</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -1815,4 +1815,57 @@ The best way to approach it is with both imagination and caution. The imaginatio
 
 107.<a id="endnote-107"></a>
    Source: reddit.com  
-   Link:<a href="https://www.reddit.com/r/mythology/comments/1sq2wy3/jinn_in_ancient_turkic_mythology_the_%C3%A7or_and_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mythology/comments/1sq2wy3/jinn_in_ancient_turkic_mythology_the_%C3%A7or_and_the/</a>  
+   Link:<a href="https://www.reddit.com/r/mythology/comments/1sq2wy3/jinn_in_ancient_turkic_mythology_the_%C3%A7or_and_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mythology/comments/1sq2wy3/jinn_in_ancient_turkic_mythology_the_%C3%A7or_and_the/</a>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Turkish Folklore Still Feels Alive. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Birds+Without+Wings+Louis+De+Berni%C3%A8res&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Birds Without Wings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vtk9vPdymNUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Birds Without Wings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Birds+Without+Wings+Louis+De+Berni%C3%A8res&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Birds Without Wings">Birds Without Wings</a>
+        </h4>
+        <p class="fr-book-author">By Louis De Bernières</p>
+        
+        <p class="fr-book-desc">Evokes Anatolian culture and storytelling traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Birds+Without+Wings+Louis+De+Berni%C3%A8res&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The book of Dede Korkut on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9634922-M.jpg" alt="Cover for The book of Dede Korkut" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of Dede Korkut">The book of Dede Korkut</a>
+        </h4>
+        <p class="fr-book-author">By Faruk Sümer, Warren S. Walker</p>
+        
+        <p class="fr-book-desc">Foundational source for Turkish heroic tradition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut+Faruk+S%C3%BCmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Birds+Without+Wings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Birds Without Wings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+book+of+Dede+Korkut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The book of Dede Korkut</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+

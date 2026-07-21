@@ -1297,89 +1297,72 @@ Djibouti’s folklore is best approached as living cultural memory rather than a
 The most distinctive Djiboutian examples include the Issa origin story centred on a holy ancestor and shrine; the poetic traditions of Somali and Afar communities; Xeer Ciise as oral customary law; Xeedho and Zaffa as wedding heritage; and the prehistoric rock engravings of Abourma as a visual reminder of older pastoral worlds. These are not random curiosities. They show how Djiboutian communities remember who they are, bless marriages, resolve disputes, honour ancestors and make meaning in one of the most dramatic landscapes in the Horn of Africa.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Djibouti Keeps Its Legends Alive. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Djibouti Keeps Its Legends Alive. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Saints+and+Somalis+by+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saints and Somalis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=P5AZyEhMtbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Saints and Somalis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Saints+and+Somalis+by+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saints and Somalis">Saints and Somalis</a>
-</h4>
-<p class="fr-book-author">By I. M. Lewis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Saints+and+Somalis+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saints and Somalis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=P5AZyEhMtbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Saints and Somalis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Saints+and+Somalis+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saints and Somalis">Saints and Somalis</a>
+        </h4>
+        <p class="fr-book-author">By I. M. Lewis</p>
         
-<p class="fr-book-desc">Links folklore, ancestry, and Islamic traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Saints+and+Somalis+by+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Links folklore, ancestry, and Islamic traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Saints+and+Somalis+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Somali+Poetry+by+B.+W.+Andrzejewski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Somali Poetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_viAAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Somali Poetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Somali+Poetry+by+B.+W.+Andrzejewski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Somali Poetry">Somali Poetry</a>
-</h4>
-<p class="fr-book-author">By B. W. Andrzejewski</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Somali+Poetry+B.+W.+Andrzejewski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Somali Poetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_viAAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Somali Poetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Somali+Poetry+B.+W.+Andrzejewski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Somali Poetry">Somali Poetry</a>
+        </h4>
+        <p class="fr-book-author">By B. W. Andrzejewski</p>
         
-<p class="fr-book-desc">Explains a major vehicle for stories and memory in the region.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Somali+Poetry+by+B.+W.+Andrzejewski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains a major vehicle for stories and memory in the region.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Somali+Poetry+B.+W.+Andrzejewski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Oral+Literature+of+the+Somali+Ahmed+Hussein+Ali&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oral Literature of the Somali on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Oral+Literature+of+the+Somali+Ahmed+Hussein+Ali&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oral Literature of the Somali">Oral Literature of the Somali</a>
-</h4>
-<p class="fr-book-author">By Ahmed Hussein Ali</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Oral+Literature+of+the+Somali+Ahmed+Hussein+Ali&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oral Literature of the Somali on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Oral+Literature+of+the+Somali+Ahmed+Hussein+Ali&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oral Literature of the Somali">Oral Literature of the Somali</a>
+        </h4>
+        <p class="fr-book-author">By Ahmed Hussein Ali</p>
         
-<p class="fr-book-desc">Djiboutian folklore is deeply connected to Somali oral culture.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Oral+Literature+of+the+Somali+Ahmed+Hussein+Ali&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Djiboutian folklore is deeply connected to Somali oral culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Oral+Literature+of+the+Somali+Ahmed+Hussein+Ali&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Somali+Poetry%3A+An+Introduction+B.+W.+Andrzejewski+and+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Somali Poetry: An Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Somali+Poetry%3A+An+Introduction+B.+W.+Andrzejewski+and+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Somali Poetry: An Introduction">Somali Poetry: An Introduction</a>
-</h4>
-<p class="fr-book-author">By B. W. Andrzejewski and I. M. Lewis</p>
-        
-<p class="fr-book-desc">Explains a major vehicle for stories and memory in the region.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Somali+Poetry%3A+An+Introduction+B.+W.+Andrzejewski+and+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Saints+and+Somalis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saints and Somalis</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Somali+Poetry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Somali Poetry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Oral+Literature+of+the+Somali&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oral Literature of the Somali</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Saints+and+Somalis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saints and Somalis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Somali+Poetry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Somali Poetry</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Oral+Literature+of+the+Somali&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oral Literature of the Somali</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

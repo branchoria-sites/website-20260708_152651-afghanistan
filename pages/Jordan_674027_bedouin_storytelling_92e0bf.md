@@ -327,89 +327,89 @@ Bedouin storytelling in Petra and Wadi Rum is best understood as a cultural prac
 That is why UNESCO's recognition focuses on a cultural space rather than a single tale. The heritage lies in the continuing relationship between people, stories, poetry, songs, and landscape. In southern Jordan, the desert is not merely a backdrop for folklore. It is one of the main characters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ich.unesco.org/en/RL/cultural-space-of-the-bedu-in-petra-and-wadi-rum-00122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ich.unesco.org">[UNESCO Intangible Cultural Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ich.unesco.org</span><span class="citation-popover-snippet">UNESCO Intangible Cultural HeritageCultural space of the Bedu in Petra and Wadi RumTheir rich mythology is manifested in various forms of...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Jordan&#x27;s Desert Stories Belong to Places. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Jordan&#x27;s Desert Stories Belong to Places. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bedouin+of+the+Negev+by+Emanuel+Marx&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bedouin of the Negev on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lfu8AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bedouin of the Negev" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bedouin+of+the+Negev+by+Emanuel+Marx&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bedouin of the Negev">Bedouin of the Negev</a>
-</h4>
-<p class="fr-book-author">By Emanuel Marx</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bedouin+of+the+Negev+Emanuel+Marx&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bedouin of the Negev on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lfu8AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bedouin of the Negev" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bedouin+of+the+Negev+Emanuel+Marx&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bedouin of the Negev">Bedouin of the Negev</a>
+        </h4>
+        <p class="fr-book-author">By Emanuel Marx</p>
         
-<p class="fr-book-desc">Helps explain how oral traditions function in desert societies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bedouin+of+the+Negev+by+Emanuel+Marx&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain how oral traditions function in desert societies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bedouin+of+the+Negev+Emanuel+Marx&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights Entertainments [7 stories] on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1046897-M.jpg" alt="Cover for The Arabian Nights Entertainments [7 stories]" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights Entertainments [7 stories]">The Arabian Nights Entertainments [7 stories]</a>
-</h4>
-<p class="fr-book-author">By Anonymous</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights Entertainments [7 stories] on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1046897-M.jpg" alt="Cover for The Arabian Nights Entertainments [7 stories]" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights Entertainments [7 stories]">The Arabian Nights Entertainments [7 stories]</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous</p>
         
-<p class="fr-book-desc">First published 1973.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1973.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Petra%3A+Lost+City+of+the+Nabataeans+Jane+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Petra: Lost City of the Nabataeans on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Petra%3A+Lost+City+of+the+Nabataeans+Jane+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Petra: Lost City of the Nabataeans">Petra: Lost City of the Nabataeans</a>
-</h4>
-<p class="fr-book-author">By Jane Taylor</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Arab+Folktales+Inea+Bushnaq&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arab Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Arab+Folktales+Inea+Bushnaq&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arab Folktales">Arab Folktales</a>
+        </h4>
+        <p class="fr-book-author">By Inea Bushnaq</p>
         
-<p class="fr-book-desc">Provides landscape context for stories associated with Petra.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Petra%3A+Lost+City+of+the+Nabataeans+Jane+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Reflects oral storytelling traditions connected to place.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Arab+Folktales+Inea+Bushnaq&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Arab+Folktales+by+Inea+Bushnaq&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arab Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Arab+Folktales+by+Inea+Bushnaq&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arab Folktales">Arab Folktales</a>
-</h4>
-<p class="fr-book-author">By Inea Bushnaq</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Petra%3A+Lost+City+of+the+Nabataeans+Jane+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Petra: Lost City of the Nabataeans on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Petra%3A+Lost+City+of+the+Nabataeans+Jane+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Petra: Lost City of the Nabataeans">Petra: Lost City of the Nabataeans</a>
+        </h4>
+        <p class="fr-book-author">By Jane Taylor</p>
         
-<p class="fr-book-desc">Reflects oral storytelling traditions connected to place.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Arab+Folktales+by+Inea+Bushnaq&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides landscape context for stories associated with Petra.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Petra%3A+Lost+City+of+the+Nabataeans+Jane+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bedouin+of+the+Negev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bedouin of the Negev</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights Entertainments [7 stories]</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Petra%3A+Lost+City+of+the+Nabataeans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Petra: Lost City of the Nabataeans</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bedouin+of+the+Negev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bedouin of the Negev</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights Entertainments [7 stories]</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arab+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arab Folktales</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

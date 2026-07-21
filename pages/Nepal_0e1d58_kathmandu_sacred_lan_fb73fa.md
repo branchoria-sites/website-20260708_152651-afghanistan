@@ -328,89 +328,72 @@ Among Nepal’s many myths and sacred traditions, few are so closely tied to vis
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Kathmandu Once a Sacred Lake?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Kathmandu Once a Sacred Lake?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Myths+and+Legends+of+Nepal+Kamal+Ratna+Tuladhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of Nepal on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Nepal+Kamal+Ratna+Tuladhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of Nepal">Myths and Legends of Nepal</a>
-</h4>
-<p class="fr-book-author">By Kamal Ratna Tuladhar</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snow Leopard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c-txqLtYZQgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snow Leopard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
+        </h4>
+        <p class="fr-book-author">By Peter Matthiessen</p>
         
-<p class="fr-book-desc">Includes traditional narratives connected to Nepal’s sacred origins.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Nepal+Kamal+Ratna+Tuladhar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Captures the spiritual and cultural atmosphere that informs many mountain legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nepal+Mandala%3A+A+Cultural+Study+of+the+Kathmandu+Valley+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nepal Mandala: A Cultural Study of the Kathmandu Valley on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Nepal+Mandala%3A+A+Cultural+Study+of+the+Kathmandu+Valley+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nepal Mandala: A Cultural Study of the Kathmandu Valley">Nepal Mandala: A Cultural Study of the Kathmandu Valley</a>
-</h4>
-<p class="fr-book-author">By Mary Shepherd Slusser</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nepal+Mandala+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nepal Mandala on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nepal+Mandala+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nepal Mandala">Nepal Mandala</a>
+        </h4>
+        <p class="fr-book-author">By Mary Shepherd Slusser</p>
         
-<p class="fr-book-desc">Directly explores the valley, its sacred sites, origin traditions and religious geography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Nepal+Mandala%3A+A+Cultural+Study+of+the+Kathmandu+Valley+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explores the valley, its sacred sites, origin traditions and religious geography.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nepal+Mandala+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Nepal+Mandala+by+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nepal Mandala on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Nepal+Mandala+by+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nepal Mandala">Nepal Mandala</a>
-</h4>
-<p class="fr-book-author">By Mary Shepherd Slusser</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Myths+and+Legends+of+Nepal+Kamal+Ratna+Tuladhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of Nepal on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Nepal+Kamal+Ratna+Tuladhar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of Nepal">Myths and Legends of Nepal</a>
+        </h4>
+        <p class="fr-book-author">By Kamal Ratna Tuladhar</p>
         
-<p class="fr-book-desc">Directly explores the valley, its sacred sites, origin traditions and religious geography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Nepal+Mandala+by+Mary+Shepherd+Slusser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes traditional narratives connected to Nepal’s sacred origins.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Nepal+Kamal+Ratna+Tuladhar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snow Leopard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c-txqLtYZQgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snow Leopard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
-</h4>
-<p class="fr-book-author">By Peter Matthiessen</p>
-        
-<p class="fr-book-desc">Captures the spiritual and cultural atmosphere that informs many mountain legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends+of+Nepal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends of Nepal</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nepal+Mandala%3A+A+Cultural+Study+of+the+Kathmandu+Valley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nepal Mandala: A Cultural Study of the Kathmandu Valley</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nepal+Mandala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nepal Mandala</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snow+Leopard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snow Leopard</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nepal+Mandala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nepal Mandala</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends+of+Nepal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends of Nepal</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

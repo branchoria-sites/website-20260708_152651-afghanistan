@@ -1720,4 +1720,91 @@ The most interesting thing about New Zealand’s folklore is therefore not simpl
 
 83.<a id="endnote-83"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/nzherald.co.nz/posts/in-one-of-aotearoas-creation-stories-demi-god-maui-hauled-up-the-north-island-fr/1478084901023495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nzherald.co.nz/posts/in-one-of-aotearoas-creation-stories-demi-god-maui-hauled-up-the-north-island-fr/1478084901023495/</a>  
+   Link:<a href="https://www.facebook.com/nzherald.co.nz/posts/in-one-of-aotearoas-creation-stories-demi-god-maui-hauled-up-the-north-island-fr/1478084901023495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nzherald.co.nz/posts/in-one-of-aotearoas-creation-stories-demi-god-maui-hauled-up-the-north-island-fr/1478084901023495/</a>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where New Zealand&#x27;s Stories Live in the Land. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Maori+Myth+and+Legend+Reed+A.+W&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Maori Myth and Legend on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nboRPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Maori Myth and Legend" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Maori+Myth+and+Legend+Reed+A.+W&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Maori Myth and Legend">Maori Myth and Legend</a>
+        </h4>
+        <p class="fr-book-author">By Reed A. W</p>
+        
+        <p class="fr-book-desc">Introduces core stories tied to land, ancestry and identity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Maori+Myth+and+Legend+Reed+A.+W&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+M%C4%81ori+Myth+and+Legend+Margaret+Orbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Illustrated Encyclopedia of Māori Myth and Legend on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hCcMAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Illustrated Encyclopedia of Māori Myth and Legend" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+M%C4%81ori+Myth+and+Legend+Margaret+Orbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Illustrated Encyclopedia of Māori Myth and Legend">The Illustrated Encyclopedia of Māori Myth and Legend</a>
+        </h4>
+        <p class="fr-book-author">By Margaret Orbell</p>
+        
+        <p class="fr-book-desc">Explains important figures, places and traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+M%C4%81ori+Myth+and+Legend+Margaret+Orbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Polynesians+Johannes+Carl+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of the Polynesians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vdnjpRcNdyIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Myths and Legends of the Polynesians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Polynesians+Johannes+Carl+Andersen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of the Polynesians">Myths and Legends of the Polynesians</a>
+        </h4>
+        <p class="fr-book-author">By Johannes Carl Andersen</p>
+        
+        <p class="fr-book-desc">Places New Zealand stories within a wider Pacific tradition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Polynesians+Johannes+Carl+Andersen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Folklore+Simon+J.+Bronner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Folklore+Simon+J.+Bronner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore">Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Simon J. Bronner</p>
+        
+        <p class="fr-book-desc">Helps readers understand oral tradition and folklore transmission.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Folklore+Simon+J.+Bronner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Maori+Myth+and+Legend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Maori Myth and Legend</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Illustrated+Encyclopedia+of+M%C4%81ori+Myth+and+Legend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Illustrated Encyclopedia of Māori Myth and Legend</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Polynesians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends of the Polynesians</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+

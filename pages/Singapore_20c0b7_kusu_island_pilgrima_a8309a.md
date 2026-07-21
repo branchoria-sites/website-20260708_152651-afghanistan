@@ -312,89 +312,89 @@ Within Singapore’s wider folklore landscape, Kusu Island therefore serves as a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Do Pilgrims Visit Kusu Island?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Do Pilgrims Visit Kusu Island?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+by+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Singapore: A Biography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UHwX5pLHlm8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Singapore: A Biography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+by+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore: A Biography">Singapore: A Biography</a>
-</h4>
-<p class="fr-book-author">By Mark Ravinder Frost, Yu-Mei Balasingamchow</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Singapore: A Biography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UHwX5pLHlm8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Singapore: A Biography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore: A Biography">Singapore: A Biography</a>
+        </h4>
+        <p class="fr-book-author">By Mark Ravinder Frost, Yu-Mei Balasingamchow</p>
         
-<p class="fr-book-desc">Explains the multicultural setting behind pilgrimage traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+by+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the multicultural setting behind pilgrimage traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Singapore%3A+A+Biography+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Malay+Annals%2C+The%3A+Attack+Of+The+Garfish+And+Other+Adventures+by+Tun+Seri+Lanang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malay Annals, The: Attack Of The Garfish And Other Adventures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A2MzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Malay Annals, The: Attack Of The Garfish And Other Adventures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Malay+Annals%2C+The%3A+Attack+Of+The+Garfish+And+Other+Adventures+by+Tun+Seri+Lanang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malay Annals, The: Attack Of The Garfish And Other Adventures">Malay Annals, The: Attack Of The Garfish And Other Adventures</a>
-</h4>
-<p class="fr-book-author">By Tun Seri Lanang</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Malay+Annals%2C+The%3A+Attack+Of+The+Garfish+And+Other+Adventures+Tun+Seri+Lanang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malay Annals, The: Attack Of The Garfish And Other Adventures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A2MzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Malay Annals, The: Attack Of The Garfish And Other Adventures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Malay+Annals%2C+The%3A+Attack+Of+The+Garfish+And+Other+Adventures+Tun+Seri+Lanang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malay Annals, The: Attack Of The Garfish And Other Adventures">Malay Annals, The: Attack Of The Garfish And Other Adventures</a>
+        </h4>
+        <p class="fr-book-author">By Tun Seri Lanang</p>
         
-<p class="fr-book-desc">Introduces the wider Malay legendary world surrounding Singapore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Malay+Annals%2C+The%3A+Attack+Of+The+Garfish+And+Other+Adventures+by+Tun+Seri+Lanang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces the wider Malay legendary world surrounding Singapore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Malay+Annals%2C+The%3A+Attack+Of+The+Garfish+And+Other+Adventures+Tun+Seri+Lanang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Singapore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12837270-M.jpg" alt="Cover for Singapore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore">Singapore</a>
-</h4>
-<p class="fr-book-author">By Mark Ravinder Frost</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Singapore+Constance+Mary+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Singapore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+History+of+Singapore+Constance+Mary+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Singapore">A History of Singapore</a>
+        </h4>
+        <p class="fr-book-author">By Constance Mary Turnbull</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Biography, History, Singapore, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Adds historical context for religious and cultural traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+History+of+Singapore+Constance+Mary+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Singapore+by+Constance+Mary+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Singapore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+History+of+Singapore+by+Constance+Mary+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Singapore">A History of Singapore</a>
-</h4>
-<p class="fr-book-author">By Constance Mary Turnbull</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Malay+Annals+Hidayah+Amin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Malay Annals on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Malay+Annals+Hidayah+Amin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malay Annals">Malay Annals</a>
+        </h4>
+        <p class="fr-book-author">By Hidayah Amin, Eliz Ong et al.</p>
         
-<p class="fr-book-desc">Adds historical context for religious and cultural traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+History+of+Singapore+by+Constance+Mary+Turnbull&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces the wider Malay legendary world surrounding Singapore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Malay+Annals+Hidayah+Amin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Do+Pilgrims+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Do Pilgrims biography</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Malay+Annals%2C+The%3A+Attack+Of+The+Garfish+And+Other+Adventures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malay Annals, The: Attack Of The Garfish And Other Adventures</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Singapore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Singapore</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Do+Pilgrims+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Do Pilgrims biography</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Malay+Annals%2C+The%3A+Attack+Of+The+Garfish+And+Other+Adventures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Malay Annals, The: Attack Of The Garfish And Other Adventures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Singapore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Singapore</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

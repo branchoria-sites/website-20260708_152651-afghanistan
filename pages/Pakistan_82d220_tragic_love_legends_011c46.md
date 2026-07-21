@@ -343,89 +343,89 @@ What has not changed is their central message. Pakistan's great love legends are
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Pakistan&#x27;s Love Legends End in Tears. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Pakistan&#x27;s Love Legends End in Tears. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Heer+-+Ranjha+by+Syed+Waris+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heer - Ranjha on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Heer+-+Ranjha+by+Syed+Waris+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heer - Ranjha">Heer - Ranjha</a>
-</h4>
-<p class="fr-book-author">By Syed Waris Shah</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Heer+-+Ranjha+Syed+Waris+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heer - Ranjha on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Heer+-+Ranjha+Syed+Waris+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heer - Ranjha">Heer - Ranjha</a>
+        </h4>
+        <p class="fr-book-author">By Syed Waris Shah</p>
         
-<p class="fr-book-desc">Central text for understanding Pakistan&#x27;s love-legends tradition.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Heer+-+Ranjha+by+Syed+Waris+Shah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Central text for understanding Pakistan&#x27;s love-legends tradition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Heer+-+Ranjha+Syed+Waris+Shah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Risalo+of+Shah+Abdul+Latif+by+%CA%BBAbd+al-La%E1%B9%AD%C4%ABf+%28Shah%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risalo of Shah Abdul Latif on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Risalo+of+Shah+Abdul+Latif+by+%CA%BBAbd+al-La%E1%B9%AD%C4%ABf+%28Shah%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risalo of Shah Abdul Latif">Risalo of Shah Abdul Latif</a>
-</h4>
-<p class="fr-book-author">By ʻAbd al-Laṭīf (Shah)</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tales+of+the+Punjab+Flora+Annie+Steel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tales of the Punjab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wkruzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Tales of the Punjab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Tales+of+the+Punjab+Flora+Annie+Steel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tales of the Punjab">Tales of the Punjab</a>
+        </h4>
+        <p class="fr-book-author">By Flora Annie Steel</p>
         
-<p class="fr-book-desc">Preserves Sindhi heroines and romance traditions in poetic form.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Risalo+of+Shah+Abdul+Latif+by+%CA%BBAbd+al-La%E1%B9%AD%C4%ABf+%28Shah%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Captures regional storytelling traditions that shaped romantic legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Tales+of+the+Punjab+Flora+Annie+Steel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tales+of+the+Punjab+by+Flora+Annie+Steel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tales of the Punjab on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wkruzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Tales of the Punjab" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tales+of+the+Punjab+by+Flora+Annie+Steel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tales of the Punjab">Tales of the Punjab</a>
-</h4>
-<p class="fr-book-author">By Flora Annie Steel</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Risalo+of+Shah+Abdul+Latif+%CA%BBAbd+al-La%E1%B9%AD%C4%ABf+%28Shah%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risalo of Shah Abdul Latif on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Risalo+of+Shah+Abdul+Latif+%CA%BBAbd+al-La%E1%B9%AD%C4%ABf+%28Shah%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risalo of Shah Abdul Latif">Risalo of Shah Abdul Latif</a>
+        </h4>
+        <p class="fr-book-author">By ʻAbd al-Laṭīf (Shah)</p>
         
-<p class="fr-book-desc">Captures regional storytelling traditions that shaped romantic legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tales+of+the+Punjab+by+Flora+Annie+Steel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Preserves Sindhi heroines and romance traditions in poetic form.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Risalo+of+Shah+Abdul+Latif+%CA%BBAbd+al-La%E1%B9%AD%C4%ABf+%28Shah%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Shah+jo+Risalo+%CA%BBAbd+al-Latif+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shah jo Risalo on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Shah+jo+Risalo+%CA%BBAbd+al-Latif+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shah jo Risalo">Shah jo Risalo</a>
-</h4>
-<p class="fr-book-author">By ʻAbd al-Latif Shah</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Shah+jo+Risalo+%CA%BBAbd+al-Latif+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shah jo Risalo on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Shah+jo+Risalo+%CA%BBAbd+al-Latif+Shah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shah jo Risalo">Shah jo Risalo</a>
+        </h4>
+        <p class="fr-book-author">By ʻAbd al-Latif Shah</p>
         
-<p class="fr-book-desc">First published 1994.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Shah+jo+Risalo+%CA%BBAbd+al-Latif+Shah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Preserves Sindhi heroines and romance traditions in poetic form.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Shah+jo+Risalo+%CA%BBAbd+al-Latif+Shah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Heer+Ranjha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heer Ranjha</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Risalo+of+Shah+Abdul+Latif&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risalo of Shah Abdul Latif</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tales+of+the+Punjab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tales of the Punjab</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heer+Ranjha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heer Ranjha</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tales+of+the+Punjab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tales of the Punjab</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Risalo+of+Shah+Abdul+Latif&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risalo of Shah Abdul Latif</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -316,89 +316,89 @@ Today, visitors may encounter Big Drum as a cultural performance, but for many p
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Big Drum Sings to the Ancestors. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Big Drum Sings to the Ancestors. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Anthropology+of+Religion%2C+Magic%2C+and+Witchcraft+by+Rebecca+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Anthropology of Religion, Magic, and Witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HpcJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Anthropology of Religion, Magic, and Witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion%2C+Magic%2C+and+Witchcraft+by+Rebecca+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anthropology of Religion, Magic, and Witchcraft">The Anthropology of Religion, Magic, and Witchcraft</a>
-</h4>
-<p class="fr-book-author">By Rebecca L. Stein, Philip L. Stein et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Anthropology+of+Religion%2C+Magic%2C+and+Witchcraft+Rebecca+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Anthropology of Religion, Magic, and Witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HpcJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Anthropology of Religion, Magic, and Witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion%2C+Magic%2C+and+Witchcraft+Rebecca+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anthropology of Religion, Magic, and Witchcraft">The Anthropology of Religion, Magic, and Witchcraft</a>
+        </h4>
+        <p class="fr-book-author">By Rebecca L. Stein, Philip L. Stein et al.</p>
         
-<p class="fr-book-desc">Helps readers interpret ancestor relationships, ritual obligations and spirit traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion%2C+Magic%2C+and+Witchcraft+by+Rebecca+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers interpret ancestor relationships, ritual obligations and spirit traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion%2C+Magic%2C+and+Witchcraft+Rebecca+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Caribbean+by+Stephan+Palmi%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RvzLQX-M0dQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Caribbean+by+Stephan+Palmi%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caribbean">The Caribbean</a>
-</h4>
-<p class="fr-book-author">By Stephan Palmié, Francisco A. Scarano</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Caribbean+Stephan+Palmi%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RvzLQX-M0dQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Caribbean+Stephan+Palmi%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caribbean">The Caribbean</a>
+        </h4>
+        <p class="fr-book-author">By Stephan Palmié, Francisco A. Scarano</p>
         
-<p class="fr-book-desc">Explains the historical forces that shaped ancestral memory and identity in the Caribbean.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Caribbean+by+Stephan+Palmi%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the historical forces that shaped ancestral memory and identity in the Caribbean.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Caribbean+Stephan+Palmi%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+in+the+Caribbean%3A+Their+Historical%2C+Cultural%2C+and+Sacred+Traditions+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions in the Caribbean: Their Historical, Cultural, and Sacred Traditions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Religions+in+the+Caribbean%3A+Their+Historical%2C+Cultural%2C+and+Sacred+Traditions+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions in the Caribbean: Their Historical, Cultural, and Sacred Traditions">African Religions in the Caribbean: Their Historical, Cultura...</a>
-</h4>
-<p class="fr-book-author">By Frances Henry</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+Folklore+Donald+R.+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Caribbean+Folklore+Donald+R.+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folklore">Caribbean Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Donald R. Hill</p>
         
-<p class="fr-book-desc">Directly supports understanding of ancestor veneration and African continuities behind Big Drum.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Religions+in+the+Caribbean%3A+Their+Historical%2C+Cultural%2C+and+Sacred+Traditions+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Carriacou traditions within wider Caribbean folk practice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Caribbean+Folklore+Donald+R.+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+Folklore+by+Donald+R.+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Caribbean+Folklore+by+Donald+R.+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folklore">Caribbean Folklore</a>
-</h4>
-<p class="fr-book-author">By Donald R. Hill</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+in+the+Caribbean%3A+Their+Historical%2C+Cultural%2C+and+Sacred+Traditions+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions in the Caribbean: Their Historical, Cultural, and Sacred Traditions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Religions+in+the+Caribbean%3A+Their+Historical%2C+Cultural%2C+and+Sacred+Traditions+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions in the Caribbean: Their Historical, Cultural, and Sacred Traditions">African Religions in the Caribbean: Their Historical, Cultura...</a>
+        </h4>
+        <p class="fr-book-author">By Frances Henry</p>
         
-<p class="fr-book-desc">Places Carriacou traditions within wider Caribbean folk practice.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Caribbean+Folklore+by+Donald+R.+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly supports understanding of ancestor veneration and African continuities behind Big Drum.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Religions+in+the+Caribbean%3A+Their+Historical%2C+Cultural%2C+and+Sacred+Traditions+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Anthropology+of+Religion%2C+Magic%2C+and+Witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Anthropology of Religion, Magic, and Witchcraft</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Caribbean</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+in+the+Caribbean%3A+Their+Historical%2C+Cultural%2C+and+Sacred+Traditions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions in the Caribbean: Their Historical, Cultural, and Sacred Traditions</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Anthropology+of+Religion%2C+Magic%2C+and+Witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Anthropology of Religion, Magic, and Witchcraft</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Caribbean</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caribbean+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caribbean Folklore</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

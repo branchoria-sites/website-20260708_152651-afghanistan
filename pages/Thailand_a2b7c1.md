@@ -1341,89 +1341,55 @@ It also matters because Thai folklore is not fading into the past in any simple 
 The most memorable Thai traditions are rarely just “scary” or “beautiful”. They are both, and more. Mae Nak is frightening and tender. Phi Ta Khon is ghostly and joyful. Serpent legends are mythic and political, sacred and touristic. Nora is entertainment and ritual memory. *Khun Chang Khun Phaen* is literature and a map of protective magic. Together they show a folklore culture in which the unseen world is not remote from daily life. It lives at the shrine, on the stage, beside the river, in the cinema and in the stories people keep telling.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Thai Folklore Still Haunts Everyday Life. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Thai Folklore Still Haunts Everyday Life. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Very+Thai+by+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Very Thai on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5BSVmwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Very Thai" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Very+Thai+by+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Very Thai">Very Thai</a>
-</h4>
-<p class="fr-book-author">By Philip Cornwel-Smith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Very+Thai+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Very Thai on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5BSVmwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Very Thai" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Very+Thai+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Very Thai">Very Thai</a>
+        </h4>
+        <p class="fr-book-author">By Philip Cornwel-Smith</p>
         
-<p class="fr-book-desc">Shows how folklore, spirit beliefs and ritual practices remain embedded in daily life.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Very+Thai+by+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains many living cultural practices tied to folklore and belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Very+Thai+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tale+of+Khun+Chang+Khun+Phaen+by+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tale of Khun Chang Khun Phaen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8m-3NAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Tale of Khun Chang Khun Phaen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Tale+of+Khun+Chang+Khun+Phaen+by+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tale of Khun Chang Khun Phaen">The Tale of Khun Chang Khun Phaen</a>
-</h4>
-<p class="fr-book-author">By Chris Baker, Pasuk Phongpaichit</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Thai+Folktales+Praphan+Yoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thai Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thai+Folktales+Praphan+Yoon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thai Folktales">Thai Folktales</a>
+        </h4>
+        <p class="fr-book-author">By Praphan Yoon</p>
         
-<p class="fr-book-desc">One of the most important sources for understanding Thai folk beliefs and magical themes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Tale+of+Khun+Chang+Khun+Phaen+by+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Broad introduction to Thai folklore and storytelling.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thai+Folktales+Praphan+Yoon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Thai+Folktales+W.+H.+D.+Rouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thai Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Thai+Folktales+W.+H.+D.+Rouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thai Folktales">Thai Folktales</a>
-</h4>
-<p class="fr-book-author">By W. H. D. Rouse</p>
-        
-<p class="fr-book-desc">Direct introduction to Thai folklore, spirits, legends and traditional narratives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Thai+Folktales+W.+H.+D.+Rouse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Very+Thai%3A+Everyday+Popular+Culture+Philip+Cornwel+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Very Thai: Everyday Popular Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Very+Thai%3A+Everyday+Popular+Culture+Philip+Cornwel+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Very Thai: Everyday Popular Culture">Very Thai: Everyday Popular Culture</a>
-</h4>
-<p class="fr-book-author">By Philip Cornwel-Smith</p>
-        
-<p class="fr-book-desc">Shows how folklore, spirit beliefs and ritual practices remain embedded in daily life.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Very+Thai%3A+Everyday+Popular+Culture+Philip+Cornwel+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Very+Thai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Very Thai</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tale+of+Khun+Chang+Khun+Phaen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tale of Khun Chang Khun Phaen</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thai+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thai Folktales</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Very+Thai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Very Thai</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thai+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thai Folktales</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

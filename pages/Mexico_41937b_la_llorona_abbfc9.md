@@ -335,89 +335,89 @@ La Llorona endures because every generation finds a new use for her. She can be 
 That is why she remains Mexico’s travelling ghost story. The details change, the settings change and the interpretations change, but the cry survives. Wherever the story goes, listeners immediately know who is calling in the night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/folklife/2021/10/la-llorona-storytelling-for-halloween-and-da-de-muertos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">The Library of CongressLa Llorona: Storytelling for Halloween and Día de Muertos29 Oct 2021 — La Llorona, the Weeping Woman, is a spirit...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Does La Llorona Keep Returning?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Does La Llorona Keep Returning?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Woman+Hollering+Creek%2C+and+Other+Stories+by+Sandra+Cisneros&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Woman Hollering Creek, and Other Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZE1jAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Woman Hollering Creek, and Other Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Woman+Hollering+Creek%2C+and+Other+Stories+by+Sandra+Cisneros&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Woman Hollering Creek, and Other Stories">Woman Hollering Creek, and Other Stories</a>
-</h4>
-<p class="fr-book-author">By Sandra Cisneros</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mexican+Gothic+Silvia+Moreno-Garcia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mexican Gothic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrAKywEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mexican Gothic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mexican+Gothic+Silvia+Moreno-Garcia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mexican Gothic">Mexican Gothic</a>
+        </h4>
+        <p class="fr-book-author">By Silvia Moreno-Garcia</p>
         
-<p class="fr-book-desc">Reinterprets La Llorona themes in contemporary culture.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Woman+Hollering+Creek%2C+and+Other+Stories+by+Sandra+Cisneros&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers interested in modern Mexican ghostly narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mexican+Gothic+Silvia+Moreno-Garcia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mexican+Gothic+by+Silvia+Moreno-Garcia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mexican Gothic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrAKywEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mexican Gothic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mexican+Gothic+by+Silvia+Moreno-Garcia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mexican Gothic">Mexican Gothic</a>
-</h4>
-<p class="fr-book-author">By Silvia Moreno-Garcia</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Woman+Hollering+Creek%2C+and+Other+Stories+Sandra+Cisneros&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Woman Hollering Creek, and Other Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZE1jAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Woman Hollering Creek, and Other Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Woman+Hollering+Creek%2C+and+Other+Stories+Sandra+Cisneros&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Woman Hollering Creek, and Other Stories">Woman Hollering Creek, and Other Stories</a>
+        </h4>
+        <p class="fr-book-author">By Sandra Cisneros</p>
         
-<p class="fr-book-desc">Appeals to readers interested in modern Mexican ghostly narratives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mexican+Gothic+by+Silvia+Moreno-Garcia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Reinterprets La Llorona themes in contemporary culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Woman+Hollering+Creek%2C+and+Other+Stories+Sandra+Cisneros&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=La+llorona+%28the+weeping+woman+%3A+an+Hispanic+Legend%29+by+Joe+Hayes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open La llorona (the weeping woman : an Hispanic Legend) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=La+llorona+%28the+weeping+woman+%3A+an+Hispanic+Legend%29+by+Joe+Hayes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="La llorona (the weeping woman : an Hispanic Legend)">La llorona (the weeping woman : an Hispanic Legend)</a>
-</h4>
-<p class="fr-book-author">By Joe Hayes</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology of Mexico and Central America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I7gRAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Mythology of Mexico and Central America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology of Mexico and Central America">The Mythology of Mexico and Central America</a>
+        </h4>
+        <p class="fr-book-author">By John Bierhorst</p>
         
-<p class="fr-book-desc">Presents a classic version of the legend.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=La+llorona+%28the+weeping+woman+%3A+an+Hispanic+Legend%29+by+Joe+Hayes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places La Llorona within wider Mexican folklore traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+by+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology of Mexico and Central America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+by+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology of Mexico and Central America">The Mythology of Mexico and Central America</a>
-</h4>
-<p class="fr-book-author">By John Bierhorst</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=La+llorona+%28the+weeping+woman+%3A+an+Hispanic+Legend%29+Joe+Hayes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open La llorona (the weeping woman : an Hispanic Legend) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=La+llorona+%28the+weeping+woman+%3A+an+Hispanic+Legend%29+Joe+Hayes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="La llorona (the weeping woman : an Hispanic Legend)">La llorona (the weeping woman : an Hispanic Legend)</a>
+        </h4>
+        <p class="fr-book-author">By Joe Hayes</p>
         
-<p class="fr-book-desc">Places La Llorona within wider Mexican folklore traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+by+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Presents a classic version of the legend.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=La+llorona+%28the+weeping+woman+%3A+an+Hispanic+Legend%29+Joe+Hayes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Woman+Hollering+Creek%2C+and+Other+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Woman Hollering Creek, and Other Stories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mexican+Gothic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mexican Gothic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=La+llorona+%28the+weeping+woman+%3A+an+Hispanic+Legend%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">La llorona (the weeping woman : an Hispanic Legend)</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mexican+Gothic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mexican Gothic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Woman+Hollering+Creek%2C+and+Other+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Woman Hollering Creek, and Other Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology of Mexico and Central America</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
