@@ -332,30 +332,13 @@ Their enduring power comes from the way they unite several ideas at once. They a
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Myths of Origin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_hVD1Yepe6IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for African Myths of Origin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Myths of Origin">African Myths of Origin</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Belcher</p>
-        
-        <p class="fr-book-desc">Provides broad context for Central African myth, epic, and ancestral traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+Art+in+Africa+Monica+Blackmun+Vison%C3%A0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Art in Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oa00AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A History of Art in Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=A+History+of+Art+in+Africa+Monica+Blackmun+Vison%C3%A0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Art in Africa">A History of Art in Africa</a>
         </h4>
         <p class="fr-book-author">By Monica Blackmun Visonà, Robin Poynor et al.</p>
-        
+
         <p class="fr-book-desc">Explains cultural meaning of masks, performance, and ritual art.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+Art+in+Africa+Monica+Blackmun+Vison%C3%A0&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,16 +349,33 @@ Their enduring power comes from the way they unite several ideas at once. They a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Masks+Iris+Hahner-Herzog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Masks on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Masks+Iris+Hahner-Herzog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Masks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XI-1AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for African Masks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=African+Masks+Iris+Hahner-Herzog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Masks">African Masks</a>
         </h4>
-        <p class="fr-book-author">By Iris Hahner-Herzog, Maria Kecskesi et al.</p>
-        
+        <p class="fr-book-author">By Iris Hahner-Herzog, Maria Kecskési et al.</p>
+
         <p class="fr-book-desc">Directly relevant to Central African mask traditions and symbolism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Masks+Iris+Hahner-Herzog&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
+        </h4>
+        <p class="fr-book-author">By John S. Mbiti</p>
+
+        <p class="fr-book-desc">Helps explain ancestor concepts embodied in Punu mask performance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -389,7 +389,7 @@ Their enduring power comes from the way they unite several ideas at once. They a
           <a href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Art">African Art</a>
         </h4>
         <p class="fr-book-author">By Frank Willett</p>
-        
+
         <p class="fr-book-desc">Provides context for mask traditions including those from Gabon.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Their enduring power comes from the way they unite several ideas at once. They a
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Myths+of+Origin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Myths of Origin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Art+in+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Art in Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Masks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Masks</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+Art+in+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of Art in Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Masks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Masks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions and Philosophy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

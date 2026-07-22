@@ -335,7 +335,7 @@ This helps explain why sacred trees continue to matter in contemporary Lebanon. 
           <a href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arab Folklore">Arab Folklore</a>
         </h4>
         <p class="fr-book-author">By Dwight Reynolds</p>
-        
+
         <p class="fr-book-desc">Provides cultural background for tree veneration, saints and local traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,10 +352,27 @@ This helps explain why sacred trees continue to matter in contemporary Lebanon. 
           <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden Life of Trees">The Hidden Life of Trees</a>
         </h4>
         <p class="fr-book-author">By Peter Wohlleben</p>
-        
+
         <p class="fr-book-desc">Supports reader interest in trees as living presences tied to memory and community.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wisdom from the Hidden Life of Trees on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UTIF0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wisdom from the Hidden Life of Trees" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
+        </h4>
+        <p class="fr-book-author">By Peter Wohlleben</p>
+
+        <p class="fr-book-desc">A beautifully illustrated collection of insights from the international bestseller The Hidden Life of Trees. A perfect book for anyone wh...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -369,8 +386,8 @@ This helps explain why sacred trees continue to matter in contemporary Lebanon. 
           <a href="https://www.amazon.com/s?k=The+Phoenicians+Glenn+Markoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenicians">The Phoenicians</a>
         </h4>
         <p class="fr-book-author">By Glenn Markoe</p>
-        
-        <p class="fr-book-desc">Links Lebanese landscapes to ancient mythic cultures.</p>
+
+        <p class="fr-book-desc">The Phoenicians are one of the great enigmas of the ancient world. They were celebrated as learned scribes, who passed on the first writt...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Phoenicians+Glenn+Markoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -378,26 +395,9 @@ This helps explain why sacred trees continue to matter in contemporary Lebanon. 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wisdom from the Hidden Life of Trees on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
-        </h4>
-        <p class="fr-book-author">By Peter Wohlleben, Jane Billinghurst</p>
-        
-        <p class="fr-book-desc">First published 2024.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arab+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arab Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hidden Life of Trees</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenicians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenicians</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arab+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arab Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hidden Life of Trees</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wisdom from the Hidden Life of Trees</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -1338,27 +1338,10 @@ The deepest pattern across these traditions is relationship. Angolan folklore re
           <a href="https://www.amazon.com/s?k=African+Folklore+Richard+Mercer+Dorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Folklore">African Folklore</a>
         </h4>
         <p class="fr-book-author">By Richard Mercer Dorson</p>
-        
+
         <p class="fr-book-desc">Covers traditions, beliefs and storytelling across Africa including relevant cultural contexts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Folklore+Richard+Mercer+Dorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gYgREQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes">Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Liter...</a>
-        </h4>
-        <p class="fr-book-author">By Heli Chatelain</p>
-        
-        <p class="fr-book-desc">One of the key published sources for Angolan oral literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1372,7 +1355,7 @@ The deepest pattern across these traditions is relationship. Angolan folklore re
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s Ghost">King Leopold&#x27;s Ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Provides regional historical context for Central Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,16 +1366,33 @@ The deepest pattern across these traditions is relationship. Angolan folklore re
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encyclopedia of African Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gYgREQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of African Folklore">Encyclopedia of African Folklore</a>
+          <a href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Literal English Translation Introduction, and Notes">Folk-Tales of Angola - Fifty Tales, with Ki-Mbundu Text Liter...</a>
         </h4>
-        <p class="fr-book-author">By Philip Peek</p>
-        
-        <p class="fr-book-desc">Covers traditions, beliefs and storytelling across Africa including relevant cultural contexts.</p>
+        <p class="fr-book-author">By Heli Chatelain</p>
+
+        <p class="fr-book-desc">Many of the earliest books, particularly those dating back to the 1900s and before, are now extremely scarce and increasingly expensive....</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encyclopedia+of+African+Folklore+Philip+Peek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Folk-Tales+of+Angola+-+Fifty+Tales%2C+with+Ki-Mbundu+Text+Literal+English+Translation+Introduction%2C+and+Notes+Heli+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
+        </h4>
+        <p class="fr-book-author">By John S. Mbiti</p>
+
+        <p class="fr-book-desc">Explains themes recurring in many Angolan traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1400,7 +1400,7 @@ The deepest pattern across these traditions is relationship. Angolan folklore re
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Tales+of+Angola+Fifty+Tales%2C+with+Ki+Mbundu+Text+Literal+English+Translation+%2C+and+Notes+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Tales of Angola Fifty Tales, with Ki Mbundu Text Literal English Translation , and Notes books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s Ghost</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+Ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s Ghost</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Tales+of+Angola+Fifty+Tales%2C+with+Ki+Mbundu+Text+Literal+English+Translation+%2C+and+Notes+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Tales of Angola Fifty Tales, with Ki Mbundu Text Literal English Translation , and Notes books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

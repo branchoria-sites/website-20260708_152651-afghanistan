@@ -365,14 +365,48 @@ What makes Degei enduringly important is not simply that he is a famous legendar
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of the Pacific on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JksAAgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Myths and Legends of the Pacific" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of the Pacific">Myths and Legends of the Pacific</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Wyclif Reed</p>
+
+        <p class="fr-book-desc">Provides context for Nauru&#x27;s creation story and Pacific cosmologies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fijians+Basil+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fijians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1283216-M.jpg" alt="Cover for The Fijians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Fijians+Basil+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fijians">The Fijians</a>
+        </h4>
+        <p class="fr-book-author">By Basil Thomson</p>
+
+        <p class="fr-book-desc">Contains important early discussions of Degei, sacred authority and traditional religion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Fijians+Basil+Thomson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Illustrated Myths and Legends of the Pacific on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmqFGAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Illustrated Myths and Legends of the Pacific" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Illustrated Myths and Legends of the Pacific">Illustrated Myths and Legends of the Pacific</a>
         </h4>
         <p class="fr-book-author">By A.W. Reed</p>
-        
-        <p class="fr-book-desc">Places Fijian stories within regional traditions.</p>
+
+        <p class="fr-book-desc">A collection of traditional stories from the Caroline Islands, the Chatham and Cook Islands, Fiji, Hawaii, Marshall Islands, Nauru, New B...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -380,43 +414,9 @@ What makes Degei enduringly important is not simply that he is a famous legendar
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fijians%3A+A+Study+of+the+Decay+of+Custom+Basil+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fijians: A Study of the Decay of Custom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DidPV3S00UUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Fijians: A Study of the Decay of Custom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fijians%3A+A+Study+of+the+Decay+of+Custom+Basil+Thomson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fijians: A Study of the Decay of Custom">The Fijians: A Study of the Decay of Custom</a>
-        </h4>
-        <p class="fr-book-author">By Basil Thomson</p>
-        
-        <p class="fr-book-desc">Contains important early discussions of Degei, sacred authority and traditional religion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fijians%3A+A+Study+of+the+Decay+of+Custom+Basil+Thomson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Myths+and+legends+of+the+Pacific+A+W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and legends of the Pacific on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Myths+and+legends+of+the+Pacific+A+W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and legends of the Pacific">Myths and legends of the Pacific</a>
-        </h4>
-        <p class="fr-book-author">By A W. Reed</p>
-        
-        <p class="fr-book-desc">First published 2000. Subjects: Tales, Legends, Pacific Island Mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Myths+and+legends+of+the+Pacific+A+W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Illustrated Myths and Legends of the Pacific</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fijians%3A+A+Study+of+the+Decay+of+Custom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fijians: A Study of the Decay of Custom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+legends+of+the+Pacific&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and legends of the Pacific</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends of the Pacific</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fijians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fijians</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Illustrated Myths and Legends of the Pacific</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

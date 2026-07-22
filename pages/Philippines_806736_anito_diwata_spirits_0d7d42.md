@@ -337,16 +337,16 @@ In that sense, the Philippine spirit world is not separate from the landscape at
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Barangay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=15KZU-yMuisC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Barangay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Soul+Book+Francisco+R.+Demetrio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Soul Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TgANAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Soul Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay">Barangay</a>
+          <a href="https://www.amazon.com/s?k=The+Soul+Book+Francisco+R.+Demetrio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soul Book">The Soul Book</a>
         </h4>
-        <p class="fr-book-author">By William Henry Scott</p>
-        
-        <p class="fr-book-desc">Explains the social world in which anito and diwata beliefs flourished.</p>
+        <p class="fr-book-author">By Francisco R. Demetrio, Gilda Cordero- Fernando et al.</p>
+
+        <p class="fr-book-desc">Examines Filipino concepts of spirits, souls and sacred beings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Soul+Book+Francisco+R.+Demetrio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -360,7 +360,7 @@ In that sense, the Philippine spirit world is not separate from the landscape at
           <a href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Philippine Folk Literature">Philippine Folk Literature</a>
         </h4>
         <p class="fr-book-author">By Damiana L. Eugenio</p>
-        
+
         <p class="fr-book-desc">Covers spirit beings, creation stories and sacred traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ In that sense, the Philippine spirit world is not separate from the landscape at
           <a href="https://www.amazon.com/s?k=Mythology+Class+Arnold+Arre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mythology Class">Mythology Class</a>
         </h4>
         <p class="fr-book-author">By Arnold Arre</p>
-        
+
         <p class="fr-book-desc">Modern retelling featuring diwata and related mythic beings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mythology+Class+Arnold+Arre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,16 +388,16 @@ In that sense, the Philippine spirit world is not separate from the landscape at
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Myths+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myths on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Barangay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=15KZU-yMuisC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Barangay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myths+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myths">The Myths</a>
+          <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay">Barangay</a>
         </h4>
-        <p class="fr-book-author">By Damiana L. Eugenio</p>
-        
-        <p class="fr-book-desc">Covers spirit beings, creation stories and sacred traditions.</p>
+        <p class="fr-book-author">By William Henry Scott</p>
+
+        <p class="fr-book-desc">Barangay presents a sixteenth-century Philippine ethnography. Part One describes Visayan culture in eight chapters on physical appearance...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myths+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -405,7 +405,7 @@ In that sense, the Philippine spirit world is not separate from the landscape at
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Barangay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Barangay</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Philippine+Folk+Literature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Philippine Folk Literature</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mythology+Class&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mythology Class</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Soul+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Soul Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Philippine+Folk+Literature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Philippine Folk Literature</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mythology+Class&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mythology Class</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

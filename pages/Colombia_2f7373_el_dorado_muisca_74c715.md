@@ -333,27 +333,10 @@ For many readers, the surprising truth is more interesting than the fantasy. The
           <a href="https://www.amazon.com/s?k=The+Search+for+El+Dorado+John+Hemming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Search for El Dorado">The Search for El Dorado</a>
         </h4>
         <p class="fr-book-author">By John Hemming</p>
-        
+
         <p class="fr-book-desc">Directly examines the historical evolution of El Dorado.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Search+for+El+Dorado+John+Hemming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Les Conquistadors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GyFREAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Les Conquistadors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Les Conquistadors">Les Conquistadors</a>
-        </h4>
-        <p class="fr-book-author">By Fernando Cervantes</p>
-        
-        <p class="fr-book-desc">Explains how conquest-era ambitions transformed local traditions into treasure myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -367,7 +350,7 @@ For many readers, the surprising truth is more interesting than the fantasy. The
           <a href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas+David+Michael+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology of the Americas">The Mythology of the Americas</a>
         </h4>
         <p class="fr-book-author">By David Michael Jones, Brian Molyneaux</p>
-        
+
         <p class="fr-book-desc">Helps readers compare El Dorado with other Indigenous sacred narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas+David+Michael+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,16 +361,33 @@ For many readers, the surprising truth is more interesting than the fantasy. The
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Les Conquistadors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GyFREAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Les Conquistadors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
+          <a href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Les Conquistadors">Les Conquistadors</a>
         </h4>
-        <p class="fr-book-author">By Charles C. Mann</p>
-        
-        <p class="fr-book-desc">Provides context for understanding sophisticated pre-Columbian societies such as the Muisca.</p>
+        <p class="fr-book-author">By Fernando Cervantes</p>
+
+        <p class="fr-book-desc">Une vision renouvelée des conquistadors et de leur épopée qui a changé le monde. Les conquistadors, premiers explorateurs et colonisateur...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquistadors on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquistadors">Conquistadors</a>
+        </h4>
+        <p class="fr-book-author">By Fernando Cervantes</p>
+
+        <p class="fr-book-desc">Explains how conquest-era ambitions transformed local traditions into treasure myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,7 +395,7 @@ For many readers, the surprising truth is more interesting than the fantasy. The
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Search+for+El+Dorado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Search for El Dorado</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Les+Conquistadors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Les Conquistadors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology of the Americas</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Search+for+El+Dorado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Search for El Dorado</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology of the Americas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Les+Conquistadors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Les Conquistadors</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

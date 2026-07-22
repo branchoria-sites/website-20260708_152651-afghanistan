@@ -335,33 +335,16 @@ Seen together, these celebrations reveal an important feature of Salvadoran folk
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Latin American Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8mbDp7M20YC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Latin American Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Popol+Vuh+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popol Vuh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4925002-M.jpg" alt="Cover for Popol Vuh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Latin American Folktales">Latin American Folktales</a>
+          <a href="https://www.amazon.com/s?k=Popol+Vuh+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
         </h4>
-        <p class="fr-book-author">By John Bierhorst</p>
-        
-        <p class="fr-book-desc">Provides context for Salvadoran legends within Latin America.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Anonymous</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popol Vuh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=meVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Popol Vuh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
-        </h4>
-        <p class="fr-book-author">By Dennis Tedlock</p>
-        
         <p class="fr-book-desc">Connects readers with broader indigenous cultural traditions of the region.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Popol+Vuh+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -375,10 +358,27 @@ Seen together, these celebrations reveal an important feature of Salvadoran folk
           <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hero with a Thousand Faces">The Hero with a Thousand Faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Helps interpret recurring ritual and mythic themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Bough on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qEs-PgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Golden Bough" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
+        </h4>
+        <p class="fr-book-author">By James George Frazer</p>
+
+        <p class="fr-book-desc">Useful background on ritual symbolism and seasonal celebrations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -392,7 +392,7 @@ Seen together, these celebrations reveal an important feature of Salvadoran folk
           <a href="https://www.amazon.com/s?k=The+Anthropology+of+Performance+Victor+W.+Turner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anthropology of Performance">The Anthropology of Performance</a>
         </h4>
         <p class="fr-book-author">By Victor W. Turner</p>
-        
+
         <p class="fr-book-desc">Explains how public ritual becomes social drama and heritage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Anthropology+of+Performance+Victor+W.+Turner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Seen together, these celebrations reveal an important feature of Salvadoran folk
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Latin+American+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Latin American Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hero with a Thousand Faces</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hero with a Thousand Faces</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Bough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Bough</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

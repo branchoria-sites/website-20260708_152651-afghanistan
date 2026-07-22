@@ -1308,16 +1308,16 @@ The legend of Karthala gives the country’s folklore its most dramatic image: a
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights%2C+Volume+3+%28of+4%29+Richard+Westall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights, Volume 3 (of 4) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bJ8ZzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Arabian Nights, Volume 3 (of 4)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MlgbxwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Arabian+Nights%2C+Volume+3+%28of+4%29+Richard+Westall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights, Volume 3 (of 4)">The Arabian Nights, Volume 3 (of 4)</a>
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights">The Arabian Nights</a>
         </h4>
-        <p class="fr-book-author">By Richard Westall, R Anonymous</p>
-        
+        <p class="fr-book-author">By Anonymous</p>
+
         <p class="fr-book-desc">Reflects Islamic and Indian Ocean storytelling influences relevant to Comorian culture.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Arabian+Nights%2C+Volume+3+%28of+4%29+Richard+Westall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1325,16 +1325,16 @@ The legend of Karthala gives the country’s folklore its most dramatic image: a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MlgbxwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+World+John+Moore+Wickersham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A_08zGAiDn4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Myths and Legends of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights">The Arabian Nights</a>
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+World+John+Moore+Wickersham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of the World">Myths and Legends of the World</a>
         </h4>
-        <p class="fr-book-author">By Anonymous</p>
-        
-        <p class="fr-book-desc">Reflects Islamic and Indian Ocean storytelling influences relevant to Comorian culture.</p>
+        <p class="fr-book-author">By John Moore Wickersham</p>
+
+        <p class="fr-book-desc">Places Comorian traditions within global myth and folklore patterns.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+World+John+Moore+Wickersham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1348,7 +1348,7 @@ The legend of Karthala gives the country’s folklore its most dramatic image: a
           <a href="https://www.amazon.com/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Folktales">African Folktales</a>
         </h4>
         <p class="fr-book-author">By Roger D. Abrahams</p>
-        
+
         <p class="fr-book-desc">Introduces oral storytelling traditions across Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ The legend of Karthala gives the country’s folklore its most dramatic image: a
           <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Myths of Origin">African Myths of Origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Belcher</p>
-        
+
         <p class="fr-book-desc">Provides regional context for origin legends and oral traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ The legend of Karthala gives the country’s folklore its most dramatic image: a
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights%2C+Volume+3+%28of+4%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights, Volume 3 (of 4)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

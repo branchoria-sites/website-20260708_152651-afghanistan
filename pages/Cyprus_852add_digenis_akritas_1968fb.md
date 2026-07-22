@@ -334,7 +334,7 @@ Today the legends survive in tourism, heritage interpretation, local storytellin
           <a href="https://www.amazon.com/s?k=Digenis+Akritis+Elizabeth+Jeffreys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digenis Akritis">Digenis Akritis</a>
         </h4>
         <p class="fr-book-author">By Elizabeth Jeffreys</p>
-        
+
         <p class="fr-book-desc">Directly covers the hero whose legends became attached to Cypriot landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digenis+Akritis+Elizabeth+Jeffreys&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -351,7 +351,7 @@ Today the legends survive in tourism, heritage interpretation, local storytellin
           <a href="https://www.amazon.com/s?k=Byzantium+Judith+Herrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Byzantium">Byzantium</a>
         </h4>
         <p class="fr-book-author">By Judith Herrin</p>
-        
+
         <p class="fr-book-desc">Provides the historical world from which Digenis Akritas emerged.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Byzantium+Judith+Herrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ Today the legends survive in tourism, heritage interpretation, local storytellin
           <a href="https://www.amazon.com/s?k=The+Greek+Myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greek Myths">The Greek Myths</a>
         </h4>
         <p class="fr-book-author">By Robert Graves</p>
-        
+
         <p class="fr-book-desc">Helps readers compare heroic legend traditions with later Cypriot folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Greek+Myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,16 +379,16 @@ Today the legends survive in tourism, heritage interpretation, local storytellin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Warfare%2C+State+And+Society+In+The+Byzantine+World+565-1204+John+Haldon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Warfare, State And Society In The Byzantine World 565-1204 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iSWPAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Warfare, State And Society In The Byzantine World 565-1204" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alexiad+Anna+Komnene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alexiad on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GW6AHTxajKUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Alexiad" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Warfare%2C+State+And+Society+In+The+Byzantine+World+565-1204+John+Haldon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Warfare, State And Society In The Byzantine World 565-1204">Warfare, State And Society In The Byzantine World 565-1204</a>
+          <a href="https://www.amazon.com/s?k=The+Alexiad+Anna+Komnene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alexiad">The Alexiad</a>
         </h4>
-        <p class="fr-book-author">By John Haldon</p>
-        
-        <p class="fr-book-desc">Explains frontier society and culture linked to heroic Byzantine traditions.</p>
+        <p class="fr-book-author">By Anna Komnene</p>
+
+        <p class="fr-book-desc">Offers readers a firsthand literary window into the Byzantine world.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Warfare%2C+State+And+Society+In+The+Byzantine+World+565-1204+John+Haldon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Alexiad+Anna+Komnene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -1301,89 +1301,89 @@ It also matters because Barbados has had to decide what to do with fragile tradi
 The result is a folklore landscape that is small in geography but rich in layers. Barbados’ legends are not just a list of monsters. They are a living conversation between Africa and Britain, plantation and parish, Christianity and folk power, fear and comedy, oral memory and official heritage, old people’s warnings and young artists’ reinventions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Haunts Barbados After Dark?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Haunts Barbados After Dark?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+and+Legends+by+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Folk Tales and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6KgNAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Caribbean Folk Tales and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+and+Legends+by+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales and Legends">Caribbean Folk Tales and Legends</a>
-</h4>
-<p class="fr-book-author">By Andrew Salkey</p>
-        
-<p class="fr-book-desc">Provides broad folklore context that includes themes found in Barbados.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+and+Legends+by+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jumbie God&#x27;s Revenge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rWl4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Jumbie God&#x27;s Revenge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jumbie God&#x27;s Revenge">The Jumbie God&#x27;s Revenge</a>
+        </h4>
+        <p class="fr-book-author">By Tracey Baptiste</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+the+Spider+by+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi the Spider on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J_Y5PgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Anansi the Spider" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Anansi+the+Spider+by+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi the Spider">Anansi the Spider</a>
-</h4>
-<p class="fr-book-author">By Gerald McDermott</p>
-        
-<p class="fr-book-desc">Reflects African storytelling influences that shaped Caribbean folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Anansi+the+Spider+by+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces readers to Caribbean spirit traditions related to Barbadian lore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+by+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wide Sargasso Sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b5N5AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wide Sargasso Sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+by+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wide Sargasso Sea">Wide Sargasso Sea</a>
-</h4>
-<p class="fr-book-author">By Jean Rhys</p>
-        
-<p class="fr-book-desc">Explores colonial memory and Caribbean cultural landscapes linked to folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+by+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wide Sargasso Sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b5N5AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wide Sargasso Sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wide Sargasso Sea">Wide Sargasso Sea</a>
+        </h4>
+        <p class="fr-book-author">By Jean Rhys</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales">Caribbean Folk Tales</a>
-</h4>
-<p class="fr-book-author">By Andrew Salkey</p>
-        
-<p class="fr-book-desc">Provides broad folklore context that includes themes found in Barbados.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores colonial memory and Caribbean cultural landscapes linked to folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caribbean Folk Tales and Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+the+Spider&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi the Spider</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wide+Sargasso+Sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wide Sargasso Sea</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi the Spider on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/579042-M.jpg" alt="Cover for Anansi the Spider" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi the Spider">Anansi the Spider</a>
+        </h4>
+        <p class="fr-book-author">By Gerald McDermott</p>
+
+        <p class="fr-book-desc">Reflects African storytelling influences that shaped Caribbean folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales">Caribbean Folk Tales</a>
+        </h4>
+        <p class="fr-book-author">By Andrew Salkey</p>
+
+        <p class="fr-book-desc">Provides broad folklore context that includes themes found in Barbados.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jumbie God&#x27;s Revenge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wide+Sargasso+Sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wide Sargasso Sea</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+the+Spider&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi the Spider</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

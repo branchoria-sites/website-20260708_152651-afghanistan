@@ -329,16 +329,16 @@ The enduring power of Rannamaari lies in this double role. It is remembered both
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+Tales+O+F+the+Maldives+Xavier+Romero-Frias&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk Tales O F the Maldives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HdmzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Folk Tales O F the Maldives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Mermaids+Cristina+Bacchilega&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Mermaids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d16IDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Penguin Book of Mermaids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Folk+Tales+O+F+the+Maldives+Xavier+Romero-Frias&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Tales O F the Maldives">Folk Tales O F the Maldives</a>
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Mermaids+Cristina+Bacchilega&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Mermaids">The Penguin Book of Mermaids</a>
         </h4>
-        <p class="fr-book-author">By Xavier Romero-Frias</p>
-        
-        <p class="fr-book-desc">Includes the most famous Maldivian legends and their cultural context.</p>
+        <p class="fr-book-author">By Cristina Bacchilega, Marie Alohalani Brown</p>
+
+        <p class="fr-book-desc">Rannamaari belongs to a broader tradition of sea beings and ocean legends.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Folk+Tales+O+F+the+Maldives+Xavier+Romero-Frias&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Mermaids+Cristina+Bacchilega&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -346,16 +346,16 @@ The enduring power of Rannamaari lies in this double role. It is remembered both
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Mermaids+Cristina+Bacchilega&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Mermaids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d16IDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Penguin Book of Mermaids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Maldives+J.+J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Maldives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6u1vrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Maldives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Mermaids+Cristina+Bacchilega&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Mermaids">The Penguin Book of Mermaids</a>
+          <a href="https://www.amazon.com/s?k=The+Maldives+J.+J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maldives">The Maldives</a>
         </h4>
-        <p class="fr-book-author">By Cristina Bacchilega, Marie Alohalani Brown</p>
-        
-        <p class="fr-book-desc">Rannamaari belongs to a broader tradition of sea beings and ocean legends.</p>
+        <p class="fr-book-author">By J. J. Robinson</p>
+
+        <p class="fr-book-desc">Provides context for conversion narratives and national identity.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Mermaids+Cristina+Bacchilega&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Maldives+J.+J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -369,7 +369,7 @@ The enduring power of Rannamaari lies in this double role. It is remembered both
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Helps readers compare hero, monster and conversion myths worldwide.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,8 +386,8 @@ The enduring power of Rannamaari lies in this double role. It is remembered both
           <a href="https://www.amazon.com/s?k=Monsters+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters">Monsters</a>
         </h4>
         <p class="fr-book-author">By Christopher Dell</p>
-        
-        <p class="fr-book-desc">Places sea demons within global monster traditions.</p>
+
+        <p class="fr-book-desc">&quot;From myth to manga, an artistic visual history of the human mind through an imaginative collection of fantastical monsters from around t...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -397,7 +397,7 @@ The enduring power of Rannamaari lies in this double role. It is remembered both
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Tales+O+F+the+Maldives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Tales O F the Maldives</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Mermaids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Mermaids</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Mermaids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Mermaids</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Maldives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Maldives</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

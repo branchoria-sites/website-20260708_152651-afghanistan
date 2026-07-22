@@ -328,16 +328,16 @@ For modern Colombia, these narratives remain important not because they are trea
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popol Vuh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=meVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Popol Vuh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Latin American Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8mbDp7M20YC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Latin American Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
+          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Latin American Folktales">Latin American Folktales</a>
         </h4>
-        <p class="fr-book-author">By Dennis Tedlock</p>
-        
-        <p class="fr-book-desc">Provides valuable comparative context for creation stories and sacred landscapes.</p>
+        <p class="fr-book-author">By John Bierhorst</p>
+
+        <p class="fr-book-desc">Introduces readers to the oral-tradition environment in which such stories survive.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -351,7 +351,7 @@ For modern Colombia, these narratives remain important not because they are trea
           <a href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas+David+Michael+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology of the Americas">The Mythology of the Americas</a>
         </h4>
         <p class="fr-book-author">By David Michael Jones, Brian Molyneaux</p>
-        
+
         <p class="fr-book-desc">Helps readers understand creation heroes and culture-bringer figures like Bachué and Bochica.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas+David+Michael+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,16 +362,16 @@ For modern Colombia, these narratives remain important not because they are trea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Latin American Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8mbDp7M20YC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Latin American Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+south+american+indians+Julian+H.+Steward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of south american indians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6fDCFLba7Q8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Handbook of south american indians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Latin American Folktales">Latin American Folktales</a>
+          <a href="https://www.amazon.com/s?k=Handbook+of+south+american+indians+Julian+H.+Steward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of south american indians">Handbook of south american indians</a>
         </h4>
-        <p class="fr-book-author">By John Bierhorst</p>
-        
-        <p class="fr-book-desc">Introduces readers to the oral-tradition environment in which such stories survive.</p>
+        <p class="fr-book-author">By Julian H. Steward</p>
+
+        <p class="fr-book-desc">Contains foundational material on Indigenous societies relevant to Muisca belief systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Handbook+of+south+american+indians+Julian+H.+Steward&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -385,7 +385,7 @@ For modern Colombia, these narratives remain important not because they are trea
           <a href="https://www.amazon.com/s?k=Handbook+of+South+American+Indians%2C+Vol.+6%3A+Physical+Anthropology%2C+Linguistics+and+Cultural+Geography+of+South+American+Indians+%28Classic+Reprint%29+Julian+H.+Steward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of South American Indians, Vol. 6: Physical Anthropology, Linguistics and Cultural Geography of South American Indians (Classic Reprint)">Handbook of South American Indians, Vol. 6: Physical Anthropo...</a>
         </h4>
         <p class="fr-book-author">By Julian H. Steward</p>
-        
+
         <p class="fr-book-desc">First published 2018.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+South+American+Indians%2C+Vol.+6%3A+Physical+Anthropology%2C+Linguistics+and+Cultural+Geography+of+South+American+Indians+%28Classic+Reprint%29+Julian+H.+Steward&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For modern Colombia, these narratives remain important not because they are trea
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology of the Americas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Latin+American+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Latin American Folktales</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Latin+American+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Latin American Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology of the Americas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=of+south+american+indians+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of south american indians books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

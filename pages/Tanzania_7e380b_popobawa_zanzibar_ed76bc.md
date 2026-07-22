@@ -320,89 +320,89 @@ The enduring significance of Popobawa is not whether a monster really prowled Za
 For students of folklore, Popobawa is therefore less a monster than a mirror. It reflects the concerns of Zanzibar at particular historical moments and demonstrates how modern legends can become as culturally powerful as much older myths. Few East African folk creatures illustrate so clearly the way storytelling, belief and social reality can intertwine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/272202097_The_politicisation_of_Popobawa_changing_explanations_of_a_collective_panic_in_Zanzibar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">changing explanations of a collective panic in Zanzibar14 Feb 2015 — This paper examines the development of the 1995 panic, a...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Zanzibar Fear Popobawa?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Zanzibar Fear Popobawa?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Folktales+by+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xyG1AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for African Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Folktales+by+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Folktales">African Folktales</a>
-</h4>
-<p class="fr-book-author">By Roger D. Abrahams</p>
-        
-<p class="fr-book-desc">Provides broader context for African narrative traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Folktales+by+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xyG1AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for African Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Folktales">African Folktales</a>
+        </h4>
+        <p class="fr-book-author">By Roger D. Abrahams</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3JpIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Monsters+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters">Monsters</a>
-</h4>
-<p class="fr-book-author">By John Michael Greer</p>
-        
-<p class="fr-book-desc">Helps readers compare modern legendary creatures and belief.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Monsters+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broader context for African narrative traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Vanishing+Hitchhiker+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vanishing Hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Vanishing+Hitchhiker+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vanishing Hitchhiker">The Vanishing Hitchhiker</a>
-</h4>
-<p class="fr-book-author">By Jan Harold Brunvand</p>
-        
-<p class="fr-book-desc">Provides a framework for understanding rumor-driven folklore like Popobawa.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Vanishing+Hitchhiker+by+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+        </h4>
+        <p class="fr-book-author">By Jan Harold Brunvand</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Modern+African+Folklore+Edited+by+Charles+Bodunde+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Modern African Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Modern+African+Folklore+Edited+by+Charles+Bodunde+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Modern African Folklore">The Penguin Book of Modern African Folklore</a>
-</h4>
-<p class="fr-book-author">By Edited by Charles Bodunde and others</p>
-        
-<p class="fr-book-desc">Popobawa is a modern folklore phenomenon rather than an ancient myth.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Modern+African+Folklore+Edited+by+Charles+Bodunde+and+others&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides a framework for understanding rumor-driven folklore like Popobawa.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vanishing+Hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vanishing Hitchhiker</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3JpIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters">Monsters</a>
+        </h4>
+        <p class="fr-book-author">By John Michael Greer</p>
+
+        <p class="fr-book-desc">An Investigator&#x27;s Guide to Magical Beings that takes you on a harrowing journey into the realm of monsters and the reality of the impossi...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Modern+African+Folklore+Edited+by+Charles+Bodunde+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Modern African Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Modern+African+Folklore+Edited+by+Charles+Bodunde+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Modern African Folklore">The Penguin Book of Modern African Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Edited by Charles Bodunde and others</p>
+
+        <p class="fr-book-desc">Popobawa is a modern folklore phenomenon rather than an ancient myth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Modern+African+Folklore+Edited+by+Charles+Bodunde+and+others&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

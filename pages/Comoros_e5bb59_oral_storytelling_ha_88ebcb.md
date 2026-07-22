@@ -325,7 +325,7 @@ Perhaps most importantly, Hatubou's retellings remind readers that Comorian folk
           <a href="https://www.amazon.co.uk/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Folktales">African Folktales</a>
         </h4>
         <p class="fr-book-author">By Roger D. Abrahams</p>
-        
+
         <p class="fr-book-desc">Demonstrates the kinds of stories carried through oral performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -342,27 +342,10 @@ Perhaps most importantly, Hatubou's retellings remind readers that Comorian folk
           <a href="https://www.amazon.co.uk/s?k=Oral+Literature+in+Africa+Ruth+Finnegan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oral Literature in Africa">Oral Literature in Africa</a>
         </h4>
         <p class="fr-book-author">By Ruth Finnegan</p>
-        
+
         <p class="fr-book-desc">Foundational work on oral storytelling and preservation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=Oral+Literature+in+Africa+Ruth+Finnegan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.co.uk/s?k=Favorite+African+Folktales+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Favorite African Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lldvp3HS0A8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Favorite African Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.co.uk/s?k=Favorite+African+Folktales+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Favorite African Folktales">Favorite African Folktales</a>
-        </h4>
-        <p class="fr-book-author">By Nelson Mandela</p>
-        
-        <p class="fr-book-desc">Shows how oral tales move into print collections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.co.uk/s?k=Favorite+African+Folktales+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -376,7 +359,7 @@ Perhaps most importantly, Hatubou's retellings remind readers that Comorian folk
           <a href="https://www.amazon.co.uk/s?k=Nelson+Mandela%27s+Favorite+African+Folktales+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nelson Mandela&#x27;s Favorite African Folktales">Nelson Mandela&#x27;s Favorite African Folktales</a>
         </h4>
         <p class="fr-book-author">By Nelson Mandela</p>
-        
+
         <p class="fr-book-desc">Shows how oral tales move into print collections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=Nelson+Mandela%27s+Favorite+African+Folktales+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,9 +368,26 @@ Perhaps most importantly, Hatubou's retellings remind readers that Comorian folk
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.co.uk/s?k=The+Call+of+Stories+Robert+Coles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Call of Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=msWWBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Call of Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.co.uk/s?k=The+Call+of+Stories+Robert+Coles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Call of Stories">The Call of Stories</a>
+        </h4>
+        <p class="fr-book-author">By Robert Coles</p>
+
+        <p class="fr-book-desc">Explores the enduring power of narrative transmission.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.co.uk/s?k=The+Call+of+Stories+Robert+Coles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.co.uk/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a> <a class="fr-browse-more" href="https://www.amazon.co.uk/s?k=Oral+Literature+in+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oral Literature in Africa</a> <a class="fr-browse-more" href="https://www.amazon.co.uk/s?k=Favorite+African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Favorite African Folktales</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.co.uk/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a> <a class="fr-browse-more" href="https://www.amazon.co.uk/s?k=Oral+Literature+in+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oral Literature in Africa</a> <a class="fr-browse-more" href="https://www.amazon.co.uk/s?k=Nelson+Mandela%27s+Favorite+African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nelson Mandela&#x27;s Favorite African Folktales</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

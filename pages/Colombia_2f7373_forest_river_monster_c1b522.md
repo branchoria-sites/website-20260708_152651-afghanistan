@@ -358,16 +358,16 @@ That is why these figures remain central to Colombian folklore. They are not mer
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Les Conquistadors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GyFREAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Les Conquistadors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Latin American Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8mbDp7M20YC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Latin American Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Les Conquistadors">Les Conquistadors</a>
+          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Latin American Folktales">Latin American Folktales</a>
         </h4>
-        <p class="fr-book-author">By Fernando Cervantes</p>
-        
-        <p class="fr-book-desc">Explains how conquest-era ambitions transformed local traditions into treasure myths.</p>
+        <p class="fr-book-author">By John Bierhorst</p>
+
+        <p class="fr-book-desc">Captures the oral-storytelling traditions that produce figures like La Madremonte and El Mohán.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Les+Conquistadors+Fernando+Cervantes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -381,7 +381,7 @@ That is why these figures remain central to Colombian folklore. They are not mer
           <a href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas+David+Michael+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology of the Americas">The Mythology of the Americas</a>
         </h4>
         <p class="fr-book-author">By David Michael Jones, Brian Molyneaux</p>
-        
+
         <p class="fr-book-desc">Explores spirit beings, landscape myths and moral folklore across the Americas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas+David+Michael+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,16 +392,16 @@ That is why these figures remain central to Colombian folklore. They are not mer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Latin American Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=g8mbDp7M20YC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Latin American Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=South+American+Mythology+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South American Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MQEXAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for South American Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Latin American Folktales">Latin American Folktales</a>
+          <a href="https://www.amazon.com/s?k=South+American+Mythology+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South American Mythology">South American Mythology</a>
         </h4>
-        <p class="fr-book-author">By John Bierhorst</p>
-        
-        <p class="fr-book-desc">Captures the oral-storytelling traditions that produce figures like La Madremonte and El Mohán.</p>
+        <p class="fr-book-author">By Harold Osborne</p>
+
+        <p class="fr-book-desc">Provides regional context for supernatural guardians and warning tales.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=South+American+Mythology+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -415,7 +415,7 @@ That is why these figures remain central to Colombian folklore. They are not mer
           <a href="https://www.amazon.com/s?k=Handbook+of+south+american+indians+Julian+H.+Steward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of south american indians">Handbook of south american indians</a>
         </h4>
         <p class="fr-book-author">By Julian H. Steward</p>
-        
+
         <p class="fr-book-desc">Contains foundational material on Indigenous societies relevant to Muisca belief systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+south+american+indians+Julian+H.+Steward&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ That is why these figures remain central to Colombian folklore. They are not mer
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Les+Conquistadors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Les Conquistadors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology of the Americas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Latin+American+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Latin American Folktales</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Latin+American+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Latin American Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+of+the+Americas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology of the Americas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=South+American+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">South American Mythology</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

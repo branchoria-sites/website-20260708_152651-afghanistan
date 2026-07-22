@@ -333,89 +333,89 @@ For folklore researchers, the story is valuable because it shows how traditions 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Legend Beneath Shwedagon&#x27;s Golden Spire. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Legend Beneath Shwedagon&#x27;s Golden Spire. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Burmese+Supernaturalism+by+Melford+E.+Spiro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Burmese Supernaturalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yR4uDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Burmese Supernaturalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Burmese+Supernaturalism+by+Melford+E.+Spiro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burmese Supernaturalism">Burmese Supernaturalism</a>
-</h4>
-<p class="fr-book-author">By Melford E. Spiro</p>
-        
-<p class="fr-book-desc">Explains how sacred sites and legends function in Myanmar.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Burmese+Supernaturalism+by+Melford+E.+Spiro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Burmese+Supernaturalism+Melford+E.+Spiro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Burmese Supernaturalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yR4uDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Burmese Supernaturalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Burmese+Supernaturalism+Melford+E.+Spiro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burmese Supernaturalism">Burmese Supernaturalism</a>
+        </h4>
+        <p class="fr-book-author">By Melford E. Spiro</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Old+Path+White+Clouds+by+Thich+Nhat+Hanh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Old Path White Clouds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4tvIR-N8B1wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Old Path White Clouds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Old+Path+White+Clouds+by+Thich+Nhat+Hanh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Old Path White Clouds">Old Path White Clouds</a>
-</h4>
-<p class="fr-book-author">By Thich Nhat Hanh</p>
-        
-<p class="fr-book-desc">Helps readers understand the religious world behind relic legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Old+Path+White+Clouds+by+Thich+Nhat+Hanh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how sacred sites and legends function in Myanmar.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Burmese+Supernaturalism+Melford+E.+Spiro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Life+of+the+Buddha+by+Bhikkhu+%C3%91anamoli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Life of the Buddha on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Life+of+the+Buddha+by+Bhikkhu+%C3%91anamoli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Life of the Buddha">The Life of the Buddha</a>
-</h4>
-<p class="fr-book-author">By Bhikkhu Ñanamoli</p>
-        
-<p class="fr-book-desc">Provides context for traditions involving relics and early Buddhist figures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Life+of+the+Buddha+by+Bhikkhu+%C3%91anamoli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Old+Path+White+Clouds+Thich+Nhat+Hanh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Old Path White Clouds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4tvIR-N8B1wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Old Path White Clouds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Old+Path+White+Clouds+Thich+Nhat+Hanh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Old Path White Clouds">Old Path White Clouds</a>
+        </h4>
+        <p class="fr-book-author">By Thich Nhat Hanh</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Glass+Palace+by+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Glass Palace on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Glass+Palace+by+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
-</h4>
-<p class="fr-book-author">By Amitav Ghosh</p>
-        
-<p class="fr-book-desc">Offers broader Myanmar historical and cultural context.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Glass+Palace+by+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand the religious world behind relic legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Old+Path+White+Clouds+Thich+Nhat+Hanh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Burmese+Supernaturalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Burmese Supernaturalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Old+Path+White+Clouds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Old Path White Clouds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Life+of+the+Buddha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Life of the Buddha</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Life+of+the+Buddha+Bhikkhu+%C3%91anamoli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Life of the Buddha on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qtXHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Life of the Buddha" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Life+of+the+Buddha+Bhikkhu+%C3%91anamoli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Life of the Buddha">The Life of the Buddha</a>
+        </h4>
+        <p class="fr-book-author">By Bhikkhu Ñanamoli</p>
+
+        <p class="fr-book-desc">Provides context for traditions involving relics and early Buddhist figures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Life+of+the+Buddha+Bhikkhu+%C3%91anamoli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Glass Palace on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
+        </h4>
+        <p class="fr-book-author">By Amitav Ghosh</p>
+
+        <p class="fr-book-desc">Offers broader Myanmar historical and cultural context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Burmese+Supernaturalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Burmese Supernaturalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Old+Path+White+Clouds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Old Path White Clouds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Life+of+the+Buddha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Life of the Buddha</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -324,89 +324,89 @@ Yet the continued visibility of Zangbeto and Gelede suggests remarkable resilien
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Do Benin&#x27;s Masks Feel So Powerful?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Do Benin&#x27;s Masks Feel So Powerful?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=G%E1%BA%B9l%E1%BA%B9d%E1%BA%B9+by+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gẹlẹdẹ on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IIqc3pizziAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Gẹlẹdẹ" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=G%E1%BA%B9l%E1%BA%B9d%E1%BA%B9+by+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gẹlẹdẹ">Gẹlẹdẹ</a>
-</h4>
-<p class="fr-book-author">By Henry John Drewal, Margaret Thompson Drewal</p>
-        
-<p class="fr-book-desc">Directly addresses Gelede masks, performance and spiritual authority.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=G%E1%BA%B9l%E1%BA%B9d%E1%BA%B9+by+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voodoo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T-bIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Voodoo Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voodoo Encyclopedia">The Voodoo Encyclopedia</a>
+        </h4>
+        <p class="fr-book-author">By Jeffrey E. Anderson</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+by+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Voodoo Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T-bIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Voodoo Encyclopedia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+by+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Voodoo Encyclopedia">The Voodoo Encyclopedia</a>
-</h4>
-<p class="fr-book-author">By Jeffrey E. Anderson</p>
-        
-<p class="fr-book-desc">Provides background on the religious world in which traditions such as Zangbeto operate.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+by+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides background on the religious world in which traditions such as Zangbeto operate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia+Jeffrey+E.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Yoruba+by+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yoruba on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Yoruba+by+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yoruba">Yoruba</a>
-</h4>
-<p class="fr-book-author">By Henry John Drewal, John Pemberton et al.</p>
-        
-<p class="fr-book-desc">Provides rich context for Yoruba-Nago masking traditions connected to Benin.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Yoruba+by+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=G%E1%BA%B9l%E1%BA%B9d%E1%BA%B9+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gẹlẹdẹ on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IIqc3pizziAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Gẹlẹdẹ" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=G%E1%BA%B9l%E1%BA%B9d%E1%BA%B9+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gẹlẹdẹ">Gẹlẹdẹ</a>
+        </h4>
+        <p class="fr-book-author">By Henry John Drewal, Margaret Thompson Drewal</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Art on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Art">African Art</a>
-</h4>
-<p class="fr-book-author">By Frank Willett</p>
-        
-<p class="fr-book-desc">Explains symbolism, performance and meaning behind African masking traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Art+by+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">..&quot;. an exceptionally rich source for all those interested in symbolic, religious or social studies.&quot; -- Tribus ..&quot;. an excellent book......</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=G%E1%BA%B9l%E1%BA%B9d%E1%BA%B9+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=G%E1%BA%B9l%E1%BA%B9d%E1%BA%B9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gẹlẹdẹ</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voodoo Encyclopedia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Yoruba&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yoruba</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions and Philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions and Philosophy">African Religions and Philosophy</a>
+        </h4>
+        <p class="fr-book-author">By John S. Mbiti</p>
+
+        <p class="fr-book-desc">Helps explain concepts of spiritual power, ancestors and communal authority.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Religions+and+Philosophy+John+S.+Mbiti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Art on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Art">African Art</a>
+        </h4>
+        <p class="fr-book-author">By Frank Willett</p>
+
+        <p class="fr-book-desc">Explains symbolism, performance and meaning behind African masking traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Art+Frank+Willett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Voodoo+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Voodoo Encyclopedia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=G%E1%BA%B9l%E1%BA%B9d%E1%BA%B9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gẹlẹdẹ</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+and+Philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions and Philosophy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

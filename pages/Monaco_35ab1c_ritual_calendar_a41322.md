@@ -327,16 +327,16 @@ These traditions also show that folklore does not need dragons, ghosts or legend
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stations of the Sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Tb0CmbFokF4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stations of the Sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+the+Land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0-HZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lore of the Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stations of the Sun">Stations of the Sun</a>
+          <a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land">The Lore of the Land</a>
         </h4>
-        <p class="fr-book-author">By Ronald Hutton</p>
-        
-        <p class="fr-book-desc">Directly relevant to seasonal rituals, bonfires and feast days.</p>
+        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
+
+        <p class="fr-book-desc">Shows how local celebrations become enduring traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -350,7 +350,7 @@ These traditions also show that folklore does not need dragons, ghosts or legend
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Examines ritual cycles, symbolism and communal traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,16 +361,16 @@ These traditions also show that folklore does not need dragons, ghosts or legend
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+the+Land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of the Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0-HZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lore of the Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Stations of the Sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/120082-M.jpg" alt="Cover for The Stations of the Sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of the Land">The Lore of the Land</a>
+          <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stations of the Sun">The Stations of the Sun</a>
         </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
-        <p class="fr-book-desc">Shows how local celebrations become enduring traditions.</p>
+        <p class="fr-book-author">By Ronald Hutton</p>
+
+        <p class="fr-book-desc">Directly relevant to seasonal rituals, bonfires and feast days.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+the+Land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Stations+of+the+Sun+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -378,16 +378,16 @@ These traditions also show that folklore does not need dragons, ghosts or legend
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Folklore+Simon+J.+Bronner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=From+the+Beast+to+the+Blonde+Marina+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From the Beast to the Blonde on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Folklore+Simon+J.+Bronner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore">Folklore</a>
+          <a href="https://www.amazon.com/s?k=From+the+Beast+to+the+Blonde+Marina+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From the Beast to the Blonde">From the Beast to the Blonde</a>
         </h4>
-        <p class="fr-book-author">By Simon J. Bronner</p>
-        
-        <p class="fr-book-desc">Explains how ritual calendars preserve identity.</p>
+        <p class="fr-book-author">By Marina Warner</p>
+
+        <p class="fr-book-desc">Explores cultural transmission through stories and rituals.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Folklore+Simon+J.+Bronner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+the+Beast+to+the+Blonde+Marina+Warner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,7 +395,7 @@ These traditions also show that folklore does not need dragons, ghosts or legend
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stations+of+the+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stations of the Sun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Bough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Bough</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+the+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of the Land</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+the+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of the Land</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Bough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Bough</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stations+of+the+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stations of the Sun</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

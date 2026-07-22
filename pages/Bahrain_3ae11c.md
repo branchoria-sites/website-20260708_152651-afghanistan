@@ -1298,89 +1298,89 @@ Bahrain’s folklore is therefore not a single book of myths waiting to be summa
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Bahrain&#x27;s Old Stories Meet the Sea. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Bahrain&#x27;s Old Stories Meet the Sea. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+by+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Three Tales from the Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XR5N3Dm7GZYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Three Tales from the Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+by+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Three Tales from the Arabian Nights">Three Tales from the Arabian Nights</a>
-</h4>
-<p class="fr-book-author">By Malcolm Lyons</p>
-        
-<p class="fr-book-desc">Provides broader Middle Eastern storytelling context for Gulf folklore, spirits and oral traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+by+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MlgbxwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights">The Arabian Nights</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+by+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths from Mesopotamia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0YHfiCz4BRwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Myths from Mesopotamia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+by+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths from Mesopotamia">Myths from Mesopotamia</a>
-</h4>
-<p class="fr-book-author">By Stephanie Dalley</p>
-        
-<p class="fr-book-desc">Explains the literary traditions that produced the famous references to Dilmun.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+by+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broader Middle Eastern storytelling context for Gulf folklore, spirits and oral traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+M.+C.+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7266589-M.jpg" alt="Cover for The Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Arabian+Nights+M.+C.+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights">The Arabian Nights</a>
-</h4>
-<p class="fr-book-author">By M. C. Lyons, Robert Irwin</p>
-        
-<p class="fr-book-desc">First published 2008. Subjects: Tales, Tales, arab countries, Arabic fiction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Arabian+Nights+M.+C.+Lyons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths from Mesopotamia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0YHfiCz4BRwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Myths from Mesopotamia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths from Mesopotamia">Myths from Mesopotamia</a>
+        </h4>
+        <p class="fr-book-author">By Stephanie Dalley</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+by+Andrew+George&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Epic of Gilgamesh on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+by+Andrew+George&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Epic of Gilgamesh">The Epic of Gilgamesh</a>
-</h4>
-<p class="fr-book-author">By Andrew George, Penguin Books</p>
-        
-<p class="fr-book-desc">Dilmun is part of the wider Mesopotamian world that underpins Bahrain&#x27;s oldest legendary traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+by+Andrew+George&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the literary traditions that produced the famous references to Dilmun.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Three Tales from the Arabian Nights</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+from+Mesopotamia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths from Mesopotamia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Epic of Gilgamesh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wMomCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Epic of Gilgamesh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Epic of Gilgamesh">The Epic of Gilgamesh</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous Anonymous</p>
+
+        <p class="fr-book-desc">Dilmun is part of the wider Mesopotamian world that underpins Bahrain&#x27;s oldest legendary traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Three Tales from the Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XR5N3Dm7GZYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Three Tales from the Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Three Tales from the Arabian Nights">Three Tales from the Arabian Nights</a>
+        </h4>
+        <p class="fr-book-author">By Malcolm Lyons</p>
+
+        <p class="fr-book-desc">Once upon a time, the name Baghdad conjured up visions of the most magical, romantic city on earth, where flying carpets carried noble th...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+from+Mesopotamia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths from Mesopotamia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Epic of Gilgamesh</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

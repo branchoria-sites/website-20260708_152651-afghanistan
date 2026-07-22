@@ -335,50 +335,33 @@ For modern audiences, the tale offers a reminder that heritage is not only prese
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arab Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BNGBAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Arab Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arab Folklore">Arab Folklore</a>
-        </h4>
-        <p class="fr-book-author">By Dwight Reynolds</p>
-        
-        <p class="fr-book-desc">Explains how legends, songs and supernatural narratives function in Arab cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Three Tales from the Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XR5N3Dm7GZYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Three Tales from the Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Three Tales from the Arabian Nights">Three Tales from the Arabian Nights</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Lyons</p>
-        
-        <p class="fr-book-desc">Rich source of supernatural tales, spirits and storytelling traditions across the region.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MlgbxwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights">The Arabian Nights</a>
         </h4>
         <p class="fr-book-author">By Anonymous</p>
-        
+
         <p class="fr-book-desc">Rich source of supernatural tales, spirits and storytelling traditions across the region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arab Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BNGBAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Arab Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arab Folklore">Arab Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Dwight Reynolds</p>
+
+        <p class="fr-book-desc">Explains how legends, songs and supernatural narratives function in Arab cultures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -392,7 +375,7 @@ For modern audiences, the tale offers a reminder that heritage is not only prese
           <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths from Mesopotamia">Myths from Mesopotamia</a>
         </h4>
         <p class="fr-book-author">By Stephanie Dalley</p>
-        
+
         <p class="fr-book-desc">Adds historical depth to the mythic traditions that influenced Gulf storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,9 +384,26 @@ For modern audiences, the tale offers a reminder that heritage is not only prese
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+in+the+World+of+Islam+Amnon+Shiloah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music in the World of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wR_X0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Music in the World of Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Music+in+the+World+of+Islam+Amnon+Shiloah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music in the World of Islam">Music in the World of Islam</a>
+        </h4>
+        <p class="fr-book-author">By Amnon Shiloah</p>
+
+        <p class="fr-book-desc">Provides context for musical traditions, performance and oral heritage in Islamic societies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Music+in+the+World+of+Islam+Amnon+Shiloah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arab+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arab Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Three Tales from the Arabian Nights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arab+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arab Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+from+Mesopotamia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths from Mesopotamia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

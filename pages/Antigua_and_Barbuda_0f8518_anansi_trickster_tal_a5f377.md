@@ -334,13 +334,30 @@ What has survived most successfully is not any single story but the underlying l
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi the Spider on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J_Y5PgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Anansi the Spider" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi Boys on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WhdWPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Anansi Boys" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi Boys">Anansi Boys</a>
+        </h4>
+        <p class="fr-book-author">By Neil Gaiman</p>
+
+        <p class="fr-book-desc">Modern literary reimagining of Anansi and trickster themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi the Spider on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/579042-M.jpg" alt="Cover for Anansi the Spider" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi the Spider">Anansi the Spider</a>
         </h4>
         <p class="fr-book-author">By Gerald McDermott</p>
-        
+
         <p class="fr-book-desc">Introduces the best-known trickster figure behind Caribbean Anansi traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -351,33 +368,16 @@ What has survived most successfully is not any single story but the underlying l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=ANANSI+BOYS%2C+DEUTSCHE+AUSGABE+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ANANSI BOYS, DEUTSCHE AUSGABE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NQMdGQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for ANANSI BOYS, DEUTSCHE AUSGABE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Myths of Origin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_hVD1Yepe6IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for African Myths of Origin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=ANANSI+BOYS%2C+DEUTSCHE+AUSGABE+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="ANANSI BOYS, DEUTSCHE AUSGABE">ANANSI BOYS, DEUTSCHE AUSGABE</a>
+          <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Myths of Origin">African Myths of Origin</a>
         </h4>
-        <p class="fr-book-author">By Neil Gaiman</p>
-        
-        <p class="fr-book-desc">Modern literary reimagining of Anansi and trickster themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=ANANSI+BOYS%2C+DEUTSCHE+AUSGABE+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Stephen Belcher</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi Boys on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WhdWPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Anansi Boys" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi Boys">Anansi Boys</a>
-        </h4>
-        <p class="fr-book-author">By Neil Gaiman</p>
-        
-        <p class="fr-book-desc">Modern literary reimagining of Anansi and trickster themes.</p>
+        <p class="fr-book-desc">Places Anansi within the larger framework of African narrative traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -391,7 +391,7 @@ What has survived most successfully is not any single story but the underlying l
           <a href="https://www.amazon.com/s?k=A+Story%2C+a+Story+Gail+E.+Haley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Story, a Story">A Story, a Story</a>
         </h4>
         <p class="fr-book-author">By Gail E. Haley</p>
-        
+
         <p class="fr-book-desc">Retells the origin of Anansi stories from West African tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Story%2C+a+Story+Gail+E.+Haley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ What has survived most successfully is not any single story but the underlying l
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+the+Spider&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi the Spider</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=ANANSI+BOYS%2C+DEUTSCHE+AUSGABE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">ANANSI BOYS, DEUTSCHE AUSGABE</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+Boys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi Boys</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+Boys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi Boys</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+the+Spider&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi the Spider</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Myths+of+Origin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Myths of Origin</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

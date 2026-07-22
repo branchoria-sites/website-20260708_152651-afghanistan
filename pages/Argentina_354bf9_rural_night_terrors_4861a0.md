@@ -339,89 +339,89 @@ The Luz Mala transforms an empty field into a haunted landscape. The Lobizón tu
 That is why these stories continue to endure. Modern drivers still travel isolated highways after dark. Rural residents still encounter unexplained sights and sounds. Vast landscapes still create uncertainty. The legends provide a language for those experiences, allowing the Argentine countryside to remain, at least in folklore, a place where the night never feels entirely empty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.serargentino.com/en/people/urban-legends/the-legend-of-the-bad-light" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serargentino.com">[serargentino.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serargentino.com</span><span class="citation-popover-title">Ser Argentino The legend of bad light</span><span class="citation-popover-snippet">Ser ArgentinoThe legend of bad lightMay 21, 2021 — 21 May 2021 — A light that appears at night in the middle of the countryside or the mo...</span><span class="citation-popover-meta">Published: May 21, 2021</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Haunts Argentina&#x27;s Countryside After Dark?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Haunts Argentina&#x27;s Countryside After Dark?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+by+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Imaginary Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YqkKAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Imaginary Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+by+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
-</h4>
-<p class="fr-book-author">By Jorge Luis Borges, Margarita Guerrero</p>
-        
-<p class="fr-book-desc">Explores legendary creatures and folklore traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+by+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Imaginary Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YqkKAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Imaginary Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
+        </h4>
+        <p class="fr-book-author">By Jorge Luis Borges, Margarita Guerrero</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gaucho+Mart%C3%ADn+Fierro+by+Jose+Hernandez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gaucho Martín Fierro on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4pqV6cC0XowC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gaucho Martín Fierro" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Gaucho+Mart%C3%ADn+Fierro+by+Jose+Hernandez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gaucho Martín Fierro">The Gaucho Martín Fierro</a>
-</h4>
-<p class="fr-book-author">By Jose Hernandez</p>
-        
-<p class="fr-book-desc">Immerses readers in the countryside that produced these legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Gaucho+Mart%C3%ADn+Fierro+by+Jose+Hernandez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores legendary creatures and folklore traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=South+American+Mythology+by+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South American Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MQEXAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for South American Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=South+American+Mythology+by+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South American Mythology">South American Mythology</a>
-</h4>
-<p class="fr-book-author">By Harold Osborne</p>
-        
-<p class="fr-book-desc">Provides context for legends such as Lobizon and spirit lore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=South+American+Mythology+by+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=South+American+Mythology+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South American Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MQEXAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for South American Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=South+American+Mythology+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South American Mythology">South American Mythology</a>
+        </h4>
+        <p class="fr-book-author">By Harold Osborne</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+by+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: In Search of a Haunted Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDeQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghostland: In Search of a Haunted Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+by+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
-</h4>
-<p class="fr-book-author">By Edward Parnell</p>
-        
-<p class="fr-book-desc">Explores how landscapes become haunted through storytelling.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+by+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for legends such as Lobizon and spirit lore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=South+American+Mythology+Harold+Osborne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gaucho+Mart%C3%ADn+Fierro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gaucho Martín Fierro</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=South+American+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">South American Mythology</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FN_4DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+        </h4>
+        <p class="fr-book-author">By Colin Dickey</p>
+
+        <p class="fr-book-desc">Explores how landscapes become haunted through storytelling.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gaucho+Mart%C3%ADn+Fierro+Jose+Hernandez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gaucho Martín Fierro on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4pqV6cC0XowC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Gaucho Martín Fierro" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Gaucho+Mart%C3%ADn+Fierro+Jose+Hernandez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gaucho Martín Fierro">The Gaucho Martín Fierro</a>
+        </h4>
+        <p class="fr-book-author">By Jose Hernandez</p>
+
+        <p class="fr-book-desc">A nineteenth-century protest poem depicts the plight of the Argentine gaucho, driven from the pampas and pressed into military service</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Gaucho+Mart%C3%ADn+Fierro+Jose+Hernandez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=South+American+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">South American Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

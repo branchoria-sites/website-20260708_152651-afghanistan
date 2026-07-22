@@ -325,89 +325,89 @@ Despite the enormous historical distance, the Ugaritic storm-god myths continue 
 For Syria, the myths of Ugarit represent one of the deepest surviving layers of cultural memory. They connect the modern landscape to a Bronze Age world of sacred mountains, thunder gods and cosmic struggles. Whether encountered in museums, archaeological exhibitions, popular histories or discussions of ancient mythology, the Baal Cycle remains one of the most influential mythic legacies ever recovered from Syrian soil.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metmuseum.org/essays/ugarit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metmuseum.org">[metmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metmuseum.org</span><span class="citation-popover-title">The Metropolitan Museum of Art Ugarit</span><span class="citation-popover-snippet">The Metropolitan Museum of ArtUgaritOctober 1, 2004 — 1 Oct 2004 — Ugarit was a flourishing city, its streets lined with two-story houses...</span><span class="citation-popover-meta">Published: October 1, 2004</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Does Ugarit&#x27;s Storm God Still Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Does Ugarit&#x27;s Storm God Still Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stories+from+Ancient+Canaan%2C+Second+Edition+by+Michael+D.+Coogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stories from Ancient Canaan, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G49SJI183IkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stories from Ancient Canaan, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Stories+from+Ancient+Canaan%2C+Second+Edition+by+Michael+D.+Coogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stories from Ancient Canaan, Second Edition">Stories from Ancient Canaan, Second Edition</a>
-</h4>
-<p class="fr-book-author">By Michael D. Coogan, Mark S. Smith</p>
-        
-<p class="fr-book-desc">Contains translations and explanations of key Ugaritic myths including the Baal Cycle.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Stories+from+Ancient+Canaan%2C+Second+Edition+by+Michael+D.+Coogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Early+History+of+God+Mark+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Early History of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vjXV0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Early History of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Early+History+of+God+Mark+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Early History of God">The Early History of God</a>
+        </h4>
+        <p class="fr-book-author">By Mark S. Smith</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Early+History+of+God+by+Mark+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Early History of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vjXV0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Early History of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Early+History+of+God+by+Mark+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Early History of God">The Early History of God</a>
-</h4>
-<p class="fr-book-author">By Mark S. Smith</p>
-        
-<p class="fr-book-desc">Explains the religious world in which Baal and related Levantine deities were understood.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Early+History+of+God+by+Mark+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the religious world in which Baal and related Levantine deities were understood.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Early+History+of+God+Mark+S.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ugaritic+Baal+Cycle+by+Mark+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ugaritic Baal Cycle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S6y9CwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Ugaritic Baal Cycle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Ugaritic+Baal+Cycle+by+Mark+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ugaritic Baal Cycle">The Ugaritic Baal Cycle</a>
-</h4>
-<p class="fr-book-author">By Mark Smith</p>
-        
-<p class="fr-book-desc">Focused specifically on the storm-god narratives from Ugarit.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Ugaritic+Baal+Cycle+by+Mark+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths from Mesopotamia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0YHfiCz4BRwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Myths from Mesopotamia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths from Mesopotamia">Myths from Mesopotamia</a>
+        </h4>
+        <p class="fr-book-author">By Stephanie Dalley</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+by+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths from Mesopotamia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+by+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths from Mesopotamia">Myths from Mesopotamia</a>
-</h4>
-<p class="fr-book-author">By Stephanie Dalley</p>
-        
-<p class="fr-book-desc">Provides comparative ancient Near Eastern myths that illuminate Ugaritic traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+by+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides comparative ancient Near Eastern myths that illuminate Ugaritic traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stories+from+Ancient+Canaan%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stories from Ancient Canaan, Second Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Early+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Early History of God</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ugaritic+Baal+Cycle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ugaritic Baal Cycle</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ugaritic+Baal+Cycle+Mark+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ugaritic Baal Cycle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S6y9CwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Ugaritic Baal Cycle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Ugaritic+Baal+Cycle+Mark+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ugaritic Baal Cycle">The Ugaritic Baal Cycle</a>
+        </h4>
+        <p class="fr-book-author">By Mark Smith</p>
+
+        <p class="fr-book-desc">The Ugaritic Baal Cycle offers a translation and the first commentary on the Ugaritic Baal Cycle. The longest and most important religiou...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Ugaritic+Baal+Cycle+Mark+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stories+from+Ancient+Canaan%2C+Second+Edition+Michael+D.+Coogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stories from Ancient Canaan, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G49SJI183IkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stories from Ancient Canaan, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Stories+from+Ancient+Canaan%2C+Second+Edition+Michael+D.+Coogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stories from Ancient Canaan, Second Edition">Stories from Ancient Canaan, Second Edition</a>
+        </h4>
+        <p class="fr-book-author">By Michael D. Coogan, Mark S. Smith</p>
+
+        <p class="fr-book-desc">The texts from ancient Ugarit are among the most important modern discoveries for understanding the Bible. For more than thirty years, St...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Stories+from+Ancient+Canaan%2C+Second+Edition+Michael+D.+Coogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Early+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Early History of God</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+from+Mesopotamia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths from Mesopotamia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ugaritic+Baal+Cycle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ugaritic Baal Cycle</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

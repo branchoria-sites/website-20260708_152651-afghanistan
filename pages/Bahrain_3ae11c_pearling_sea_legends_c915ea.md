@@ -338,13 +338,30 @@ That enduring power explains why Bu Darya remains one of the Gulf's most memorab
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MlgbxwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights">The Arabian Nights</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous</p>
+
+        <p class="fr-book-desc">Features maritime adventures, supernatural beings and Middle Eastern folklore themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arab Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BNGBAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Arab Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arab Folklore">Arab Folklore</a>
         </h4>
         <p class="fr-book-author">By Dwight Reynolds</p>
-        
+
         <p class="fr-book-desc">Provides context for jinn traditions, oral narratives and belief systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arab+Folklore+Dwight+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,33 +372,16 @@ That enduring power explains why Bu Darya remains one of the Gulf's most memorab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Three Tales from the Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XR5N3Dm7GZYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Three Tales from the Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Music+in+the+World+of+Islam+Amnon+Shiloah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Music in the World of Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wR_X0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Music in the World of Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Three Tales from the Arabian Nights">Three Tales from the Arabian Nights</a>
+          <a href="https://www.amazon.com/s?k=Music+in+the+World+of+Islam+Amnon+Shiloah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Music in the World of Islam">Music in the World of Islam</a>
         </h4>
-        <p class="fr-book-author">By Malcolm Lyons</p>
-        
-        <p class="fr-book-desc">Features maritime adventures, supernatural beings and Middle Eastern folklore themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights+Malcolm+Lyons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Amnon Shiloah</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MlgbxwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Arabian Nights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights">The Arabian Nights</a>
-        </h4>
-        <p class="fr-book-author">By Anonymous</p>
-        
-        <p class="fr-book-desc">Features maritime adventures, supernatural beings and Middle Eastern folklore themes.</p>
+        <p class="fr-book-desc">Helps explain the role of songs and communal performance in maritime life.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Music+in+the+World+of+Islam+Amnon+Shiloah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,7 +395,7 @@ That enduring power explains why Bu Darya remains one of the Gulf's most memorab
           <a href="https://www.amazon.com/s?k=The+Sea+and+Civilization+Lincoln+Paine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea and Civilization">The Sea and Civilization</a>
         </h4>
         <p class="fr-book-author">By Lincoln Paine</p>
-        
+
         <p class="fr-book-desc">Places Bahrain&#x27;s pearling seascape within a broader human relationship with the sea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sea+and+Civilization+Lincoln+Paine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That enduring power explains why Bu Darya remains one of the Gulf's most memorab
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arab+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arab Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Three+Tales+from+the+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Three Tales from the Arabian Nights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arab+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arab Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Music+in+the+World+of+Islam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Music in the World of Islam</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

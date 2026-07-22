@@ -356,7 +356,7 @@ Taken together, these traditions show that Hungarian folklore contained several 
           <a href="https://www.amazon.com/s?k=European+Witch+Trials+Richard+Kieckhefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="European Witch Trials">European Witch Trials</a>
         </h4>
         <p class="fr-book-author">By Richard Kieckhefer</p>
-        
+
         <p class="fr-book-desc">Provides context for Hungarian witch-trial material.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=European+Witch+Trials+Richard+Kieckhefer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Taken together, these traditions show that Hungarian folklore contained several 
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Examines belief in magic, spirits and supernatural causation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Taken together, these traditions show that Hungarian folklore contained several 
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Witches%2C+Witchcraft+and+Wicca+Rosemary+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Witches, Witchcraft and Wicca">The Encyclopedia of Witches, Witchcraft and Wicca</a>
         </h4>
         <p class="fr-book-author">By Rosemary Guiley</p>
-        
+
         <p class="fr-book-desc">Directly connects to witch beliefs and supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Witches%2C+Witchcraft+and+Wicca+Rosemary+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,16 +401,16 @@ Taken together, these traditions show that Hungarian folklore contained several 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Giants+Monsters+and+Dragons+Carol+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Giants Monsters and Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ilWNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Giants Monsters and Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdTtAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Giants+Monsters+and+Dragons+Carol+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Giants Monsters and Dragons">Giants Monsters and Dragons</a>
+          <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragons">Dragons</a>
         </h4>
-        <p class="fr-book-author">By Carol Rose</p>
-        
+        <p class="fr-book-author">By Karl Shuker</p>
+
         <p class="fr-book-desc">Explores dragon traditions across cultures.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Giants+Monsters+and+Dragons+Carol+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

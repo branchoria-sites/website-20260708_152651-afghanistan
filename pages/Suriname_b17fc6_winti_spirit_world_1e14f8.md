@@ -327,30 +327,13 @@ For folklore enthusiasts, Winti offers a reminder that the boundary between folk
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi Boys on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WhdWPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Anansi Boys" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi Boys">Anansi Boys</a>
-        </h4>
-        <p class="fr-book-author">By Neil Gaiman</p>
-        
-        <p class="fr-book-desc">Introduces trickster mythology to a broad audience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mama+Lola+Karen+McCarthy+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mama Lola on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wV044meEOLEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mama Lola" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Mama+Lola+Karen+McCarthy+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mama Lola">Mama Lola</a>
         </h4>
         <p class="fr-book-author">By Karen McCarthy Brown</p>
-        
+
         <p class="fr-book-desc">Shows how spirits, healing and community operate in a living Afro-diasporic tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mama+Lola+Karen+McCarthy+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,10 +350,27 @@ For folklore enthusiasts, Winti offers a reminder that the boundary between folk
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Explores religion, healing and supernatural belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology+David+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Companion to World Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iPrhBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Oxford Companion to World Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology+David+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Companion to World Mythology">The Oxford Companion to World Mythology</a>
+        </h4>
+        <p class="fr-book-author">By David Leeming</p>
+
+        <p class="fr-book-desc">Helps place Winti spirit classifications in a broader comparative context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology+David+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -384,7 +384,7 @@ For folklore enthusiasts, Winti offers a reminder that the boundary between folk
           <a href="https://www.amazon.com/s?k=The+Spirits+and+the+Law+Kate+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirits and the Law">The Spirits and the Law</a>
         </h4>
         <p class="fr-book-author">By Kate Ramsey</p>
-        
+
         <p class="fr-book-desc">Addresses Winti and its historical treatment in Suriname.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spirits+and+the+Law+Kate+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For folklore enthusiasts, Winti offers a reminder that the boundary between folk
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+Boys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi Boys</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mama+Lola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mama Lola</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mama+Lola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mama Lola</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford Companion to World Mythology</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

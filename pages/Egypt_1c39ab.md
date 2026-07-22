@@ -1342,7 +1342,7 @@ The richest view of Egypt is therefore layered: ancient without being trapped in
           <a href="https://www.amazon.com/s?k=Egyptian+Mythology+Geraldine+Pinch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Egyptian Mythology">Egyptian Mythology</a>
         </h4>
         <p class="fr-book-author">By Geraldine Pinch</p>
-        
+
         <p class="fr-book-desc">Provides foundational mythological background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Egyptian+Mythology+Geraldine+Pinch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ The richest view of Egypt is therefore layered: ancient without being trapped in
           <a href="https://www.amazon.com/s?k=Folktales+of+Egypt+Hasan+M.+El-Shamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folktales of Egypt">Folktales of Egypt</a>
         </h4>
         <p class="fr-book-author">By Hasan M. El-Shamy</p>
-        
+
         <p class="fr-book-desc">Directly focused on Egyptian folktales and oral tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Folktales+of+Egypt+Hasan+M.+El-Shamy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,16 +1370,16 @@ The richest view of Egypt is therefore layered: ancient without being trapped in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Myths+and+Legends+of+Ancient+Egypt+Joyce+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Myths and Legends of Ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sE8uOD8_Rh4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Penguin Book of Myths and Legends of Ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Encyclopedia+of+Ancient+Egypt+Donald+B.+Redford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Encyclopedia of Ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H2eHMwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Oxford Encyclopedia of Ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Myths+and+Legends+of+Ancient+Egypt+Joyce+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Myths and Legends of Ancient Egypt">The Penguin Book of Myths and Legends of Ancient Egypt</a>
+          <a href="https://www.amazon.com/s?k=The+Oxford+Encyclopedia+of+Ancient+Egypt+Donald+B.+Redford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Encyclopedia of Ancient Egypt">The Oxford Encyclopedia of Ancient Egypt</a>
         </h4>
-        <p class="fr-book-author">By Joyce Tyldesley</p>
-        
-        <p class="fr-book-desc">Explains narratives that continue to influence cultural imagination.</p>
+        <p class="fr-book-author">By Donald B. Redford</p>
+
+        <p class="fr-book-desc">Offers historical context for folklore and belief traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Myths+and+Legends+of+Ancient+Egypt+Joyce+Tyldesley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Encyclopedia+of+Ancient+Egypt+Donald+B.+Redford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1393,7 +1393,7 @@ The richest view of Egypt is therefore layered: ancient without being trapped in
           <a href="https://www.amazon.com/s?k=Arab+Folktales+Inea+Bushnaq&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arab Folktales">Arab Folktales</a>
         </h4>
         <p class="fr-book-author">By Inea Bushnaq</p>
-        
+
         <p class="fr-book-desc">Connects Egyptian stories to wider Arab oral traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arab+Folktales+Inea+Bushnaq&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1404,7 +1404,7 @@ The richest view of Egypt is therefore layered: ancient without being trapped in
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Egyptian+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Egyptian Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folktales+of+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folktales of Egypt</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Myths+and+Legends+of+Ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Myths and Legends of Ancient Egypt</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Egyptian+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Egyptian Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folktales+of+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folktales of Egypt</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+Encyclopedia+of+Ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford Encyclopedia of Ancient Egypt</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

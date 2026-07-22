@@ -332,13 +332,30 @@ Many monsters fade because they are too distant from everyday life. The Steel Do
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi the Spider on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J_Y5PgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Anansi the Spider" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jumbie God&#x27;s Revenge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rWl4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Jumbie God&#x27;s Revenge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jumbie God&#x27;s Revenge">The Jumbie God&#x27;s Revenge</a>
+        </h4>
+        <p class="fr-book-author">By Tracey Baptiste</p>
+
+        <p class="fr-book-desc">Shares the atmosphere of fear and folklore surrounding spirit creatures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anansi the Spider on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/579042-M.jpg" alt="Cover for Anansi the Spider" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi the Spider">Anansi the Spider</a>
         </h4>
         <p class="fr-book-author">By Gerald McDermott</p>
-        
+
         <p class="fr-book-desc">Highlights African-derived storytelling influences in the Caribbean.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Anansi+the+Spider+Gerald+McDermott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -349,33 +366,16 @@ Many monsters fade because they are too distant from everyday life. The Steel Do
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+and+Legends+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Folk Tales and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6KgNAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Caribbean Folk Tales and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Book+of+Caribbean+Short+Stories+Stewart+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Book of Caribbean Short Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZrdmQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Oxford Book of Caribbean Short Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+and+Legends+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales and Legends">Caribbean Folk Tales and Legends</a>
+          <a href="https://www.amazon.com/s?k=The+Oxford+Book+of+Caribbean+Short+Stories+Stewart+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Book of Caribbean Short Stories">The Oxford Book of Caribbean Short Stories</a>
         </h4>
-        <p class="fr-book-author">By Andrew Salkey</p>
-        
-        <p class="fr-book-desc">Provides context for unusual supernatural creatures like the Steel Donkey.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+and+Legends+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Stewart Brown</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jumbie God&#x27;s Revenge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rWl4EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Jumbie God&#x27;s Revenge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jumbie God&#x27;s Revenge">The Jumbie God&#x27;s Revenge</a>
-        </h4>
-        <p class="fr-book-author">By Tracey Baptiste</p>
-        
-        <p class="fr-book-desc">Shares the atmosphere of fear and folklore surrounding spirit creatures.</p>
+        <p class="fr-book-desc">Contains fiction shaped by Caribbean folk beliefs and oral traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Book+of+Caribbean+Short+Stories+Stewart+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -389,7 +389,7 @@ Many monsters fade because they are too distant from everyday life. The Steel Do
           <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales">Caribbean Folk Tales</a>
         </h4>
         <p class="fr-book-author">By Andrew Salkey</p>
-        
+
         <p class="fr-book-desc">Provides context for unusual supernatural creatures like the Steel Donkey.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Andrew+Salkey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Many monsters fade because they are too distant from everyday life. The Steel Do
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+the+Spider&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi the Spider</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caribbean Folk Tales and Legends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jumbie God&#x27;s Revenge</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jumbie+God%27s+Revenge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jumbie God&#x27;s Revenge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anansi+the+Spider&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anansi the Spider</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+Book+of+Caribbean+Short+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford Book of Caribbean Short Stories</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
