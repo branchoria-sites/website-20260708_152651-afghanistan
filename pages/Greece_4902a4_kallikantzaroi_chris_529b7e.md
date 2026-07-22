@@ -331,13 +331,30 @@ Their enduring appeal lies in this balance between darkness and celebration. The
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Greek+Folk+Religion+Martin+P.+Nilsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Greek Folk Religion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6506452-M.jpg" alt="Cover for Greek Folk Religion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Greek+Folk+Religion+Martin+P.+Nilsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Greek Folk Religion">Greek Folk Religion</a>
+        </h4>
+        <p class="fr-book-author">By Martin P. Nilsson, Arthur Darby Nock</p>
+
+        <p class="fr-book-desc">Provides context for seasonal supernatural traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Greek+Folk+Religion+Martin+P.+Nilsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bulfinch%27s+Mythology+Thomas+Bulfinch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bulfinch&#x27;s Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9uEnAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bulfinch&#x27;s Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Bulfinch%27s+Mythology+Thomas+Bulfinch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bulfinch&#x27;s Mythology">Bulfinch&#x27;s Mythology</a>
         </h4>
         <p class="fr-book-author">By Thomas Bulfinch</p>
-        
+
         <p class="fr-book-desc">Offers wider Greek myth context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bulfinch%27s+Mythology+Thomas+Bulfinch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +371,7 @@ Their enduring appeal lies in this balance between darkness and celebration. The
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Explores winter customs and ritual beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +388,7 @@ Their enduring appeal lies in this balance between darkness and celebration. The
           <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology+David+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Companion to World Mythology">The Oxford Companion to World Mythology</a>
         </h4>
         <p class="fr-book-author">By David Leeming</p>
-        
+
         <p class="fr-book-desc">Helps compare goblin traditions across cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology+David+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,26 +397,9 @@ Their enduring appeal lies in this balance between darkness and celebration. The
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Greek+Folk+Religion+Martin+P.+Nilsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Greek Folk Religion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Greek+Folk+Religion+Martin+P.+Nilsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Greek Folk Religion">Greek Folk Religion</a>
-        </h4>
-        <p class="fr-book-author">By Martin P. Nilsson, Arthur Darby Nock</p>
-        
-        <p class="fr-book-desc">Provides context for seasonal supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Greek+Folk+Religion+Martin+P.+Nilsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bulfinch%27s+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bulfinch&#x27;s Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Bough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Bough</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford Companion to World Mythology</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Greek+Folk+Religion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Greek Folk Religion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bulfinch%27s+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bulfinch&#x27;s Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Bough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Bough</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
