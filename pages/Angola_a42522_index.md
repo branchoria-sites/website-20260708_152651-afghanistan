@@ -1,6 +1,6 @@
 ---
-title: What Makes Angola's Folklore So Many Sided? Sub-Topic Index
-title_full: What Makes Angola's Folklore So Many Sided? Sub-Topic Index
+title: "Many-Sided Folklore of Angola Sub-Topic Index"
+title_full: "Many-Sided Folklore of Angola Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

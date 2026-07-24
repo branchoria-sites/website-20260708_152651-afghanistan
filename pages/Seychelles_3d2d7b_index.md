@@ -1,6 +1,6 @@
 ---
-title: What Makes Seychelles Folklore So Strange? Sub-Topic Index
-title_full: What Makes Seychelles Folklore So Strange? Sub-Topic Index
+title: "Strange Folklore of Seychelles Sub-Topic Index"
+title_full: "Strange Folklore of Seychelles Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

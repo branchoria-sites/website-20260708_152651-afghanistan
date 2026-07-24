@@ -300,7 +300,7 @@ Modern audiences generally do not treat the story as a literal historical accoun
 
 <img src="{{ "/assets/images/Vietnam_681101_dragon_fairy_origin_b908f9-Illustration-3-dark.svg" | relative_url }}" alt="Dragon Origin illustration 3" data-theme-src-dark="{{ "/assets/images/Vietnam_681101_dragon_fairy_origin_b908f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vietnam_681101_dragon_fairy_origin_b908f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the legend still matters
+## Dragon Origin in cultural memory
 
 Many countries possess founding myths, but the Vietnamese dragon-and-fairy legend remains distinctive because it links ancestry directly to the country's physical landscape. Sea and mountain, lowland and upland, difference and kinship all become part of a single family story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asianfolktales.unescoapceiu.org/folktales/read/vietnam_2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianfolktales.unescoapceiu.org">[asianfolktales.unescoapceiu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianfolktales.unescoapceiu.org</span><span class="citation-popover-snippet">The Dragon and the FairyAfter some time living with Au Co, Lac Long Quan told his wife one day: I am by nature like a dragon in the wate...</span></span></span>
 

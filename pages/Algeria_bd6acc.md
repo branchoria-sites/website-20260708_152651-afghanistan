@@ -209,13 +209,13 @@ description: Algerian folklore is not one single mythology with a fixed cast of 
 hero_summary: Algerian folklore is not one single mythology with a fixed cast of gods and monsters.
 layout: default
 permalink: /algeria/
-nav_short_title: What Makes Algerian Folklore So Layered?
-title: What Makes Algerian Folklore So Layered?
-title_full: What Makes Algerian Folklore So Layered?
-display_title_short: What Makes Algerian Folklore So Layered?
-display_title: What Makes Algerian Folklore So Layered?
-heading_title: What Makes Algerian Folklore So Layered?
-page_heading_title: What Makes Algerian Folklore So Layered?
+nav_short_title: "Layered Folklore of Algeria"
+title: "Layered Folklore of Algeria"
+title_full: "Layered Folklore of Algeria"
+display_title_short: "Layered Folklore of Algeria"
+display_title: "Layered Folklore of Algeria"
+heading_title: "Layered Folklore of Algeria"
+page_heading_title: "Layered Folklore of Algeria"
 source_count: 140
 infographic_count: 3
 page_website_name: Algerian Folklore

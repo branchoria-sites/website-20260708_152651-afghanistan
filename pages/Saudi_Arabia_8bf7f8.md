@@ -209,13 +209,13 @@ description: Saudi Arabia’s folklore is not a single storybook tradition but a
 hero_summary: Saudi Arabia’s folklore is not a single storybook tradition but a wide field of oral poetry, tribal memory, sacred landscapes, household arts, seasonal performance, desert cautionary tales and beliefs about unseen beings.
 layout: default
 permalink: /what-haunts-saudi-arabias-living/
-nav_short_title: What Haunts Saudi Arabia's Living Folklore?
-title: What Haunts Saudi Arabia's Living Folklore?
-title_full: What Haunts Saudi Arabia's Living Folklore?
-display_title_short: What Haunts Saudi Arabia's Living Folklore?
-display_title: What Haunts Saudi Arabia's Living Folklore?
-heading_title: What Haunts Saudi Arabia's Living Folklore?
-page_heading_title: What Haunts Saudi Arabia's Living Folklore?
+nav_short_title: "Haunting Traditions of Saudi Arabia"
+title: "Haunting Traditions of Saudi Arabia"
+title_full: "Haunting Traditions of Saudi Arabia"
+display_title_short: "Haunting Traditions of Saudi Arabia"
+display_title: "Haunting Traditions of Saudi Arabia"
+heading_title: "Haunting Traditions of Saudi Arabia"
+page_heading_title: "Haunting Traditions of Saudi Arabia"
 source_count: 133
 infographic_count: 3
 page_website_name: Saudi Folklore

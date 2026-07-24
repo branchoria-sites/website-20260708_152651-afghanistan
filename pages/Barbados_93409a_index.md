@@ -1,6 +1,6 @@
 ---
-title: What Haunts Barbados After Dark? Sub-Topic Index
-title_full: What Haunts Barbados After Dark? Sub-Topic Index
+title: "Barbados' Uncanny Folklore Sub-Topic Index"
+title_full: "Barbados' Uncanny Folklore Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

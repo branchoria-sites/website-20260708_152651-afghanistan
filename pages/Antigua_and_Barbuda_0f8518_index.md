@@ -1,6 +1,6 @@
 ---
-title: What Haunts Antigua and Barbuda's Stories? Sub-Topic Index
-title_full: What Haunts Antigua and Barbuda's Stories? Sub-Topic Index
+title: "Antigua and Barbuda's Uncanny Folklore Sub-Topic Index"
+title_full: "Antigua and Barbuda's Uncanny Folklore Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

@@ -209,13 +209,13 @@ description: 'Syria’s folklore is not one single mythology but a layered cultu
 hero_summary: 'Syria’s folklore is not one single mythology but a layered culture of stories: ancient storm-god myths from Ugarit on the Mediterranean coast, public storytelling in Damascus cafés, shadow-puppet satire, saintly shrines, protective charms, songs from Aleppo, refugee-preserved folktales, and modern memories of damaged but still meaningful places.'
 layout: default
 permalink: /syria/
-nav_short_title: What Makes Syrian Folklore So Layered?
-title: What Makes Syrian Folklore So Layered?
-title_full: What Makes Syrian Folklore So Layered?
-display_title_short: What Makes Syrian Folklore So Layered?
-display_title: What Makes Syrian Folklore So Layered?
-heading_title: What Makes Syrian Folklore So Layered?
-page_heading_title: What Makes Syrian Folklore So Layered?
+nav_short_title: "Layered Folklore of Syria"
+title: "Layered Folklore of Syria"
+title_full: "Layered Folklore of Syria"
+display_title_short: "Layered Folklore of Syria"
+display_title: "Layered Folklore of Syria"
+heading_title: "Layered Folklore of Syria"
+page_heading_title: "Layered Folklore of Syria"
 source_count: 104
 infographic_count: 3
 page_website_name: Syrian Folklore

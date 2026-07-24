@@ -209,13 +209,13 @@ description: Zambian folklore is not a single mythology with one official cast o
 hero_summary: Zambian folklore is not a single mythology with one official cast of gods and monsters. It is a living mix of oral tales, river legends, masked ritual, ancestral belief, moral storytelling, local spirits, seasonal ceremonies and modern retellings shaped by the country’s many communities.
 layout: default
 permalink: /zambia/
-nav_short_title: What Makes Zambian Folklore So Alive?
-title: What Makes Zambian Folklore So Alive?
-title_full: What Makes Zambian Folklore So Alive?
-display_title_short: What Makes Zambian Folklore So Alive?
-display_title: What Makes Zambian Folklore So Alive?
-heading_title: What Makes Zambian Folklore So Alive?
-page_heading_title: What Makes Zambian Folklore So Alive?
+nav_short_title: "Living Folklore of Zambia"
+title: "Living Folklore of Zambia"
+title_full: "Living Folklore of Zambia"
+display_title_short: "Living Folklore of Zambia"
+display_title: "Living Folklore of Zambia"
+heading_title: "Living Folklore of Zambia"
+page_heading_title: "Living Folklore of Zambia"
 source_count: 99
 infographic_count: 3
 page_website_name: Zambia Folklore

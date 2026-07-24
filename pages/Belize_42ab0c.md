@@ -209,13 +209,13 @@ description: Belizean folklore is not a single mythology with one fixed canon.
 hero_summary: Belizean folklore is not a single mythology with one fixed canon. It is a living mix of Maya, Mestizo, Creole, Garifuna, Catholic, Caribbean and wider Central American story traditions, shaped by village storytelling, forest work, family warnings, ritual calendars, literature, tourism and modern media.
 layout: default
 permalink: /what-haunts-belizes-stories/
-nav_short_title: What Haunts Belize's Stories?
-title: What Haunts Belize's Stories?
-title_full: What Haunts Belize's Stories?
-display_title_short: What Haunts Belize's Stories?
-display_title: What Haunts Belize's Stories?
-heading_title: What Haunts Belize's Stories?
-page_heading_title: What Haunts Belize's Stories?
+nav_short_title: "Dark Tales and Living Folklore from Belize"
+title: "Dark Tales and Living Folklore from Belize"
+title_full: "Dark Tales and Living Folklore from Belize"
+display_title_short: "Dark Tales and Living Folklore from Belize"
+display_title: "Dark Tales and Living Folklore from Belize"
+heading_title: "Dark Tales and Living Folklore from Belize"
+page_heading_title: "Dark Tales and Living Folklore from Belize"
 source_count: 154
 infographic_count: 3
 page_website_name: Belize Folklore

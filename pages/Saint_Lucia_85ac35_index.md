@@ -1,6 +1,6 @@
 ---
-title: What Haunts Saint Lucia's Story World? Sub-Topic Index
-title_full: What Haunts Saint Lucia's Story World? Sub-Topic Index
+title: "Haunting Traditions of Saint Lucia Sub-Topic Index"
+title_full: "Haunting Traditions of Saint Lucia Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

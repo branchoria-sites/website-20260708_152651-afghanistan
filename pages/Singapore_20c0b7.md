@@ -209,13 +209,13 @@ description: Singapore’s folklore is not a single, sealed book of myths.
 hero_summary: Singapore’s folklore is not a single, sealed book of myths. It is a living mix of Malay court legend, island stories, sacred shrines, Chinese ritual culture, ghost lore, children’s retellings, horror cinema and urban haunting.
 layout: default
 permalink: /what-haunts-singapores-storied-map/
-nav_short_title: What Haunts Singapore's Storied Map?
-title: What Haunts Singapore's Storied Map?
-title_full: What Haunts Singapore's Storied Map?
-display_title_short: What Haunts Singapore's Storied Map?
-display_title: What Haunts Singapore's Storied Map?
-heading_title: What Haunts Singapore's Storied Map?
-page_heading_title: What Haunts Singapore's Storied Map?
+nav_short_title: "Singapore's Uncanny Folklore"
+title: "Singapore's Uncanny Folklore"
+title_full: "Singapore's Uncanny Folklore"
+display_title_short: "Singapore's Uncanny Folklore"
+display_title: "Singapore's Uncanny Folklore"
+heading_title: "Singapore's Uncanny Folklore"
+page_heading_title: "Singapore's Uncanny Folklore"
 source_count: 134
 infographic_count: 3
 page_website_name: Singapore Folklore

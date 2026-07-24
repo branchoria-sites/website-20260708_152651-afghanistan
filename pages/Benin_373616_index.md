@@ -1,6 +1,6 @@
 ---
-title: What Makes Benin's Folklore So Alive? Sub-Topic Index
-title_full: What Makes Benin's Folklore So Alive? Sub-Topic Index
+title: "Living Folklore of Benin Sub-Topic Index"
+title_full: "Living Folklore of Benin Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

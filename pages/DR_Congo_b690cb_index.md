@@ -1,6 +1,6 @@
 ---
-title: What Makes DR Congo's Folklore So Varied? Sub-Topic Index
-title_full: What Makes DR Congo's Folklore So Varied? Sub-Topic Index
+title: "Diverse Folklore of DR Congo Sub-Topic Index"
+title_full: "Diverse Folklore of DR Congo Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

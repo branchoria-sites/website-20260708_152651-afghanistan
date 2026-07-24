@@ -302,7 +302,7 @@ This visibility has helped make Kaieteur one of the few Indigenous legends recog
 
 <img src="{{ "/assets/images/Guyana_bc88a2_kaieteur_falls_legen_98a26b-Illustration-3-dark.svg" | relative_url }}" alt="Kaieteur illustration 3" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_kaieteur_falls_legen_98a26b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_kaieteur_falls_legen_98a26b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## Kaieteur in cultural memory
 
 The continuing popularity of the Kaieteur legend comes from the way several meanings overlap within a single story. It explains a place name. It provides a memorable origin story for the country’s most famous waterfall. It celebrates sacrifice and leadership. It preserves an Indigenous connection to a nationally important landscape. And it gives visitors a human story to accompany an overwhelming natural spectacle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.guyanatimesinternational.com/legend-of-kaieteur/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guyanatimesinternational.com">[guyanatimesinternational.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guyanatimesinternational.com</span><span class="citation-popover-title">Guyana Times Legend of Kaieteur</span><span class="citation-popover-snippet">Guyana TimesLegend of Kaieteur - Guyana Times InternationalFeb 7, 2020 — The word Kaieteur means Old Man&#x27;s Falls, referring to the fall o...</span></span></span>
 

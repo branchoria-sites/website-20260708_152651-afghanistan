@@ -314,7 +314,7 @@ This does not mean the legend functioned as science. Rather, it shows how tradit
 
 <img src="{{ "/assets/images/Nepal_0e1d58_kathmandu_sacred_lan_fb73fa-Illustration-3-dark.svg" | relative_url }}" alt="Sacred Valley illustration 3" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_kathmandu_sacred_lan_fb73fa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_kathmandu_sacred_lan_fb73fa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Still Matters
+## How Sacred Valley survived in retelling
 
 The story of the sacred lake remains one of Nepal’s most recognisable origin narratives because it links religion, history, place and identity in a single memorable image. It explains why Swayambhu is sacred, why Chobhar matters, and why the valley itself is seen as a specially blessed landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manjushri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 

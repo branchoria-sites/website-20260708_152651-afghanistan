@@ -1298,7 +1298,7 @@ The weakest category is the modern listicle-style “mythology” summary, espec
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QBQTjKZRmf0" title="Grass mowing competition in Bosnia classified as Cultural Heritage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QBQTjKZRmf0" target="_blank" rel="noopener noreferrer">Grass mowing competition in Bosnia classified as Cultural Heritage</a></p><p class="youtube-embed-meta">Channel: Sharjah24 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QBQTjKZRmf0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QBQTjKZRmf0">Open on YouTube</a></p></div></div></div>
 
-## Why these traditions still matter
+## What Bosnia and Herzegovi's folklore preserves for later generations
 
 Bosnia and Herzegovina’s folklore matters because it gives cultural form to experiences that ordinary history often leaves too abstract: migration, illness, grief, love, labour, exile, water, death, landscape and belonging. A medieval tombstone becomes a healing stone. A queen’s flight becomes a spring legend. A mountain plant becomes a ritual of health. A heroic singer becomes evidence for how oral poetry works across the world. A love song becomes a national and transnational emblem.
 

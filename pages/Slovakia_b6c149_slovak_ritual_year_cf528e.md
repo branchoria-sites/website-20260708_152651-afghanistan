@@ -320,7 +320,7 @@ Seen as a whole, the journey from Morena to Lucia forms a coherent cycle. Spring
 
 <img src="{{ "/assets/images/Slovakia_b6c149_slovak_ritual_year_cf528e-Illustration-3-dark.svg" | relative_url }}" alt="Ritual Year illustration 3" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_slovak_ritual_year_cf528e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_slovak_ritual_year_cf528e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Traditions Still Matter
+## How Ritual Year survived in retelling
 
 The survival of these customs helps explain why Slovak folklore remains unusually visible in public life. Morena processions continue in schools and cultural events, Easter water and willow rituals are still widely recognised, and Lucia remains one of the most evocative figures in Slovak seasonal folklore. While few participants today literally believe every older explanation, the customs preserve a distinctive way of understanding the year through cycles of death and renewal, danger and protection, darkness and light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://slovakia.travel/en/burning-of-morena-two-weeks-before-easter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slovakia.travel">[Slovakia Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slovakia.travel</span><span class="citation-popover-snippet">Burning of Morena (two weeks before Easter)Morena symbolised the winter and so when people wanted the spring to come, they had to kill he...</span></span></span>
 

@@ -209,13 +209,13 @@ description: Egyptian folklore is not just a set of old stories about pharaohs, 
 hero_summary: Egyptian folklore is not just a set of old stories about pharaohs, pyramids and gods. It is a living mix of oral epics, saints’ festivals, protective charms, spirit beliefs, puppet theatre, Coptic pilgrimage legends, desert monsters, household rituals and modern retellings.
 layout: default
 permalink: /egypt/
-nav_short_title: What Makes Egyptian Folklore So Alive?
-title: What Makes Egyptian Folklore So Alive?
-title_full: What Makes Egyptian Folklore So Alive?
-display_title_short: What Makes Egyptian Folklore So Alive?
-display_title: What Makes Egyptian Folklore So Alive?
-heading_title: What Makes Egyptian Folklore So Alive?
-page_heading_title: What Makes Egyptian Folklore So Alive?
+nav_short_title: "Living Folklore of Egypt"
+title: "Living Folklore of Egypt"
+title_full: "Living Folklore of Egypt"
+display_title_short: "Living Folklore of Egypt"
+display_title: "Living Folklore of Egypt"
+heading_title: "Living Folklore of Egypt"
+page_heading_title: "Living Folklore of Egypt"
 source_count: 132
 infographic_count: 3
 page_website_name: Egypt Folklore

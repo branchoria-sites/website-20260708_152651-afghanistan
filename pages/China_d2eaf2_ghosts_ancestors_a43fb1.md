@@ -353,7 +353,7 @@ In these stories, the dead often possess a clearer sense of justice than the liv
 
 <img src="{{ "/assets/images/China_d2eaf2_ghosts_ancestors_a43fb1-Illustration-3-dark.svg" | relative_url }}" alt="Ghosts illustration 3" data-theme-src-dark="{{ "/assets/images/China_d2eaf2_ghosts_ancestors_a43fb1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/China_d2eaf2_ghosts_ancestors_a43fb1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Traditions Still Matter
+## Ghosts in cultural memory
 
 Modern [China]({{ 'china/' | relative_url }}) includes many different attitudes toward ghosts, ranging from religious belief to cultural heritage and literary appreciation. Yet ancestor visits during Qingming, Ghost Festival observances and ghost-themed storytelling remain visible across China and Chinese communities worldwide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sixthtone.com/news/1013627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sixthtone.com">[#SixthTone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sixthtone.com</span><span class="citation-popover-snippet">#SixthToneThe Hungry Dead and the Envoys of Hell: China&#x27;s Ghost...During this ancient festival, elaborate worship rituals are conducted...</span></span></span>
 

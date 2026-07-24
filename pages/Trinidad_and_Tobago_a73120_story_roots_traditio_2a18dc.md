@@ -310,7 +310,7 @@ The growth of written collections, children's literature, folklore studies and c
 
 <img src="{{ "/assets/images/Trinidad_and_Tobago_a73120_story_roots_traditio_2a18dc-Illustration-3-dark.svg" | relative_url }}" alt="Story Roots illustration 3" data-theme-src-dark="{{ "/assets/images/Trinidad_and_Tobago_a73120_story_roots_traditio_2a18dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trinidad_and_Tobago_a73120_story_roots_traditio_2a18dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Stories Still Matter
+## What Story Roots preserves for later generations
 
 Anansi and Indo-Caribbean spirit stories survive because they continue to answer different human needs. Anansi represents resilience, cleverness and the power of language. Raakhas and churile stories preserve warnings, fears and memories connected to family and community life. Together they illustrate how Trinidad and Tobago’s folklore developed through encounters between peoples whose histories were often marked by displacement, hardship and adaptation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://river-stories.com/caribbean-folklore-folktales-fables-ananse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: river-stories.com">[river-stories.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">river-stories.com</span><span class="citation-popover-snippet">Caribbean Folklore – FolktalesAnanse is the best known character of Caribbean stories, and in the Caribbean he is a spider...</span></span></span>
 

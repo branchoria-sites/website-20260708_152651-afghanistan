@@ -1298,7 +1298,7 @@ This approach does not make the stories less magical. It makes them more interes
 
 <img src="{{ "/assets/images/Guyana_bc88a2-Illustration-3-dark.svg" | relative_url }}" alt="Where Guyana&#x27;s Rivers Become Story illustration 3" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these stories still matter
+## How Guyana's folklore survived in retelling
 
 Guyanese folklore remains important because it holds together a country often described through politics, oil, cricket, migration or rainforest tourism, but less often through everyday imagination. It records how people warned children, explained danger, remembered injustice, laughed at cunning, marked sacred landscapes and carried village speech across generations. In diaspora settings, these stories can become a way of remembering Guyana through a grandparent’s warning, a school poem, a frightening bedtime tale or a joke about what not to do after dark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wendyshearer.co.uk/2015/06/guyanese-folklore-crouch-end/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wendyshearer.co.uk">[Wendy Shearer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wendyshearer.co.uk</span><span class="citation-popover-title">Wendy Shearer Guyanese folklore stories in Crouch End</span><span class="citation-popover-snippet">Wendy Shearer Guyanese folklore stories in Crouch End</span></span></span>
 

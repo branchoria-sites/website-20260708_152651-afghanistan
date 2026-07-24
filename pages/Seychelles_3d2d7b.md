@@ -209,13 +209,13 @@ description: 'Seychellois folklore is best understood as island folklore made fr
 hero_summary: 'Seychellois folklore is best understood as island folklore made from movement: African, Malagasy, European, Indian Ocean and Creole influences carried by sailors, enslaved people, settlers, liberated Africans, migrant workers, songs, riddles and fireside storytelling.'
 layout: default
 permalink: /what-makes-seychelles-folklore-so/
-nav_short_title: What Makes Seychelles Folklore So Strange?
-title: What Makes Seychelles Folklore So Strange?
-title_full: What Makes Seychelles Folklore So Strange?
-display_title_short: What Makes Seychelles Folklore So Strange?
-display_title: What Makes Seychelles Folklore So Strange?
-heading_title: What Makes Seychelles Folklore So Strange?
-page_heading_title: What Makes Seychelles Folklore So Strange?
+nav_short_title: "Strange Folklore of Seychelles"
+title: "Strange Folklore of Seychelles"
+title_full: "Strange Folklore of Seychelles"
+display_title_short: "Strange Folklore of Seychelles"
+display_title: "Strange Folklore of Seychelles"
+heading_title: "Strange Folklore of Seychelles"
+page_heading_title: "Strange Folklore of Seychelles"
 source_count: 108
 infographic_count: 3
 page_website_name: Seychelles Folklore

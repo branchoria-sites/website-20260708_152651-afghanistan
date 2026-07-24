@@ -319,7 +319,7 @@ The influence of heroic imagination extends beyond Rostam himself. Afghan tradit
 
 <img src="{{ "/assets/images/Afghanistan_c69153_jinn_demons_epic_298498-Illustration-3-dark.svg" | relative_url }}" alt="Spirits illustration 3" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_jinn_demons_epic_298498-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_jinn_demons_epic_298498-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Stories Still Matter
+## Spirits in cultural memory
 
 The enduring appeal of Afghan supernatural traditions lies in the different purposes they serve.
 

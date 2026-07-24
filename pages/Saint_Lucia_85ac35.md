@@ -209,13 +209,13 @@ description: 'Saint Lucia’s folklore is best understood as a living Creole tra
 hero_summary: 'Saint Lucia’s folklore is best understood as a living Creole tradition: a blend of African, French, British, Catholic, Indigenous Caribbean and wider Eastern Caribbean influences carried through storytelling, ritual, music, festivals and place-memory.'
 layout: default
 permalink: /what-haunts-saint-lucias-story-world/
-nav_short_title: What Haunts Saint Lucia's Story World?
-title: What Haunts Saint Lucia's Story World?
-title_full: What Haunts Saint Lucia's Story World?
-display_title_short: What Haunts Saint Lucia's Story World?
-display_title: What Haunts Saint Lucia's Story World?
-heading_title: What Haunts Saint Lucia's Story World?
-page_heading_title: What Haunts Saint Lucia's Story World?
+nav_short_title: "Haunting Traditions of Saint Lucia"
+title: "Haunting Traditions of Saint Lucia"
+title_full: "Haunting Traditions of Saint Lucia"
+display_title_short: "Haunting Traditions of Saint Lucia"
+display_title: "Haunting Traditions of Saint Lucia"
+heading_title: "Haunting Traditions of Saint Lucia"
+page_heading_title: "Haunting Traditions of Saint Lucia"
 source_count: 106
 infographic_count: 3
 page_website_name: Saint Lucia Folklore

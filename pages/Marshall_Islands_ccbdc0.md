@@ -1286,7 +1286,7 @@ What is thinner is the evidence for any single, fixed “Marshallese mythology�
 
 It is also worth being cautious with supernatural labels. “Demon”, “ghost”, “spirit”, “monster” and “god” often appear in English translations, but they may flatten older categories of beings and powers. Good public writing should explain the story without pretending that English folklore categories fit perfectly. The safest framing is to treat these beings as figures in Marshallese tradition: culturally meaningful, locally remembered, and historically transformed by translation, missionisation and modern media.
 
-## Why these stories still matter
+## What Marshall Islands' folklore preserves for later generations
 
 Marshall Islands folklore matters because it preserves ways of knowing that are inseparable from atoll life. It remembers how to behave towards chiefs and kin, how to respect places, how to think about the dead, how to treat food and land as inherited responsibilities, and how to understand the ocean as both route and danger. Its most memorable stories are lively: tricksters steal canoes, giants wade between atolls, eels guard shining luck, children mock demons, and plants grow out of loss. But behind that liveliness is a serious cultural function.
 

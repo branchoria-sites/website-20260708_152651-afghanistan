@@ -209,13 +209,13 @@ description: Ukraine’s folklore is not a single book of myths but a living web
 hero_summary: Ukraine’s folklore is not a single book of myths but a living web of village rites, household spirits, forest and water beings, heroic songs, Easter egg symbols, Cossack legends, Carpathian mountain lore, Crimean Tatar ornament, and modern retellings in literature, film and wartime culture.
 layout: default
 permalink: /what-makes-ukraines-folklore-so-alive/
-nav_short_title: What Makes Ukraine's Folklore So Alive?
-title: What Makes Ukraine's Folklore So Alive?
-title_full: What Makes Ukraine's Folklore So Alive?
-display_title_short: What Makes Ukraine's Folklore So Alive?
-display_title: What Makes Ukraine's Folklore So Alive?
-heading_title: What Makes Ukraine's Folklore So Alive?
-page_heading_title: What Makes Ukraine's Folklore So Alive?
+nav_short_title: "Living Folklore of Ukraine"
+title: "Living Folklore of Ukraine"
+title_full: "Living Folklore of Ukraine"
+display_title_short: "Living Folklore of Ukraine"
+display_title: "Living Folklore of Ukraine"
+heading_title: "Living Folklore of Ukraine"
+page_heading_title: "Living Folklore of Ukraine"
 source_count: 176
 infographic_count: 3
 page_website_name: Ukraine Folklore

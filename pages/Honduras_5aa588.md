@@ -1300,7 +1300,7 @@ Some figures often listed in Honduran legend roundups — ghost carts, goblins, 
 
 <img src="{{ "/assets/images/Honduras_5aa588-Illustration-3-dark.svg" | relative_url }}" alt="Why Honduras Keeps Telling Ghost Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these stories still matter
+## Honduras' folklore in cultural memory
 
 Honduran folklore remains powerful because it makes social memory feel immediate. La Sucia turns the riverbank into a warning about desire, shame and danger. La Llorona turns grief into a sound in the night. El Cadejo turns the road home into a test of conduct. Guancasco turns old relations between communities into public ritual. Garifuna music turns history, migration, labour and ancestral belonging into performance. Copán turns carved stone into a continuing national and Indigenous heritage landscape.
 

@@ -209,13 +209,13 @@ description: Folklore in Antigua and Barbuda is best understood as a living Cari
 hero_summary: 'Folklore in Antigua and Barbuda is best understood as a living Caribbean tradition rather than a sealed book of ancient myths. Its centre is oral culture: Anansi trickster tales, jumbie ghost stories, beliefs about obeah, masquerade figures from old Christmas customs and Carnival, and modern retellings in Antiguan literature and art.'
 layout: default
 permalink: /what-haunts-antigua-and-barbudas-stories/
-nav_short_title: What Haunts Antigua and Barbuda's Stories?
-title: What Haunts Antigua and Barbuda's Stories?
-title_full: What Haunts Antigua and Barbuda's Stories?
-display_title_short: What Haunts Antigua and Barbuda's Stories?
-display_title: What Haunts Antigua and Barbuda's Stories?
-heading_title: What Haunts Antigua and Barbuda's Stories?
-page_heading_title: What Haunts Antigua and Barbuda's Stories?
+nav_short_title: "Antigua and Barbuda's Uncanny Folklore"
+title: "Antigua and Barbuda's Uncanny Folklore"
+title_full: "Antigua and Barbuda's Uncanny Folklore"
+display_title_short: "Antigua and Barbuda's Uncanny Folklore"
+display_title: "Antigua and Barbuda's Uncanny Folklore"
+heading_title: "Antigua and Barbuda's Uncanny Folklore"
+page_heading_title: "Antigua and Barbuda's Uncanny Folklore"
 source_count: 107
 infographic_count: 3
 page_website_name: Antigua Folklore

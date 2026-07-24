@@ -1,6 +1,6 @@
 ---
-title: What Haunts Romania Beyond Dracula? Sub-Topic Index
-title_full: What Haunts Romania Beyond Dracula? Sub-Topic Index
+title: "Dark Tales and Living Folklore from Romania Sub-Topic Index"
+title_full: "Dark Tales and Living Folklore from Romania Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

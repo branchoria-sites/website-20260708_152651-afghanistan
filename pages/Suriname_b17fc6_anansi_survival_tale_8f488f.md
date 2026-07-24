@@ -316,7 +316,7 @@ Today, Anansi also serves as a cultural bridge linking Suriname to Ghana, the wi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z_XluMFHcwU" title="ANANSI: African Trickster God Between Good and Evil | Mythology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z_XluMFHcwU" target="_blank" rel="noopener noreferrer">ANANSI: African Trickster God Between Good and Evil | Mythology</a></p><p class="youtube-embed-meta">Channel: Heroes of Mythology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z_XluMFHcwU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z_XluMFHcwU">Open on YouTube</a></p></div></div></div>
 
-## Why the Stories Still Matter
+## How Anansi survived in retelling
 
 Anansi survives because the questions at the heart of the tales remain familiar. How does a weak person deal with a stronger opponent? When does cleverness become dishonesty? Is survival more important than fairness? Can humour reveal truths that direct criticism cannot?
 

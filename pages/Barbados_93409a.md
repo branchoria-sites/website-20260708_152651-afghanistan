@@ -209,13 +209,13 @@ description: Barbados has a compact but vivid folklore tradition shaped by plant
 hero_summary: Barbados has a compact but vivid folklore tradition shaped by plantation history, African-Caribbean memory, British colonial forms, Christian belief, folk medicine, music, masquerade and modern cultural revival.
 layout: default
 permalink: /what-haunts-barbados-after-dark/
-nav_short_title: What Haunts Barbados After Dark?
-title: What Haunts Barbados After Dark?
-title_full: What Haunts Barbados After Dark?
-display_title_short: What Haunts Barbados After Dark?
-display_title: What Haunts Barbados After Dark?
-heading_title: What Haunts Barbados After Dark?
-page_heading_title: What Haunts Barbados After Dark?
+nav_short_title: "Barbados' Uncanny Folklore"
+title: "Barbados' Uncanny Folklore"
+title_full: "Barbados' Uncanny Folklore"
+display_title_short: "Barbados' Uncanny Folklore"
+display_title: "Barbados' Uncanny Folklore"
+heading_title: "Barbados' Uncanny Folklore"
+page_heading_title: "Barbados' Uncanny Folklore"
 source_count: 103
 infographic_count: 3
 page_website_name: Barbados Folklore

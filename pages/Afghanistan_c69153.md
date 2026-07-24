@@ -209,13 +209,13 @@ description: Afghanistan’s folklore is not a single neat mythology with one pa
 hero_summary: Afghanistan’s folklore is not a single neat mythology with one pantheon and one authorised storybook. It is a living mixture of village storytelling, Persianate epic, Islamic belief, regional languages, shrine traditions, seasonal customs, children’s tales, heroic poetry, jokes, proverbs, animal fables and modern retellings.
 layout: default
 permalink: /afghanistan/
-nav_short_title: What Makes Afghan Folklore So Enduring?
-title: What Makes Afghan Folklore So Enduring?
-title_full: What Makes Afghan Folklore So Enduring?
-display_title_short: What Makes Afghan Folklore So Enduring?
-display_title: What Makes Afghan Folklore So Enduring?
-heading_title: What Makes Afghan Folklore So Enduring?
-page_heading_title: What Makes Afghan Folklore So Enduring?
+nav_short_title: "Enduring Folklore of Afghanistan"
+title: "Enduring Folklore of Afghanistan"
+title_full: "Enduring Folklore of Afghanistan"
+display_title_short: "Enduring Folklore of Afghanistan"
+display_title: "Enduring Folklore of Afghanistan"
+heading_title: "Enduring Folklore of Afghanistan"
+page_heading_title: "Enduring Folklore of Afghanistan"
 source_count: 145
 infographic_count: 3
 page_website_name: Afghan Folklore

@@ -209,13 +209,13 @@ description: Folklore in the Democratic Republic of the Congo is not one single 
 hero_summary: Folklore in the Democratic Republic of the Congo is not one single mythology. It is a wide field of oral stories, sacred objects, forest songs, royal histories, spirit beliefs and modern urban rumours shaped by one of Africa’s largest and most culturally diverse countries.
 layout: default
 permalink: /what-makes-dr-congos-folklore-so-varied/
-nav_short_title: What Makes DR Congo's Folklore So Varied?
-title: What Makes DR Congo's Folklore So Varied?
-title_full: What Makes DR Congo's Folklore So Varied?
-display_title_short: What Makes DR Congo's Folklore So Varied?
-display_title: What Makes DR Congo's Folklore So Varied?
-heading_title: What Makes DR Congo's Folklore So Varied?
-page_heading_title: What Makes DR Congo's Folklore So Varied?
+nav_short_title: "Diverse Folklore of DR Congo"
+title: "Diverse Folklore of DR Congo"
+title_full: "Diverse Folklore of DR Congo"
+display_title_short: "Diverse Folklore of DR Congo"
+display_title: "Diverse Folklore of DR Congo"
+heading_title: "Diverse Folklore of DR Congo"
+page_heading_title: "Diverse Folklore of DR Congo"
 source_count: 128
 infographic_count: 3
 page_website_name: Congo Folklore

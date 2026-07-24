@@ -209,13 +209,13 @@ description: Australian folklore is not one single mythology.
 hero_summary: Australian folklore is not one single mythology. It is a layered field of living First Nations law and story, regional oral traditions, colonial bush legend, ghost lore, tourist retelling, children’s books, museums, festivals and internet-era monsters.
 layout: default
 permalink: /australia/
-nav_short_title: What Makes Australian Folklore So Distinctive?
-title: What Makes Australian Folklore So Distinctive?
-title_full: What Makes Australian Folklore So Distinctive?
-display_title_short: What Makes Australian Folklore So Distinctive?
-display_title: What Makes Australian Folklore So Distinctive?
-heading_title: What Makes Australian Folklore So Distinctive?
-page_heading_title: What Makes Australian Folklore So Distinctive?
+nav_short_title: "Distinctive Folklore of Australia"
+title: "Distinctive Folklore of Australia"
+title_full: "Distinctive Folklore of Australia"
+display_title_short: "Distinctive Folklore of Australia"
+display_title: "Distinctive Folklore of Australia"
+heading_title: "Distinctive Folklore of Australia"
+page_heading_title: "Distinctive Folklore of Australia"
 source_count: 238
 infographic_count: 3
 page_website_name: Australian Folklore

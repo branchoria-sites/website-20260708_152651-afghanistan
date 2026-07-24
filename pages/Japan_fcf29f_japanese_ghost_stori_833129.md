@@ -310,7 +310,7 @@ The influence expanded further through cinema. Masaki Kobayashi’s acclaimed 19
 
 <img src="{{ "/assets/images/Japan_fcf29f_japanese_ghost_stori_833129-Illustration-3-dark.svg" | relative_url }}" alt="Ghosts illustration 3" data-theme-src-dark="{{ "/assets/images/Japan_fcf29f_japanese_ghost_stori_833129-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Japan_fcf29f_japanese_ghost_stori_833129-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Stories Still Matter
+## How Ghosts survived in retelling
 
 The journey from Oiwa to *Kwaidan* shows how Japanese ghost stories have moved across media without losing their emotional core. They began as oral traditions, religious narratives and local legends, passed into theatre, woodblock prints and printed books, and later found new life in film, television and global popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Yotsuya_Kaidan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Yotsuya Kaidan</span><span class="citation-popover-snippet">February 18, 2026 — Yotsuya Kaidan (四谷怪談), the story of Oiwa and Tamiya Iemon, is a tale of betrayal, murder and onryō (a revenant). Uta...</span><span class="citation-popover-meta">Published: February 18, 2026</span></span></span>
 

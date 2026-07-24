@@ -326,7 +326,7 @@ What remains remarkably consistent is the core structure of the story: an arrivi
 
 <img src="{{ "/assets/images/Tuvalu_9a2248_nanumea_names_founda_5423ed-Illustration-3-dark.svg" | relative_url }}" alt="Nanumea illustration 3" data-theme-src-dark="{{ "/assets/images/Tuvalu_9a2248_nanumea_names_founda_5423ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tuvalu_9a2248_nanumea_names_founda_5423ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## What Nanumea preserves for later generations
 
 The story of Tefolaha, Pai and Vau survives because it works on several levels at once. It is a migration tale, a trickster narrative, a genealogy, a land-rights charter and a landscape explanation. Most importantly, it expresses a distinctly Nanumean idea that identity and territory are bound together through memory and naming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://catalogue.nla.gov.au/catalog/3282763" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogue.nla.gov.au">[National Library of Australia Catalogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogue.nla.gov.au</span><span class="citation-popover-snippet">Open source on nla.gov.au.</span></span></span>
 

@@ -209,13 +209,13 @@ description: Uzbekistan’s folklore is not a single mythology with one sacred b
 hero_summary: Uzbekistan’s folklore is not a single mythology with one sacred book or one neat cast of gods. It is a layered tradition shaped by Silk Road cities, Turkic heroic poetry, Persianate storytelling, Islamic pilgrimage, older seasonal rites, mountain village customs and Soviet-era collecting.
 layout: default
 permalink: /uzbekistan/
-nav_short_title: What Makes Uzbek Folklore So Layered?
-title: What Makes Uzbek Folklore So Layered?
-title_full: What Makes Uzbek Folklore So Layered?
-display_title_short: What Makes Uzbek Folklore So Layered?
-display_title: What Makes Uzbek Folklore So Layered?
-heading_title: What Makes Uzbek Folklore So Layered?
-page_heading_title: What Makes Uzbek Folklore So Layered?
+nav_short_title: "Layered Folklore of Uzbekistan"
+title: "Layered Folklore of Uzbekistan"
+title_full: "Layered Folklore of Uzbekistan"
+display_title_short: "Layered Folklore of Uzbekistan"
+display_title: "Layered Folklore of Uzbekistan"
+heading_title: "Layered Folklore of Uzbekistan"
+page_heading_title: "Layered Folklore of Uzbekistan"
 source_count: 102
 infographic_count: 3
 page_website_name: Uzbek Folklore

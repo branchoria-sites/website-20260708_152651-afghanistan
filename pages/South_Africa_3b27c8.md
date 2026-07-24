@@ -209,13 +209,13 @@ description: 'South African folklore is not one tradition but a meeting ground o
 hero_summary: 'South African folklore is not one tradition but a meeting ground of many: San and Khoekhoe oral narratives, Zulu, Xhosa, Sotho, Tswana, Venda and other regional story-worlds, Afrikaans and Cape legends, maritime ghost lore, Christian and African religious ideas, children’s literature, popular music, film and internet retellings.'
 layout: default
 permalink: /south-africa/
-nav_short_title: What Haunts South African Folklore?
-title: What Haunts South African Folklore?
-title_full: What Haunts South African Folklore?
-display_title_short: What Haunts South African Folklore?
-display_title: What Haunts South African Folklore?
-heading_title: What Haunts South African Folklore?
-page_heading_title: What Haunts South African Folklore?
+nav_short_title: "South Africa's Uncanny Folklore"
+title: "South Africa's Uncanny Folklore"
+title_full: "South Africa's Uncanny Folklore"
+display_title_short: "South Africa's Uncanny Folklore"
+display_title: "South Africa's Uncanny Folklore"
+heading_title: "South Africa's Uncanny Folklore"
+page_heading_title: "South Africa's Uncanny Folklore"
 source_count: 212
 infographic_count: 3
 page_website_name: South African Folklore

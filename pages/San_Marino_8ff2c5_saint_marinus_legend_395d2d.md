@@ -302,7 +302,7 @@ Over time, the legend and the liberty motto reinforced one another. The republic
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_saint_marinus_legend_395d2d-Illustration-3-dark.svg" | relative_url }}" alt="Saint Marinus illustration 3" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_saint_marinus_legend_395d2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_saint_marinus_legend_395d2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Still Matters
+## The living legacy of Saint Marinus
 
 Many European countries possess foundation legends, but few have one so closely woven into modern state identity. Saint Marinus remains simultaneously a religious figure, a legendary culture hero, and the symbolic ancestor of the republic. His feast day on 3 September is also San Marino’s national day, illustrating how civic and sacred memory continue to overlap.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saint_Marinus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Saint Marinus</span><span class="citation-popover-snippet">Saint Marinus</span></span></span>
 

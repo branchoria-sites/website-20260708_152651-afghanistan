@@ -298,7 +298,7 @@ The result is a form of cultural survival rather than public revival. Folk belie
 
 <img src="{{ "/assets/images/North_Korea_ccbbbb_shamanic_spirits_bel_8ad184-Illustration-3-dark.svg" | relative_url }}" alt="Spirits illustration 3" data-theme-src-dark="{{ "/assets/images/North_Korea_ccbbbb_shamanic_spirits_bel_8ad184-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Korea_ccbbbb_shamanic_spirits_bel_8ad184-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Traditions Matter
+## The living legacy of Spirits
 
 Shamanic spirits and private supernatural beliefs offer a rare glimpse into parts of North Korean culture that are difficult to see through official narratives alone. They reveal continuity with the broader Korean past, including ideas about ancestors, wandering souls, household protection and journeys to the afterlife. They also show that folklore is often remarkably adaptable. Stories such as Princess Bari survived centuries of political and religious change, while quieter beliefs about ghosts, fortune and spirits continued to circulate even under a state committed to eliminating them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Korean_mythology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Korean mythology</span><span class="citation-popover-snippet">Korean mythology</span></span></span>
 

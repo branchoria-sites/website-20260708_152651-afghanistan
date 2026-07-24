@@ -209,13 +209,13 @@ description: Sierra Leone’s folklore is not a single myth cycle with one natio
 hero_summary: Sierra Leone’s folklore is not a single myth cycle with one national pantheon. It is a living mix of oral storytelling, initiation societies, masked performance, ancestral and water-spirit belief, Islamic and Christian influence, Krio urban culture, and modern public heritage work.
 layout: default
 permalink: /what-makes-sierra-leones-folklore-so/
-nav_short_title: What Makes Sierra Leone's Folklore So Distinctive?
-title: What Makes Sierra Leone's Folklore So Distinctive?
-title_full: What Makes Sierra Leone's Folklore So Distinctive?
-display_title_short: What Makes Sierra Leone's Folklore So Distinctive?
-display_title: What Makes Sierra Leone's Folklore So Distinctive?
-heading_title: What Makes Sierra Leone's Folklore So Distinctive?
-page_heading_title: What Makes Sierra Leone's Folklore So Distinctive?
+nav_short_title: "Distinctive Folklore of Sierra Leone"
+title: "Distinctive Folklore of Sierra Leone"
+title_full: "Distinctive Folklore of Sierra Leone"
+display_title_short: "Distinctive Folklore of Sierra Leone"
+display_title: "Distinctive Folklore of Sierra Leone"
+heading_title: "Distinctive Folklore of Sierra Leone"
+page_heading_title: "Distinctive Folklore of Sierra Leone"
 source_count: 119
 infographic_count: 3
 page_website_name: Sierra Leone Folklore

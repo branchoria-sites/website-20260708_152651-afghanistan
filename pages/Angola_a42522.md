@@ -209,13 +209,13 @@ description: Angola’s folklore is best understood not as a single national myt
 hero_summary: Angola’s folklore is best understood not as a single national mythology, but as a living field of oral stories, ancestral beliefs, spirit traditions, masquerades, sacred landscapes and modern retellings shaped by many peoples and languages.
 layout: default
 permalink: /what-makes-angolas-folklore-so-many/
-nav_short_title: What Makes Angola's Folklore So Many Sided?
-title: What Makes Angola's Folklore So Many Sided?
-title_full: What Makes Angola's Folklore So Many Sided?
-display_title_short: What Makes Angola's Folklore So Many Sided?
-display_title: What Makes Angola's Folklore So Many Sided?
-heading_title: What Makes Angola's Folklore So Many Sided?
-page_heading_title: What Makes Angola's Folklore So Many Sided?
+nav_short_title: "Many-Sided Folklore of Angola"
+title: "Many-Sided Folklore of Angola"
+title_full: "Many-Sided Folklore of Angola"
+display_title_short: "Many-Sided Folklore of Angola"
+display_title: "Many-Sided Folklore of Angola"
+heading_title: "Many-Sided Folklore of Angola"
+page_heading_title: "Many-Sided Folklore of Angola"
 source_count: 145
 infographic_count: 3
 page_website_name: Angola Folklore

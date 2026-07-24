@@ -209,13 +209,13 @@ description: Kuwait’s folklore is best understood as the story-world of a coun
 hero_summary: Kuwait’s folklore is best understood as the story-world of a country balanced between desert, town and sea.
 layout: default
 permalink: /what-haunts-kuwaits-folklore/
-nav_short_title: What Haunts Kuwait's Folklore?
-title: What Haunts Kuwait's Folklore?
-title_full: What Haunts Kuwait's Folklore?
-display_title_short: What Haunts Kuwait's Folklore?
-display_title: What Haunts Kuwait's Folklore?
-heading_title: What Haunts Kuwait's Folklore?
-page_heading_title: What Haunts Kuwait's Folklore?
+nav_short_title: "Haunting Traditions of Kuwait"
+title: "Haunting Traditions of Kuwait"
+title_full: "Haunting Traditions of Kuwait"
+display_title_short: "Haunting Traditions of Kuwait"
+display_title: "Haunting Traditions of Kuwait"
+heading_title: "Haunting Traditions of Kuwait"
+page_heading_title: "Haunting Traditions of Kuwait"
 source_count: 145
 infographic_count: 3
 page_website_name: Kuwait Folklore

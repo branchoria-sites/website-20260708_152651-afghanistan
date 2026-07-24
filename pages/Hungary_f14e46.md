@@ -209,13 +209,13 @@ description: Hungarian folklore is not a single ancient “mythology book” wai
 hero_summary: Hungarian folklore is not a single ancient “mythology book” waiting to be decoded. It is a layered tradition made from medieval origin legends, village belief stories, witches and healers remembered in court records, seasonal customs, children’s tales, folk song and dance, and modern revivals.
 layout: default
 permalink: /hungary/
-nav_short_title: What Makes Hungarian Folklore So Layered?
-title: What Makes Hungarian Folklore So Layered?
-title_full: What Makes Hungarian Folklore So Layered?
-display_title_short: What Makes Hungarian Folklore So Layered?
-display_title: What Makes Hungarian Folklore So Layered?
-heading_title: What Makes Hungarian Folklore So Layered?
-page_heading_title: What Makes Hungarian Folklore So Layered?
+nav_short_title: "Layered Folklore of Hungary"
+title: "Layered Folklore of Hungary"
+title_full: "Layered Folklore of Hungary"
+display_title_short: "Layered Folklore of Hungary"
+display_title: "Layered Folklore of Hungary"
+heading_title: "Layered Folklore of Hungary"
+page_heading_title: "Layered Folklore of Hungary"
 source_count: 120
 infographic_count: 3
 page_website_name: Hungarian Folklore

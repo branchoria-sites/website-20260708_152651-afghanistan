@@ -209,13 +209,13 @@ description: Liberian folklore is best understood as a living mix of oral storyt
 hero_summary: Liberian folklore is best understood as a living mix of oral storytelling, masked performance, initiation traditions, sacred landscapes and regional West African spirit beliefs rather than as one single national mythology.
 layout: default
 permalink: /liberia/
-nav_short_title: What Makes Liberian Folklore So Alive?
-title: What Makes Liberian Folklore So Alive?
-title_full: What Makes Liberian Folklore So Alive?
-display_title_short: What Makes Liberian Folklore So Alive?
-display_title: What Makes Liberian Folklore So Alive?
-heading_title: What Makes Liberian Folklore So Alive?
-page_heading_title: What Makes Liberian Folklore So Alive?
+nav_short_title: "Living Folklore of Liberia"
+title: "Living Folklore of Liberia"
+title_full: "Living Folklore of Liberia"
+display_title_short: "Living Folklore of Liberia"
+display_title: "Living Folklore of Liberia"
+heading_title: "Living Folklore of Liberia"
+page_heading_title: "Living Folklore of Liberia"
 source_count: 100
 infographic_count: 3
 page_website_name: Liberian Folklore

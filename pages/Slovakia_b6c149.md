@@ -209,13 +209,13 @@ description: Slovakia’s folklore is not a single “mythology” with one sacr
 hero_summary: Slovakia’s folklore is not a single “mythology” with one sacred book or fixed cast of gods. It is a living mixture of oral tales, seasonal customs, mountain music, folk religion, village craft, castle legends, outlaw hero stories and later literary retellings.
 layout: default
 permalink: /slovakia/
-nav_short_title: What Makes Slovak Folklore So Distinctive?
-title: What Makes Slovak Folklore So Distinctive?
-title_full: What Makes Slovak Folklore So Distinctive?
-display_title_short: What Makes Slovak Folklore So Distinctive?
-display_title: What Makes Slovak Folklore So Distinctive?
-heading_title: What Makes Slovak Folklore So Distinctive?
-page_heading_title: What Makes Slovak Folklore So Distinctive?
+nav_short_title: "Distinctive Folklore of Slovakia"
+title: "Distinctive Folklore of Slovakia"
+title_full: "Distinctive Folklore of Slovakia"
+display_title_short: "Distinctive Folklore of Slovakia"
+display_title: "Distinctive Folklore of Slovakia"
+heading_title: "Distinctive Folklore of Slovakia"
+page_heading_title: "Distinctive Folklore of Slovakia"
 source_count: 197
 infographic_count: 3
 page_website_name: Slovak Folklore

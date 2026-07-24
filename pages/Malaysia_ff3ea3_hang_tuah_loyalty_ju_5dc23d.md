@@ -332,7 +332,7 @@ The debate has become so familiar that many Malaysians encounter the names Hang 
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3_hang_tuah_loyalty_ju_5dc23d-Illustration-3-dark.svg" | relative_url }}" alt="Hang Tuah illustration 3" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3_hang_tuah_loyalty_ju_5dc23d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3_hang_tuah_loyalty_ju_5dc23d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Still Matters
+## What Hang Tuah preserves for later generations
 
 Many heroic legends celebrate victory. The story of Hang Tuah endures because it centres on loss. A ruler makes a mistake. A friendship is destroyed. Two honourable men reach opposite conclusions about what loyalty demands.
 

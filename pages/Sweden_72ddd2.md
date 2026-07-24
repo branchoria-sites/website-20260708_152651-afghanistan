@@ -209,13 +209,13 @@ description: 'Swedish folklore is best understood as a living map of relationshi
 hero_summary: 'Swedish folklore is best understood as a living map of relationships: between farm and forest, people and animals, water and music, Christian teaching and older popular belief, local memory and modern retelling.'
 layout: default
 permalink: /sweden/
-nav_short_title: What Makes Swedish Folklore So Unsettling?
-title: What Makes Swedish Folklore So Unsettling?
-title_full: What Makes Swedish Folklore So Unsettling?
-display_title_short: What Makes Swedish Folklore So Unsettling?
-display_title: What Makes Swedish Folklore So Unsettling?
-heading_title: What Makes Swedish Folklore So Unsettling?
-page_heading_title: What Makes Swedish Folklore So Unsettling?
+nav_short_title: "Unsettling Folklore of Sweden"
+title: "Unsettling Folklore of Sweden"
+title_full: "Unsettling Folklore of Sweden"
+display_title_short: "Unsettling Folklore of Sweden"
+display_title: "Unsettling Folklore of Sweden"
+heading_title: "Unsettling Folklore of Sweden"
+page_heading_title: "Unsettling Folklore of Sweden"
 source_count: 30
 infographic_count: 3
 page_website_name: Swedish Folklore

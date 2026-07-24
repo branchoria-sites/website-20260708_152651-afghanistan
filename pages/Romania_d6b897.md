@@ -209,13 +209,13 @@ description: Romanian folklore is best understood as a living mix of village rit
 hero_summary: Romanian folklore is best understood as a living mix of village ritual, Christian feast days, pastoral ballads, forest spirits, fairy-tale monsters, ghost beliefs and later literary reinventions.
 layout: default
 permalink: /what-haunts-romania-beyond-dracula/
-nav_short_title: What Haunts Romania Beyond Dracula?
-title: What Haunts Romania Beyond Dracula?
-title_full: What Haunts Romania Beyond Dracula?
-display_title_short: What Haunts Romania Beyond Dracula?
-display_title: What Haunts Romania Beyond Dracula?
-heading_title: What Haunts Romania Beyond Dracula?
-page_heading_title: What Haunts Romania Beyond Dracula?
+nav_short_title: "Dark Tales and Living Folklore from Romania"
+title: "Dark Tales and Living Folklore from Romania"
+title_full: "Dark Tales and Living Folklore from Romania"
+display_title_short: "Dark Tales and Living Folklore from Romania"
+display_title: "Dark Tales and Living Folklore from Romania"
+heading_title: "Dark Tales and Living Folklore from Romania"
+page_heading_title: "Dark Tales and Living Folklore from Romania"
 source_count: 155
 infographic_count: 3
 page_website_name: Romanian Folklore

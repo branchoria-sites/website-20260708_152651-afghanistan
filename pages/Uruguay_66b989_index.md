@@ -1,6 +1,6 @@
 ---
-title: What Haunts and Sustains Uruguay's Folklore? Sub-Topic Index
-title_full: What Haunts and Sustains Uruguay's Folklore? Sub-Topic Index
+title: "Haunting Traditions of Uruguay Sub-Topic Index"
+title_full: "Haunting Traditions of Uruguay Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

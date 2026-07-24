@@ -306,7 +306,7 @@ The persistence of these ideas can still be seen today. Modern accounts of glaci
 
 <img src="{{ "/assets/images/Switzerland_77dcd8_alpine_supernatural_e8d511-Illustration-3-dark.svg" | relative_url }}" alt="Haunted Alps illustration 3" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8_alpine_supernatural_e8d511-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8_alpine_supernatural_e8d511-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Stories Still Matter
+## Haunted Alps in cultural memory
 
 The Devil’s Bridge, the dragons of Pilatus and the legends of cursed Alpine places remain among the most recognisable supernatural traditions in Switzerland because they are inseparable from real locations. Visitors can stand in the Schöllenen Gorge, look up at Mount Pilatus or walk through valleys where stories of haunted glaciers and mysterious pastures were told for generations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.myswitzerland.com/en/experiences/schoellenen-gorge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myswitzerland.com">[myswitzerland.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myswitzerland.com</span><span class="citation-popover-snippet">Switzerland TourismSchöllenen GorgeAccording to legend, the devil himself is said to have helped build the bridge. A monument commemorate...</span></span></span>
 

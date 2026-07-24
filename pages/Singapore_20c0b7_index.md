@@ -1,6 +1,6 @@
 ---
-title: What Haunts Singapore's Storied Map? Sub-Topic Index
-title_full: What Haunts Singapore's Storied Map? Sub-Topic Index
+title: "Singapore's Uncanny Folklore Sub-Topic Index"
+title_full: "Singapore's Uncanny Folklore Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

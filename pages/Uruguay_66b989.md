@@ -209,13 +209,13 @@ description: Uruguay’s folklore is not a single, ancient national mythology wi
 hero_summary: Uruguay’s folklore is not a single, ancient national mythology with one fixed pantheon. It is a layered tradition shaped by Indigenous memory, rural gaucho storytelling, Afro-Uruguayan ritual and music, Catholic imagery, borderland exchange with Argentina, Brazil and Paraguay, and modern heritage politics.
 layout: default
 permalink: /what-haunts-and-sustains-uruguays/
-nav_short_title: What Haunts and Sustains Uruguay's Folklore?
-title: What Haunts and Sustains Uruguay's Folklore?
-title_full: What Haunts and Sustains Uruguay's Folklore?
-display_title_short: What Haunts and Sustains Uruguay's Folklore?
-display_title: What Haunts and Sustains Uruguay's Folklore?
-heading_title: What Haunts and Sustains Uruguay's Folklore?
-page_heading_title: What Haunts and Sustains Uruguay's Folklore?
+nav_short_title: "Haunting Traditions of Uruguay"
+title: "Haunting Traditions of Uruguay"
+title_full: "Haunting Traditions of Uruguay"
+display_title_short: "Haunting Traditions of Uruguay"
+display_title: "Haunting Traditions of Uruguay"
+heading_title: "Haunting Traditions of Uruguay"
+page_heading_title: "Haunting Traditions of Uruguay"
 source_count: 174
 infographic_count: 3
 page_website_name: Uruguay Folklore

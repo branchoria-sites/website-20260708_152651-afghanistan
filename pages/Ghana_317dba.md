@@ -209,13 +209,13 @@ description: Ghana’s folklore is not a single mythology with one fixed canon.
 hero_summary: Ghana’s folklore is not a single mythology with one fixed canon. It is a living patchwork of oral stories, sacred places, festival traditions, proverbs, spirit beliefs, witchcraft fears, children’s tales, theatre, school texts, museum objects and modern cultural revival.
 layout: default
 permalink: /ghana/
-nav_short_title: What Makes Ghanaian Folklore Still Feel Alive?
-title: What Makes Ghanaian Folklore Still Feel Alive?
-title_full: What Makes Ghanaian Folklore Still Feel Alive?
-display_title_short: What Makes Ghanaian Folklore Still Feel Alive?
-display_title: What Makes Ghanaian Folklore Still Feel Alive?
-heading_title: What Makes Ghanaian Folklore Still Feel Alive?
-page_heading_title: What Makes Ghanaian Folklore Still Feel Alive?
+nav_short_title: "Living Folklore of Ghana"
+title: "Living Folklore of Ghana"
+title_full: "Living Folklore of Ghana"
+display_title_short: "Living Folklore of Ghana"
+display_title: "Living Folklore of Ghana"
+heading_title: "Living Folklore of Ghana"
+page_heading_title: "Living Folklore of Ghana"
 source_count: 268
 infographic_count: 3
 page_website_name: Ghana Folklore

@@ -1,6 +1,6 @@
 ---
-title: What Haunts Dominican Republic Folklore? Sub-Topic Index
-title_full: What Haunts Dominican Republic Folklore? Sub-Topic Index
+title: "Haunting Traditions of Dominican Republic Sub-Topic Index"
+title_full: "Haunting Traditions of Dominican Republic Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

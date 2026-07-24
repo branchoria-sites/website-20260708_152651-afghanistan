@@ -317,7 +317,7 @@ Some islands also acquired reputations as homes of supernatural beings. Folklore
 
 <img src="{{ "/assets/images/Marshall_Islands_ccbdc0_reefs_giants_monster_c99c3d-Illustration-3-dark.svg" | relative_url }}" alt="Sea Monsters illustration 3" data-theme-src-dark="{{ "/assets/images/Marshall_Islands_ccbdc0_reefs_giants_monster_c99c3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Marshall_Islands_ccbdc0_reefs_giants_monster_c99c3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Stories Still Matter
+## What Sea Monsters preserves for later generations
 
 Today, Marshallese people live in a world shaped by Christianity, modern education, migration and global communication. Yet traditional stories remain important cultural landmarks. Projects that record elders' narratives have preserved accounts linking monsters, reefs and named atolls, ensuring that these traditions remain accessible to younger generations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infomarshallislands.com/marshall-islands-story-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infomarshallislands.com">[Marshall Islands Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infomarshallislands.com</span><span class="citation-popover-snippet">Marshall Islands GuideMarshall Islands Story ProjectAugust 7, 2017 — Beran Island in Ailinglaplap is the capital of surfing in the Marsha...</span><span class="citation-popover-meta">Published: August 7, 2017</span></span></span>
 

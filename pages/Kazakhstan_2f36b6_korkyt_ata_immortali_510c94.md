@@ -332,7 +332,7 @@ The legend's survival is also reinforced through music festivals, cultural progr
 
 <img src="{{ "/assets/images/Kazakhstan_2f36b6_korkyt_ata_immortali_510c94-Illustration-3-dark.svg" | relative_url }}" alt="Korkyt Ata illustration 3" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6_korkyt_ata_immortali_510c94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6_korkyt_ata_immortali_510c94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Still Matters
+## How Korkyt Ata survived in retelling
 
 Many folklore heroes defeat enemies, discover treasure or perform miracles. Korkyt Ata faces a more difficult opponent: the certainty of death. His story remains compelling because it refuses to offer a magical escape. Instead, it presents a different answer. Human life is finite, but creativity, music and cultural memory can endure long after an individual is gone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dialnet.unirioja.es/descarga/articulo/8172744.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dialnet.unirioja.es">[Dialnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dialnet.unirioja.es</span><span class="citation-popover-snippet">One historical truth in the korkyt legendby R Alimbekov · 2019 · Cited by 8 — The main idea in the myth about Korkyt Ata is Who li...</span></span></span>
 

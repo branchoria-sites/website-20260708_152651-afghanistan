@@ -209,13 +209,13 @@ description: Folklore in the Dominican Republic is not a single, tidy mythology.
 hero_summary: Folklore in the Dominican Republic is not a single, tidy mythology. It is a living mix of mountain spirits, shapeshifters, saint festivals, carnival devils, old Taíno sacred landscapes, African-derived ritual music, Catholic devotion, rural cautionary tales and modern literary reinvention.
 layout: default
 permalink: /what-haunts-dominican-republic-folklore/
-nav_short_title: What Haunts Dominican Republic Folklore?
-title: What Haunts Dominican Republic Folklore?
-title_full: What Haunts Dominican Republic Folklore?
-display_title_short: What Haunts Dominican Republic Folklore?
-display_title: What Haunts Dominican Republic Folklore?
-heading_title: What Haunts Dominican Republic Folklore?
-page_heading_title: What Haunts Dominican Republic Folklore?
+nav_short_title: "Haunting Traditions of Dominican Republic"
+title: "Haunting Traditions of Dominican Republic"
+title_full: "Haunting Traditions of Dominican Republic"
+display_title_short: "Haunting Traditions of Dominican Republic"
+display_title: "Haunting Traditions of Dominican Republic"
+heading_title: "Haunting Traditions of Dominican Republic"
+page_heading_title: "Haunting Traditions of Dominican Republic"
 source_count: 118
 infographic_count: 3
 page_website_name: Dominican Folklore

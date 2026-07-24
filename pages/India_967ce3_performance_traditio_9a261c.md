@@ -325,7 +325,7 @@ Scholars and museums often describe the phad as a portable sacred space because 
 
 <img src="{{ "/assets/images/India_967ce3_performance_traditio_9a261c-Illustration-3-dark.svg" | relative_url }}" alt="Performance illustration 3" data-theme-src-dark="{{ "/assets/images/India_967ce3_performance_traditio_9a261c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_performance_traditio_9a261c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Traditions Still Matter
+## Performance in cultural memory
 
 Ramlila, Ramman and the Pabuji epic reveal a side of Indian folklore that cannot be understood through texts alone. Their importance lies in performance: people gathering, listening, singing, acting and remembering together. The stories survive because communities repeatedly bring them into public life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ich.unesco.org/en/RL/ramlila-the-traditional-performance-of-the-ramayana-00110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ich.unesco.org">[UNESCO Intangible Cultural Heritage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ich.unesco.org</span><span class="citation-popover-snippet">UNESCO Intangible Cultural HeritageRamlila, the traditional performance of the RamayanaRamlila, literally “Rama&#x27;s play”, is a performance...</span></span></span>
 

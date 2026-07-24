@@ -209,13 +209,13 @@ description: Qatar’s folklore is a culture of sea, desert, family memory and m
 hero_summary: Qatar’s folklore is a culture of sea, desert, family memory and moral storytelling.
 layout: default
 permalink: /what-haunts-qatars-storytelling/
-nav_short_title: What Haunts Qatar's Storytelling Imagination?
-title: What Haunts Qatar's Storytelling Imagination?
-title_full: What Haunts Qatar's Storytelling Imagination?
-display_title_short: What Haunts Qatar's Storytelling Imagination?
-display_title: What Haunts Qatar's Storytelling Imagination?
-heading_title: What Haunts Qatar's Storytelling Imagination?
-page_heading_title: What Haunts Qatar's Storytelling Imagination?
+nav_short_title: "Qatar's Uncanny Folklore"
+title: "Qatar's Uncanny Folklore"
+title_full: "Qatar's Uncanny Folklore"
+display_title_short: "Qatar's Uncanny Folklore"
+display_title: "Qatar's Uncanny Folklore"
+heading_title: "Qatar's Uncanny Folklore"
+page_heading_title: "Qatar's Uncanny Folklore"
 source_count: 111
 infographic_count: 3
 page_website_name: Qatar Folklore

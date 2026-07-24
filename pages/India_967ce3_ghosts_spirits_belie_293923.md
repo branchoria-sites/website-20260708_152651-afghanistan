@@ -302,7 +302,7 @@ This transformation helps explain why Indian ghost lore often resists simple cat
 
 <img src="{{ "/assets/images/India_967ce3_ghosts_spirits_belie_293923-Illustration-3-dark.svg" | relative_url }}" alt="Ghost Lore illustration 3" data-theme-src-dark="{{ "/assets/images/India_967ce3_ghosts_spirits_belie_293923-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3_ghosts_spirits_belie_293923-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Stories Endure
+## What Ghost Lore preserves for later generations
 
 Ghost stories remain popular in India through oral storytelling, local festivals, television, films and online folklore, yet their survival is not simply a matter of entertainment. They continue because they address enduring concerns: how to treat the dead, how communities remember injustice, how landscapes acquire meaning, and how ordinary people explain misfortune or danger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/98427454/The_Vengeful_Spirit_Chudail_Oral_Traditions_and_the_Archaeology_of_Folklore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chudail, Oral Traditions and the Archaeology of FolkloreThe paper explores oral traditions and folklore surrounding the chudail i...</span></span></span>
 

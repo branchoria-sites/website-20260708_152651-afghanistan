@@ -1294,7 +1294,7 @@ The evidence remains uneven, and that is worth saying plainly. Bahamian folklore
 
 <img src="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-dark.svg" | relative_url }}" alt="The Bahamas illustration 3" data-theme-src-dark="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these stories still matter
+## What The Bahamas' folklore preserves for later generations
 
 Bahamian folklore matters because it gives emotional shape to a country made of islands, water, forests, migration and memory. It teaches caution around dangerous places, preserves comic intelligence in trickster tales, keeps alive debates over spiritual power and healing, and turns public celebration into national identity. It also reminds readers that folklore is not frozen in the past. In The Bahamas, old story forms continue to change through conservation, tourism, literature, law, popular media and cultural pride.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.guanimacreative.com/aneveninginguanima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guanimacreative.com">[guanimacreative.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guanimacreative.com</span><span class="citation-popover-snippet">Open source on guanimacreative.com.</span></span></span>
 
