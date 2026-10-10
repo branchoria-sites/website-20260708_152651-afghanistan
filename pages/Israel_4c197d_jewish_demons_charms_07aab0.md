@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Israel_4c197d_jewish_demons_charms_07aab0
 parent_basename: Israel_4c197d

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Tajikistan_279c77_gurughli_epic_107c1c
 parent_basename: Tajikistan_279c77

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Bosnia_and_Herzegovi_552c9f_sacred_landscapes_le_80a2ab
 parent_basename: Bosnia_and_Herzegovi_552c9f

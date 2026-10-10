@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Solomon_Islands_6f943d_sacred_places_kastom_015eb0
 parent_basename: Solomon_Islands_6f943d

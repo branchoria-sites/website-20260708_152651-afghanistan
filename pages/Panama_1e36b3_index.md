@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 title: Why Panama's Legends Still Haunt the Isthmus Sub-Topic Index
 title_full: Why Panama's Legends Still Haunt the Isthmus Sub-Topic Index
 display_title: Sub-Topic Index

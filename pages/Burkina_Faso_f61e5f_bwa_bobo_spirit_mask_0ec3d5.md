@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Burkina_Faso_f61e5f_bwa_bobo_spirit_mask_0ec3d5
 parent_basename: Burkina_Faso_f61e5f

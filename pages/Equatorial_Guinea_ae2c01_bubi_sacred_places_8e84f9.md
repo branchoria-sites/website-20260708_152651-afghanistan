@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Equatorial_Guinea_ae2c01_bubi_sacred_places_8e84f9
 parent_basename: Equatorial_Guinea_ae2c01

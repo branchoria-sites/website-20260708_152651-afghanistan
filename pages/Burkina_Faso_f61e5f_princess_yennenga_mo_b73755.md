@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Burkina_Faso_f61e5f_princess_yennenga_mo_b73755
 parent_basename: Burkina_Faso_f61e5f

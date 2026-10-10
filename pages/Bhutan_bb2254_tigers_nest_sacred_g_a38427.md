@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Bhutan_bb2254_tigers_nest_sacred_g_a38427
 parent_basename: Bhutan_bb2254

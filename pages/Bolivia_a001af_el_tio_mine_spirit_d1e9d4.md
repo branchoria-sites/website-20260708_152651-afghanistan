@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Bolivia_a001af_el_tio_mine_spirit_d1e9d4
 parent_basename: Bolivia_a001af

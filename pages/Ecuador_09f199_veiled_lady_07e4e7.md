@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Ecuador_09f199_veiled_lady_07e4e7
 parent_basename: Ecuador_09f199

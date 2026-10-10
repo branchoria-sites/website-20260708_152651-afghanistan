@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Afghanistan_c69153_sacred_landscapes_d90401
 parent_basename: Afghanistan_c69153

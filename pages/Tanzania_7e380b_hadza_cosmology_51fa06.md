@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:27:09'
 level: 2
 basename: Tanzania_7e380b_hadza_cosmology_51fa06
 parent_basename: Tanzania_7e380b

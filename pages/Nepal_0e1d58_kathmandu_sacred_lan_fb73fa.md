@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-24 21:33:58'
 level: 2
 basename: Nepal_0e1d58_kathmandu_sacred_lan_fb73fa
 parent_basename: Nepal_0e1d58
