@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Kyrgyzstan_c78791_spirits_protection_e07327
 parent_basename: Kyrgyzstan_c78791

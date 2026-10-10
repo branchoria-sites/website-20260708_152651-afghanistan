@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:27:09'
 level: 2
 basename: Israel_4c197d_sacred_landscapes_d90401
 parent_basename: Israel_4c197d

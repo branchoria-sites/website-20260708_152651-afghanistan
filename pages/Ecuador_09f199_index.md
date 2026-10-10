@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 title: Why Ecuador's Legends Still Haunt Place Sub-Topic Index
 title_full: Why Ecuador's Legends Still Haunt Place Sub-Topic Index
 display_title: Sub-Topic Index

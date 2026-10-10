@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:27:09'
 level: 2
 basename: Myanmar_928b7c_shwedagon_foundation_e5abfc
 parent_basename: Myanmar_928b7c

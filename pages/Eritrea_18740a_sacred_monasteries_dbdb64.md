@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Eritrea_18740a_sacred_monasteries_dbdb64
 parent_basename: Eritrea_18740a

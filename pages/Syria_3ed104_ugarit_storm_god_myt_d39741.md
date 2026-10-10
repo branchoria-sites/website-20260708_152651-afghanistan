@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:27:09'
 level: 2
 basename: Syria_3ed104_ugarit_storm_god_myt_d39741
 parent_basename: Syria_3ed104

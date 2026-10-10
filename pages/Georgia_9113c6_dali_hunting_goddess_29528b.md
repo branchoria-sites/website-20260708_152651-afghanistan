@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Georgia_9113c6_dali_hunting_goddess_29528b
 parent_basename: Georgia_9113c6

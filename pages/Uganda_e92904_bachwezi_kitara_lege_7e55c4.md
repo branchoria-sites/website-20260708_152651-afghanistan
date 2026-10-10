@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Uganda_e92904_bachwezi_kitara_lege_7e55c4
 parent_basename: Uganda_e92904

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Mozambique_a40a9b_sacred_landscapes_xa_3a05b1
 parent_basename: Mozambique_a40a9b

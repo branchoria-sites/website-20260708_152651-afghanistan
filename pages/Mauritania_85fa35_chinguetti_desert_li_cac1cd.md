@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:47:53'
 level: 2
 basename: Mauritania_85fa35_chinguetti_desert_li_cac1cd
 parent_basename: Mauritania_85fa35

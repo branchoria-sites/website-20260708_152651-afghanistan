@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Namibia_bfe79d_mantis_animal_signs_f67a38
 parent_basename: Namibia_bfe79d

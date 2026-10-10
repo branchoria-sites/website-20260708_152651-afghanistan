@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-08 15:43:20'
 level: 2
 basename: Liechtenstein_b0ddce_walser_legends_trail_47c271
 parent_basename: Liechtenstein_b0ddce
